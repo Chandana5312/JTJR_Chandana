@@ -28,3 +28,4 @@ tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
 nest-asyncio==1.6.0
+python-dotenv==1.0.1
