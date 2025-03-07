@@ -42,8 +42,8 @@ st.markdown(f"""
     """, unsafe_allow_html = True)
 
 Certified_flow = st.radio("**Select the Flow:**",["Single Mapping",  "Bulk Mapping"],horizontal = True)
-st.write("-")
-st.write("-")
+st.write(" ")
+st.write(" ")
 
 col1,col2 = st.columns([3,3])
 
