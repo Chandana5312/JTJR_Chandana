@@ -42,8 +42,8 @@ st.markdown(f"""
     """, unsafe_allow_html = True)
 
 Certified_flow = st.radio("**Select the Flow:**",["Single Mapping",  "Bulk Mapping"],horizontal = True)
-st.write("  ")
-st.write("  ")
+st.write("-")
+st.write("-")
 
 col1,col2 = st.columns([3,3])
 
@@ -145,7 +145,7 @@ if Certified_flow == "Bulk Mapping":
         st.markdown("**Apply Filters:**")
         df = pd.DataFrame(st.session_state.processed_results)
         
-        raw_file_path = "results//all_raw_results.csv"
+        raw_file_path = "results/all_raw_results.csv"
         if not os.path.exists(raw_file_path):
             df.to_csv(raw_file_path)
 
@@ -225,7 +225,7 @@ if Certified_flow == "Bulk Mapping":
         }, inplace=True) 
         # st.dataframe(df,height = 200,hide_index = True)
         edited_df = st.data_editor(df_renamed, key = "table_editor", num_rows = "dynamic", disabled = ["Job Title","Lead ID", "Job Role", "Seniority", "Confidence Score", "Language","Valid JT", "Marketing Audience", "Function"], hide_index = True,width = 1800)
-        validated_file_path = "results//validated_results.csv"
+        validated_file_path = "results/validated_results.csv"
         # if not os.path.exists(validated_file_path):
         validated_df = edited_df[edited_df["Certified"].fillna(False)]
         validated_df.to_csv(validated_file_path)
