@@ -18,12 +18,13 @@ class BestJobRoleFinder():
     def generate_description(self, job_entry):
         job_title = job_entry['job title']
 
-        ls_job_title = job_entry['LS Title']
-        ls_company = job_entry['LS Company']
-        ls_job_functions = job_entry['LS Job Functions']
-        ls_company_industry = job_entry['LS Company Industry']
-        ls_lead_department = job_entry['LS Lead Department']
-        combined_text = f"{job_title}. LS Title: {ls_job_title}. LS Company: {ls_company}. LS Job Functions: {ls_job_functions}. LS Company Industry: {ls_company_industry}. LS Lead Department: {ls_lead_department}."
+        ls_job_title = f"LS Title: {job_entry['LS Title']}." if len(job_entry['LS Title']) > 1 else ""
+        ls_company = f"Company: {job_entry['LS Company']}." if len(job_entry['LS Company']) > 1 else ""
+        ls_job_functions = f"Job Functions: {job_entry['LS Job Functions']}." if len(job_entry['LS Job Functions']) > 1 else ""
+        ls_company_industry = f"Company Industry: {job_entry['LS Company Industry']}." if len(job_entry['LS Company Industry']) > 1 else ""
+        ls_lead_department = f"Lead Department: {job_entry['LS Lead Department']}." if len(job_entry['LS Lead Department']) > 1 else ""
+
+        combined_text = f"Job Title: {job_title}. {ls_company} {ls_job_functions} {ls_company_industry} {ls_lead_department}"
  
         ## INCLUDE LS PROMPT
         headers = {
@@ -33,7 +34,7 @@ class BestJobRoleFinder():
         data = {
             "model": os.getenv("AZURE_OPENAI_GPT_MODEL"),
             "messages": [
-                {"role": "user", "content": f"Generate a list of key responsibilities for the job role, focusing solely on the main tasks and functions. Do not include any information about the company, location, or qualifications. Provide the response in a paragraph format. Be consice and accurate. If the role does not make sense, provide response accordingly saying the word or role does not makes sense: \n{combined_text}"}
+                {"role": "user", "content": f"""Generate a list of key responsibilities for the job role, focusing solely on the main tasks and functions. Do not include any information about the company, location, or qualifications. Provide the response in a paragraph format. Be consice and accurate. If the role does not make sense, provide response accordingly saying the word or role does not makes sense. \n{combined_text}"""}
             ],
             "temperature":0.01
         }
@@ -89,9 +90,9 @@ class BestJobRoleFinder():
                 B. Medium Confidence (0.5-0.79): Partial match or ambiguity in the role, no seniority.
                 C. Low Confidence (0-0.49): Weak match, requiring human review.
 
-                user provided job title:
-                {job_entry['job title']} /  {job_entry['LS Title']} 
-                
+                user provided job title: {job_entry['job title']}  
+                alternate title : {job_entry['LS Title']}
+
                 standard job roles:
                  {top_n_jr_list}
 

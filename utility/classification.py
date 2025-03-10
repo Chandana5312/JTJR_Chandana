@@ -41,6 +41,7 @@ class JobTitleClassification:
         ### NEED TO PASS DICT HERE
         # job_title = job_entry['input_job_title']
         job_title = job_entry['translated_job_title']
+        ls_title = job_entry['LS Title']
  
         prompt=f"""You are given a job title entered by a user. Your task is to determine whether the given job title is valid or invalid based on the following criteria:
         
@@ -63,11 +64,16 @@ class JobTitleClassification:
             5. The job title not recognizable professional role or not closely resemble to the professional role.
             6. Do not remove anything if the job title is invalid. Return the input job title as is.
             
-        Job title: {job_title}
+        User given job title: {job_title}
+        Alternate title : {ls_title}
+        
+        If any of the titles are valid and similar, give the most suitable job title.
+        If either the user given job title or the alternate title is valid, use only the valid one.
+        If the user given job title and the alternate tile both are valid but contradicts each other, prioretise the aternate title.
 
         The final output should be in JSON format, following this structure:
         {{
-          "job title": "<corrected or original user-entered job title>",
+          "job title": "<corrected or the most suitable job title>",
           "Status": "<Valid or Invalid>"}}"""
         response, input_tokens, output_tokens = self.classifier(prompt)
         ans = response['choices'][0]['message']['content'].strip()

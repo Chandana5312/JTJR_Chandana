@@ -48,6 +48,11 @@ class MapperAgent():
             print("Step 2 A:: Job Title Classification Started...")
             print("Step 2 A::",job_title)
             print("Step 2 A::",job_title_dict)
+            if pd.notna(job_entry['LS Title']):
+                ls_title_lang, ls_title_tr = self.translator.detect_and_translate(job_entry['LS Title']) 
+                job_title_dict['LS Title'] = ls_title_tr 
+            else :
+                job_title_dict['LS Title'] = ''
             # job title
             start_time_jtc = time.time()
             
@@ -72,7 +77,6 @@ class MapperAgent():
                 
                 try:
                     print("Step 3A::", job_entry)
-                    ls_title_lang, ls_title_tr = self.translator.detect_and_translate(job_entry['LS Title']) if pd.notna(job_entry['LS Title']) else ''
                     ls_company_lang, ls_company_tr = self.translator.detect_and_translate(job_entry['LS Company']) if pd.notna(job_entry['LS Company']) else ''
                     ls_job_functions_lang, ls_job_functions_tr = self.translator.detect_and_translate(job_entry['LS Lead Job Functions']) if pd.notna(job_entry['LS Lead Job Functions']) else ''
                     ls_company_industry_lang, ls_company_industry_tr = self.translator.detect_and_translate(job_entry['LS Company Industry']) if pd.notna(job_entry['LS Company Industry']) else ''
