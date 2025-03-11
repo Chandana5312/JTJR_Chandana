@@ -1,0 +1,5 @@
+Lead ID,Job Title,Language,Valid JT,Job Role,Marketing Audience,Function,Seniority,Confidence Score
+2,"Director, Sales",en,Yes,Sales Director,Sales DM,Sales,Director,0.9
+4,Associate Director,en,Yes,Director of Business Development,Business Development DM,Business Development,Director,0.75
+3,"VP, Purchasing",en,Yes,Vice President Purchasing,Purchasing DM,Purchasing,VP,0.95
+1,Analyst,en,Yes,Government Policy Specialist,Legal User,Legal,Entry,0.85

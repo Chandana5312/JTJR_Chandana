@@ -19,10 +19,10 @@ class BestJobRoleFinder():
         job_title = job_entry['job title']
 
         ls_job_title = f"LS Title: {job_entry['LS Title']}." if len(job_entry['LS Title']) > 1 else ""
-        ls_company = f"Company: {job_entry['LS Company']}." if len(job_entry['LS Company']) > 1 else ""
-        ls_job_functions = f"Job Functions: {job_entry['LS Job Functions']}." if len(job_entry['LS Job Functions']) > 1 else ""
-        ls_company_industry = f"Company Industry: {job_entry['LS Company Industry']}." if len(job_entry['LS Company Industry']) > 1 else ""
-        ls_lead_department = f"Lead Department: {job_entry['LS Lead Department']}." if len(job_entry['LS Lead Department']) > 1 else ""
+        ls_company = f"\nCompany: {job_entry['LS Company']}." if len(job_entry['LS Company']) > 1 else ""
+        ls_job_functions = f"\nJob Functions: {job_entry['LS Job Functions']}." if len(job_entry['LS Job Functions']) > 1 else ""
+        ls_company_industry = f"\nCompany Industry: {job_entry['LS Company Industry']}." if len(job_entry['LS Company Industry']) > 1 else ""
+        ls_lead_department = f"\nDepartment: {job_entry['LS Lead Department']}." if len(job_entry['LS Lead Department']) > 1 else ""
 
         combined_text = f"Job Title: {job_title}. {ls_company} {ls_job_functions} {ls_company_industry} {ls_lead_department}"
  
