@@ -59,5 +59,5 @@ class AzureTranslator:
             translated_text = self.translate_to_english(text)
         else:
             translated_text=text
-            
+
         return detected_lang, translated_text

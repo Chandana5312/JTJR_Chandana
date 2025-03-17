@@ -1,50 +1,59 @@
-import requests
-import os
+"""
+classification.py
 
+This module contains the JobTitleClassification class, which is responsible for
+validating job titles and standardizing them. It utilizes external APIs for classification.
+"""
+import os
+import ast
+import requests
 
 
 class JobTitleClassification:
-    
+    '''this class is to classify wherther a given job and LS title is valid;
+     if so it returns valid/invlaid and if there standardizes the job '''
     def __init__(self):
         pass
 
     def classifier(self,prompt):
-        """Generates a list of key responsibilities for the role, focusing solely on the main tasks and functions.
+        """Generates a list of key responsibilities for the role,
+        focusing solely on the main tasks and functions.
         Does not include any information about the company, location, or qualifications.
         Provide the response in a paragraph format.Be consice and accurate.
-        If the role does not make sense, provide response accordingly saying the word or role does not makes sense"""
+        If the role does not make sense,
+        provide response accordingly saying the word or role does not makes sense"""
 
         headers = {
             "Content-Type": "application/json",
             "api-key": os.getenv("AZURE_OPENAI_API_KEY"),
         }
         data = {
-            "model": "gpt-4o",  
+            "model": "gpt-4o",
             "messages": [
                 {"role": "user", "content":prompt }
             ],
             "temperature":0.01
-            
+
         }
         response = requests.post(
             f"""{os.getenv("AZURE_OPENAI_API_BASE")}/openai/deployments/gpt-4o/chat/completions?api-version=2023-05-15""",
             headers=headers,
-            json=data
+            json=data, timeout=15
         )
         response_data = response.json()
         # description = response_data['choices'][0]['message']['content'].strip()
-        input_tokens = response_data['usage']['prompt_tokens']  
-        output_tokens = response_data['usage']['completion_tokens']  
+        input_tokens = response_data['usage']['prompt_tokens']
+        output_tokens = response_data['usage']['completion_tokens']
         return response_data,input_tokens,output_tokens
-    
+
     def predict(self,job_entry:dict):
-        ### NEED TO PASS DICT HERE
-        # job_title = job_entry['input_job_title']
+        '''the job related entries are passed here
+        which becomes part of the prompt'''
         job_title = job_entry['translated_job_title']
         ls_title = job_entry['LS Title']
- 
+
         prompt=f"""You are given a job title entered by a user. Your task is to determine whether the given job title is valid or invalid based on the following criteria:
-        
+
         Validation Rules:
         A. Valid Job Title:
             1. The job title should be a recognizable professional role or closely resemble one (e.g., "Software Engineer", "Data Scientist", "Marketing Manager").
@@ -63,10 +72,10 @@ class JobTitleClassification:
             4. Includes explicit, offensive, or unrelated terms.
             5. The job title not recognizable professional role or not closely resemble to the professional role.
             6. Do not remove anything if the job title is invalid. Return the input job title as is.
-            
+
         User given job title: {job_title}
         Alternate title : {ls_title}
-        
+
         If any of the titles are valid and similar, give the most suitable job title.
         If either the user given job title or the alternate title is valid, use only the valid one.
         If the user given job title and the alternate tile both are valid but contradicts each other, prioretise the aternate title.
@@ -78,7 +87,7 @@ class JobTitleClassification:
         response, input_tokens, output_tokens = self.classifier(prompt)
         ans = response['choices'][0]['message']['content'].strip()
         final_dict = ans[ans.find("{"):ans.find("}")+1]
-        final_dict = eval(final_dict)
+        final_dict = ast.literal_eval(final_dict)
         final_dict['input_tokens'] = input_tokens
         final_dict['output_tokens'] = output_tokens
         return final_dict

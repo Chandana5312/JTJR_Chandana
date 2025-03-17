@@ -10,10 +10,10 @@ import tiktoken
 class SearchAgent():
     def __init__(self):
         self.azure_search_credential = AzureKeyCredential(os.getenv("AZURE_SEARCH_ADMIN_KEY"))
-        self.search_client = SearchClient(endpoint=os.getenv("AZURE_SEARCH_SERVICE_ENDPOINT"), 
-                             index_name=os.getenv("AZURE_SEARCH_INDEX"), 
+        self.search_client = SearchClient(endpoint=os.getenv("AZURE_SEARCH_SERVICE_ENDPOINT"),
+                             index_name=os.getenv("AZURE_SEARCH_INDEX"),
                              credential=self.azure_search_credential)
-                            
+
     # cl100k_base
     def count_tokens(self,text, model_name=os.getenv("AZURE_OPENAI_EMB_MODEL")):  # Adjust model name if needed
 
@@ -22,15 +22,15 @@ class SearchAgent():
         token_list = encoding.encode(text)
 
         return len(token_list)
-        
+
 
     def get_text_embeddings(self,text: str):
         """
         Generate embeddings for the given text using Azure OpenAI's text embedding model.
-        
+
         Parameters:
         text (str): Input text for which embeddings need to be generated.
-        
+
         Returns:
         list: A list representing the embedding vector of the input text.
         """
@@ -43,10 +43,10 @@ class SearchAgent():
             api_key=os.getenv("AZURE_OPENAI_API_KEY")  # API key for authentication
             # openai_api_version=AZURE_VERSION  # Uncomment if API version is required
         )
-        
+
         # Generate the embedding vector for the input text
         query_vector = embedding_model.embed_query(text)
-        
+
         return query_vector,embedding_input_tokens
 
     def search(self,
@@ -57,24 +57,24 @@ class SearchAgent():
                     top=10):
         """
         Perform a search query using either text-based or vector-based search methods.
-        
+
         Parameters:
         query_text (str): The search query text.
         has_text (bool): Whether to include text-based search (default: True).
         has_vector (bool): Whether to include vector-based search (default: False).
         use_semantic_captions (bool): Whether to use semantic captions (default: False).
         top (int): Number of top results to retrieve (default: 10).
-        
+
         Returns:
         list: A list of search results.
         """
         print("-------------------------------------------------------------------")
         print(query_text)
         print("-------------------------------------------------------------------")
-        
-        filter = None         
+
+        filter = None
         vector_query = None
-        
+
         if has_vector:
             print("---- Vector")
             embedding,embedding_input_tokens = self.get_text_embeddings(query_text)
@@ -83,13 +83,13 @@ class SearchAgent():
             ]
         else:
             print("---- Text")
-        
+
         if not has_text:
             print("---- No Text")
             query_text = ""
         else:
             print("---- Text")
-        
+
         # Use semantic ranker if requested and if retrieval mode is text or hybrid (vectors + text)
         if use_semantic_captions and has_text:
             print("If")
@@ -115,6 +115,6 @@ class SearchAgent():
                 top=top,
                 vector_queries=vector_query
             )
-        
+
         results = list(r)
         return results,embedding_input_tokens

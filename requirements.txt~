@@ -29,4 +29,3 @@ tqdm==4.67.1
 traitlets==5.14.3
 nest-asyncio==1.6.0
 python-dotenv==1.0.1
-pre-commit

@@ -28,14 +28,14 @@ class MapperAgent():
         print("Step 1 :: Translation & Language Identification Started...")
         start_time_jtt = time.time()
         jt_lang, jobtitle_tr = self.translator.detect_and_translate(job_title)
-           
+
         end_time_jtt = time.time()
         total_time_jtt = end_time_jtt - start_time_jtt
 
         job_title_dict['detected_language'] = jt_lang
         job_title_dict['translated_job_title'] = jobtitle_tr
         job_title_dict['jt_trans_time'] = total_time_jtt
-        
+
         print("Detected Language ::",jt_lang)
         print("Translated Job Title ::",jobtitle_tr)
         print("Step 1 :: Translation & Language Identification Completed...")
@@ -49,13 +49,13 @@ class MapperAgent():
             print("Step 2 A::",job_title)
             print("Step 2 A::",job_title_dict)
             if pd.notna(job_entry['LS Title']):
-                ls_title_lang, ls_title_tr = self.translator.detect_and_translate(job_entry['LS Title']) 
-                job_title_dict['LS Title'] = ls_title_tr 
+                ls_title_lang, ls_title_tr = self.translator.detect_and_translate(job_entry['LS Title'])
+                job_title_dict['LS Title'] = ls_title_tr
             else :
                 job_title_dict['LS Title'] = ''
             # job title
             start_time_jtc = time.time()
-            
+
             class_dict = self.classifier.predict(job_title_dict)
             class_dict['Lead ID'] = job_title_dict['Lead ID']
             end_time_jtc = time.time()
@@ -74,7 +74,7 @@ class MapperAgent():
             if class_dict['Status'].lower() == "valid":
                 print("-------------------------------Step 3 A----------------------------------------------------")
                 print("Step 3 A:: Job Title Description Generate Started...")
-                
+
                 try:
                     print("Step 3A::", job_entry)
                     ls_company_lang, ls_company_tr = self.translator.detect_and_translate(job_entry['LS Company']) if pd.notna(job_entry['LS Company']) else ''
@@ -86,13 +86,13 @@ class MapperAgent():
                 except Exception as e:
                     print(f"Failed due to {e}")
 
-                
+
                 class_dict['LS Title'] = ls_title_tr
                 class_dict['LS Company'] = ls_company_tr
                 class_dict['LS Job Functions'] = ls_job_functions_tr
                 class_dict['LS Company Industry'] = ls_company_industry_tr
                 class_dict['LS Lead Department'] = ls_lead_department_tr
-                
+
                 print("Class_dict: ", class_dict)
 
                 start_time_jtd = time.time()
