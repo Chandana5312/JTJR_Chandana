@@ -95,6 +95,11 @@ class MapperAgent():
 
                 print("Class_dict: ", class_dict)
 
+                job_title_dict['LS Company'] = ls_company_tr
+                job_title_dict['LS Job Functions'] = ls_job_functions_tr
+                job_title_dict['LS Company Industry'] = ls_company_industry_tr
+                job_title_dict['LS Lead Department'] = ls_lead_department_tr
+
                 start_time_jtd = time.time()
                 description, input_tokens1, output_tokens1 = self.job_role_finder.generate_description(class_dict)
                 end_time_jtd = time.time()

@@ -5,6 +5,9 @@ from azure.core.credentials import AzureKeyCredential
 from azure.search.documents.models import QueryAnswerType, QueryCaptionType, QueryType, VectorizedQuery
 from azure.search.documents.models import VectorizableTextQuery
 import tiktoken
+import dotenv
+
+dotenv.load_dotenv('../.env')
 
 
 class SearchAgent():
@@ -15,7 +18,8 @@ class SearchAgent():
                              credential=self.azure_search_credential)
 
     # cl100k_base
-    def count_tokens(self,text, model_name=os.getenv("AZURE_OPENAI_EMB_MODEL")):  # Adjust model name if needed
+    def count_tokens(self,text, model_name=os.getenv("AZURE_OPENAI_EMB_MODEL")):
+        print("the model name", model_name)  # Adjust model name if needed
 
         encoding = tiktoken.encoding_for_model(model_name)
 

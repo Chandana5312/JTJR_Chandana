@@ -1,3 +1,1 @@
-Lead ID,Job Title,Language,Valid JT,Job Role,Marketing Audience,Function,Seniority,Confidence Score,Certified
-2,"Director, Sales",en,Yes,Sales Director,Sales DM,Sales,Director,0.9,True
-4,Associate Director,en,Yes,Director of Business Development,Business Development DM,Business Development,Director,0.75,True
+Lead ID,Job Title,Language,LS Title,LS Company,LS Job Functions,LS Company Industry,LS Lead Department,Valid JT,Job Role,Marketing Audience,Function,Seniority,Confidence Score,Certified

@@ -159,7 +159,9 @@ if Certified_flow == "Bulk Mapping":
 
 
         col7,col8,col9,col10 = st.columns([1,1,1,1])
-        df = df[['Lead ID','input_job_title',"detected_language",
+        df = df[['Lead ID','input_job_title',"detected_language",'LS Title',
+                'LS Company', 'LS Job Functions',
+                'LS Company Industry', 'LS Lead Department',
                  "Status","matched_standard_role","marketing_audience",
                  "function","seniority","confidence_score"]]
         df.rename(columns={"Status": "Valid JT"}, inplace=True)
@@ -283,7 +285,7 @@ else:
         job_entry['Lead ID'] = 0
 
         st.session_state.result_dict = job_role_agent.run(job_entry)
-    if st.session_state.result_dict :
+    if st.session_state.result_dict : ##single mapping including columns
         col1.write("Preview of the JT-JR Mapping:")
         print("the result is ", st.session_state.result_dict)
         st.session_state.result_df = pd.DataFrame([st.session_state.result_dict])
@@ -309,8 +311,8 @@ else:
         }, inplace=True)
 
         print("the length is ",len(st.session_state.result_df))
-        st.data_editor(df_renamed, key = "table_editor", num_rows = "dynamic",
-                        disabled = ["Job Title","Language","Valid JT",
+        st.data_editor(df_renamed, key = "table_editor", num_rows = "dynamic", 
+                        disabled = ["Job Title","Language","Valid JT", ##include new columns for single mapping
                                     "Job Role", "Function", "Seniority", "Marketing Audience"],
                                     hide_index = True,width = 1800)
         # col1.dataframe(st.session_state.df.head(1),width = 800,height = 50,hide_index = True)

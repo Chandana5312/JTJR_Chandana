@@ -1,0 +1,521 @@
+﻿Lead ID,jobtitle,LS Title,LS Company,LS Lead Job Functions,LS Company Industry,LS Lead Department
+1,Senior manager,Senior Cyber Security analyst,Sony Group Corporation,Security Analysis; Cyber Security; Information Security; Security Management; Network Security; Incident Management,Telecommunications,Information Technology
+2,"Owner, Marketing/Sales",Supervisor & Trade Lane Manager of EMEA,Hankyu Hanshin Express,,Transportation & Storage,
+3,"Manager, Information Technology",Leader,MISUMI Group Inc.,Systems Management; Retail; Requirements Management; Art; Software Development; Technology & Innovation; Information Technology and Services; Logistics,Manufacturing,Management
+4,"Individual Contributor/Staff, Marketing/Sales",Sales Specialist,JTB,Media Marketing; Social Media; Digital Marketing; Social Media Marketing,"Travel, Recreation, and Leisure",Sales
+5,"Manager, Accounting and Finance","Manager, Finance Transformation","amkor technology, inc.",Business Strategy; Loans; Financial Reporting; Customer Service; Strategy Development; Accounting; Budget Management; IT Process Management; Process Improvement; Investment Management; Corporate Development; Software Development; Investments; Digital Technology; Outreach; Financial Management; Change Management; Business Process Management; Financial Analysis; Financial Services; Banking; Revenue Management; Capital Management; Training and Development; Reporting; Program Management; Project Management; Data Analysis; Business Continuity,Energy & Utilities,Finance
+6,"Manager, Data/Business Intelligence",Engineering Manager of Data Engineering team at Data Platform dept.,LINE Corp,Engineering; Data Engineering,Software & Internet,Information Technology
+7,Supervisor de operaciones,Autónomo,Komatsu,Traffic Management; Social Media; Network Management; Product; Email Marketing; Customer Loyalty; Digital Marketing; B2B Sales; Social Media Marketing; Branding; Loyalty Marketing; B2B Marketing; Design; B2B; Customer Experience; Brand Management; Advertising; Telemarketing; Principal; Web Management; CRM,Manufacturing,
+8,Professor,Professor,秋田県立大学,education,Diversified Consumer Services,
+9,"Manager, Marketing/Sales","Senior Manager, Sales","Nissha Co., Ltd.",,Computers & Electronics,Sales
+10,Aplication Engineer,Aplication Engineer,Yamaha,engineering,Consumer Discretionary,
+11,"Manager, Information Technology",Regional Marketing Manager,Terumo Asia Pacific,,Manufacturing,Marketing
+12,"Director, Data/Business Intelligence",Head of Retail DX Lab. / Data Scientist,株式会社サイバーエージェント [CyberAgent],,Software & Services,Sales
+13,Field Marketing Manager,Senior,Hitachi,,Computers & Electronics,
+14,"Manager, Operations",???? / Executive Officer,Zozo Inc,Business Intelligence; Software Development,Retail,
+15,Data Analyst,Data Analyst,BrainPad Inc.,Data Analysis,Software & Internet,Information Technology
+16,Creative Director,Creative Director,ADK (WPP Company),Creative Direction; Creative; Creative Services,Business Services,Marketing
+17,"Individual Contributor/Staff, Solutions/Systems Architect",Systems architect,ASICS America Corporation,Systems Management; Systems Architecture & Development; Civil Engineering; Development & Architecture,Retail,Information Technology
+18,"Manager, Finance","GM, Finance",スカパーＪＳＡＴ（株）,General Manager; Business Strategy; Customer Service; Strategy Development; Budget Management; Research,Business Services,Management
+19,"CXO, Marketing","Consumer Insight Division, Chief Officer",GLICO,Customer Experience; Customer Interactions; Customer Intelligence; Marketing Analytics; Customer Management,Manufacturing,Marketing
+20,Head of Data Science,Head of Data Science,takeda,Data Science; Data Management,"Healthcare, Pharmaceuticals, & Biotech",R&D
+21,Senior Packaging Researcher,Senior Packaging Researcher,Kao Corporation,Research; Compliance; Healthcare,Manufacturing,R&D
+22,Vice General Manager,本部長,"Japan Business Systems, Inc.",,Software & Internet,Management
+23,"Manager, Infrastructure & Technology Management",Developer Relation Engineer,"Recruit Co.,Ltd.",Engineering; Software Development; Media Marketing; Technology & Innovation; Social Media; Product; Digital Marketing; Social Media Marketing; Mobile; Application Development; Mobile Applications; Network Solutions; Information Technology and Services; Mobile Device; Startup; Web Services; Threat Management,Software & Internet,R&D
+24,"Manager, Cybersecurity & Identity/Access Management",Assistant Manager,Keyence,,Computers & Electronics,
+25,"Individual Contributor/Staff, Customer Service/Field Support",Customer Success Operations Team Lead,"SmartHR, Inc.",Customer Service; Customer Success; Customer Experience; Account Management; Network Management; Education; Recruitment,Software & Internet,Operations
+26,"Director, Engineering",Director Of Engineering,Universal Studios Japan(USJ LLC),Engineering; Software Development,Media & Entertainment,R&D
+27,"Individual Contributor/Staff, Chief Officer",Investor Relations Manager,AGC,Investor Relations; Investment Management,Manufacturing,Finance
+28,"Owner, Chief Officer",Partner,Nagashima Ohno & Tsunematsu,Partner; President; The Board; Arbitration; Education; Chairman,Business Services,Management
+29,"CXO, Program and Project Management",Chief Operation Officer,"Toyo Gosei Co., Ltd.",Operations Management,Manufacturing,Operations
+30,"Manager, Sales",International Sales Manager,Nidec Press & Automation,Sales Management,Manufacturing,Sales
+31,IT Department Manager,IT Department Manager,SC,information_technology,Real Estate & Construction,
+32,"Manager, Information Technology",Channel Sales Account Manager,Huawei,"Customer Success; Account Management; Channel Sales; Marketing Strategy; Business Marketing; Digital Marketing Strategy; Materials; Information Security; Product; Digital Marketing; B2B Sales; Design; Brand Marketing; B2B Marketing; Retail; Corporate Finance; B2B; Brand Management; Supplier Management; Advertising; Culture; Change Management; Technology & Innovation; Competitive Intelligence; Market Development; Product Development; Customer Experience; Marketing Management; Customer Intelligence; Logistics; Business Strategy; Mergers and Acquisitions; Accounting; Social Media; Corporate Governance; IT Process Management; Process Improvement; Mergers; Research; Branding; Marketing Analytics; Risk Management; Corporate Development; Software Development; Investments; Digital Technology; Pricing; Agile; Acquisitions; Business Process Management; Marketing Research; Integration Management; Revenue Management; Mobile; Customer Management; Governance, Risk and Compliance; Audit; Brand Development; Project Management; Customer Interactions; Mobile Device; Startup",Computers & Electronics,Sales
+33,Engineering manager,"Senior Manager, Systems Engineering",Apple,Systems Management; Engineering; Systems Architecture & Development,Computers & Electronics,Information Technology
+34,"Manager, Information Technology",General Manager,Xacti Corporation,General Manager,Computers & Electronics,Management
+35,"Vice President, Sales",Account General Manager,Tokyo Electron Limited,General Manager,Computers & Electronics,Management
+36,"Entry, Engineering",System Engineer,NSD Pvt Ltd,Systems Management; Engineering; Software Development; Systems Architecture & Development,Computers & Electronics,Information Technology
+37,General Manager,General Manager,komatsu ltd.,General Manager; Accounting; Production; Materials; Budget Management; Records Management; IT Process Management; Business Performance; Performance Management; Manufacturing; Investment Management; Culture; Cash Flow,Manufacturing,Management
+38,Other,Carrier Sales Manager,Apple,Sales Management,Computers & Electronics,Sales
+39,"Director, Infrastructure & Technology Management",Management Director,"MIMAKI ENGINEERING CO., LTD.",Accounting; Network Management,Computers & Electronics,
+40,"Associate Director, Global Secuirty","Associate Director, Global Secuirty",MSD,,"Healthcare, Pharmaceuticals, & Biotech",
+41,"Senior, Information Technology",Partner,Anderson Mori & Tomotsune,Partner,Business Services,Business Development
+42,"Director, Information Technology",Chief Information Officer (CIO),Komori UK Ltd,Data Management; IT Management,Manufacturing,Information Technology
+43,"Individual Contributor/Staff, Operations","Professor, Dept. Of Global Studies",Kyoto University of Foreign Studies,Education; International Law; Business Process Management; Strategy Development; Coaching; Public Relations; Social Media; IT Policy; Communications; Corporate Law; Curriculum Development; Design; Software Development; Writing,Education,
+44,"Individual Contributor/Staff, Operations/Project Management",Portfolio Analyst,nomura,Trading and Securities,Financial Services,Finance
+45,"Manager, Finance",???,Sojitz,,Manufacturing,
+46,"Individual Contributor/Staff, Information Technology",Technical Coordinator - Universal Creative,Universal Studios Japan(USJ LLC),Creative; Creative Services,Media & Entertainment,
+47, -, -,Sumitomo Corporation,,Agriculture & Mining,
+48,"VP, Marketing",Optical system Engineer,Nikon,Systems Management; Engineering; Software Development; Systems Architecture & Development,Computers & Electronics,Information Technology
+49,"Manager, Other","Manager, Corporate Management Planning",Kuraray,Software Development; Customer Success; Personnel Management; Workforce Management; HR Management; Employee Management; Performance Management; Talent Management; Training and Development; Corporate Development; Recruitment,Manufacturing,
+50,Corporate Planning,Us Cpacisa Deputy Head Of Audit Dept.,Nikko Asset Management Group,Audit; Accounting,Financial Services,Finance
+51,"Individual Contributor/Staff, Information Technology Support/Manager",AI Architect,Cogent Labs,Civil Engineering; Development & Architecture; Machine Learning; Learning; Network Management,Software & Internet,R&D
+52,"Director, Sales","Deputy Division Director, Sales and Marketing Division",J-Stream Inc.,,Software & Internet,Sales
+53,"Manager, Infrastructure & Technology Management",Accounting Manager at Nitto Denko Corporation,（有）日東,Accounting,,Finance
+54,Solution Coordinator,Solution Coordinator,Nishimura & Asahi,International Law; Business Intelligence; Customer Success; Forensics; Technology & Innovation; Network Management; Litigation; Data Management; Documentation; Information Security; Big Data; Training and Development; Security Management; Corporate Law; Software Development; Storage; Computer Forensics; eDiscovery; Database Applications,Business Services,Information Technology
+55,"Manager, Marketing/Sales",Sales Associate,MUJI Canada Limited,,Retail,Sales
+56,"Director, Information Technology",Research Director,Imagica Group Inc.,Research; Cloud Computing; Solutions Development; Civil Engineering; Development & Architecture; Cloud Infrastructure,Media & Entertainment,R&D
+57,"Manager, Information Technology",Professional | Architect | Masterplanner | Project Manager | Employee Trainer,Nikken Sekkei Ltd,Project Management; Civil Engineering; Training and Development; Development & Architecture; Urban Planning; The Board; Landscape; Publications; Public Relations; Records Management; Security Management; Chairman; Design; Engineering; President; Journalism; Urban Design,Real Estate & Construction,Product Management
+58,"Manager, Operations/Project Management",Chief,KAMEI GmbH & Co. KG,,Manufacturing,Management
+59,"Director, Information Technology",Head of Information Science & Technology,ihi corporation,Data Science; Technology & Innovation; Learning; Data Management; Machine Learning,Wholesale & Distribution,Information Technology
+60,CEO Founder,CEO Founder,e-lentillas.com,Senior Management; Founder; Media Marketing; Marketing Strategy; Public Relations; Network Management; Social Media; Communications; Information Systems; Blogging; Digital Marketing; Social Media Marketing; Community Management; Retail; eCommerce; Marketing Management; Information Systems Management; Advertising,Retail,Management
+61,Internal audit,Senior Manager,Kao Asia & Oceania,,Retail,
+62,"Entry, Accounting and Finance","Financial Governance Office, Leader",lixil,"Information Security; Governance, Risk and Compliance; Business Strategy; Audit; Financial Reporting; Financial Analysis; Internal Control; Accounting; Revenue Management; Reporting; Financial Management",Real Estate & Construction,Administration
+63,"Individual Contributor/Staff, Engineer",Field Robotic Software Engineer,Rapyuta Robotics,Engineering; Software Development; Software Engineering; Systems Management; Open Source; Computer Programming; Machine Learning; Cloud Infrastructure; Learning; Design; Cloud Computing; Project Management; Agile; IT Management; Culture,Manufacturing,R&D
+64,"Manager, Operations",課長/Manager,Kanematsu Ventures Inc,,Financial Services,Administration
+65,"Manager, Developer/Engineering",General Manager Engineering,Excite Japan,engineering,Software & Internet,Management
+66,"Entry, Information Technology",Software Engineer @ Rakuten Travel,SmartNews,Engineering; Software Development; Software Engineering,Software & Internet,Information Technology
+67,Lead Graphic Designer,Graphic Designer,Digital Garage,Graphics; Design; Graphic Design,Software & Internet,R&D
+68,"Individual Contributor/Staff, Operations/Project Management",SE,SCSK Corporation,,Software & Internet,
+69,NotAvailable,Software Engineer,（株）エネルギア・コミュニケーションズ,Engineering; Software Development; Software Engineering; Network Management,Telecommunications,Information Technology
+70,一般,一般,Tkc,,Computers & Electronics,
+71,"Owner, Marketing/Sales","Director,inorganic material division",agc group,Materials; Engineering; Simulation Software,Manufacturing,
+72,"VP, Information Technology","Vice President, East Asian business development",JCB／株式会社ジェーシービー,President; Software Development; Business Strategy; Strategy Development,Financial Services,Business Development
+73,Engineer 1,Engineer 1,"JGC Philippines, Inc.",Engineering; Software Development; Systems Management; Operational Efficiency; Assurance; Project Engineering; Compliance; Accounting; CAD; Architectural Planning; Quality Management; Technical Services; Investment Management; Drafting; Implementation & Support; Storage; Project Management; UX/UI; Asset Management; Performance Management; Information Technology and Services; Quality Assurance; Web Management,Energy & Utilities,R&D
+74,"Individual Contributor/Staff, Operations/Project Management",Attorney at Law,Nagashima Ohno & Tsunematsu,,Business Services,Legal
+75,"Individual Contributor/Staff, Data/Business Intelligence",アプリケーションエンジニア,Makino USA Inc.,,Manufacturing,
+76,"Director, Operations/Project Management","General Manager, Deputy",Marubeni,General Manager,Business Services,Management
+77,"Individual Contributor/Staff, Marketing/Sales",Marketing,GS Yuasa,,Financial Services,Marketing
+78,ITS,主任,Kyndryl Holdings,,Business Services,
+79,"Individual Contributor/Staff, Marketing",Media Producer at Digital Media Promotion Department,HAKUHODO DY media partners,Digital Technology; Digital Media; Digital Marketing,Business Services,Marketing
+80,"Individual Contributor/Staff, Information Technology",Senior Airline Account Executive - Aviation Sales & Marketing,Kansai Airports,Account Management; Software Development; Bookkeeping; Accounting; Business Performance; Performance Management,Manufacturing,Sales
+81,"Director, Sales","Executive Director, Account Services",ADK,,Business Services,Management
+82,"Individual Contributor/Staff, Information Technology",Software Engineer,Treasure Data,Engineering; Software Development; Software Engineering; Business Intelligence; Visualization; Big Data Analytics; Network Management; Data Management; Information Security; Big Data; Security Management; Product Development; Cloud Computing; Storage; Unity; Project Management; Data Analysis; Agile; Web Development,Software & Internet,R&D
+83,Senior Manager,PMO,Nissan Motor Corporation,Project Management,Manufacturing,
+84,"Individual Contributor/Staff, Chief Officer",Manufacturers Sales Representative,ihi corporation,Systems Management; Integration Management; Market Trends; Systems Integration; Communication & Collaboration; Supply Chain Management; Marketing Analytics; Supply Chain; Logistics,Wholesale & Distribution,Sales
+85,"Entry, Sales","GM, Management Systems HQ (Global IT/DX HQ)",TDK,Systems Management; Global IT; General Manager; Learning; Engineering; Software Development; Machine Learning,Computers & Electronics,Information Technology
+86,"Individual Contributor/Staff, Operations/Project Management",Foreign Lawyer,Nagashima Ohno & Tsunematsu,Acquisitions; Corporate Finance; Mergers and Acquisitions; Equities; Investments; News; Journalism; Mergers; Investment Management; Venture Capital,Business Services,
+87,"Owner, Chief Officer",General Manager,Yamaha Corporation of America,General Manager; Engineering,Media & Entertainment,Management
+88,Manager,Manager,Mitsubishi Electric Information Network Corporation,Cloud Security; Cloud Computing; Cyber Security; Customer Experience; Digital Technology; UX/UI; SaaS; Information Security; User Experience; Security Management; Virtualization; Data Center,Software & Internet,
+89,"Vice President, Human Resources",VP of HR,Universal Studios Japan(USJ LLC),,Media & Entertainment,Human Resources
+90,"Director, Sales","Head of Commercial Excellence, Japan Oncology Business Unit",Takeda,Medicine; Oncology; Marketing Strategy; Marketing Research; Business Intelligence; Segmentation; Competitive Intelligence; Market Development; Budget Management; Research; Market Intelligence; Marketing Analytics; Customer Management; Design; Customer Experience; Customer Interactions; Customer Intelligence; Information Technology and Services; Advertising; Pharmaceuticals,Manufacturing,Sales
+91,QA Assistant Manager,QA Engineer,Mipox Corporation,Engineering; Software Development; Quality Assurance; Data Analysis; IT Process Management,Manufacturing,R&D
+92,"Individual Contributor/Staff, Infrastructure & Technology Management",Infrastructure Developer / Site Reliability Engineer,Nintendo,Engineering; Software Development; Infrastructure Management; Web Management; Systems Management; Test Automation; Traffic Management; Network Management; Quality Management; Cloud Infrastructure; Operating Systems; Product Development; Design; Configuration Management; Implementation & Support; Cloud Computing; Project Management; Agile; Network Solutions; Public Cloud; Infrastructure Engineering; Quality Assurance; IT Management; Gaming; Web Services,Computers & Electronics,R&D
+93,"Individual Contributor/Staff, Infrastructure & Technology Management",Senior Software Engineer,"SmartNews, Inc.",Engineering; Software Development; Software Engineering; Systems Management; Front End; Network Management; UX/UI; Systems Architecture & Development; Infrastructure Management; Branding; Distributed Systems; Web Development,Software & Internet,R&D
+94,"Individual Contributor/Staff, Operations/Project Management",Senior Instrumentation Engineer,JGC Singapore Pte. Ltd.,Engineering; Software Development; Drilling; Design; Systems Management; Project Engineering; Construction; Project Management; IT Process Management; Solutions Design; Recruitment; SCADA,Energy & Utilities,R&D
+95,"Individual Contributor/Staff, Chief Officer",Inside Sales Associate,"BizReach, Inc.",Inside Sales,Business Services,Sales
+96,"Owner, Chief Officer",Head of Sales at Kuraray Co Ltd,Kuraray,,Manufacturing,Sales
+97,Senior,Dept Manager,Hisys,Business Strategy; Strategy Development; Business Partnering; Network Management; Business Marketing; Competitive Intelligence; SaaS; Product Marketing; Managed Services; Partnerships; Product; Software Development; Cloud Computing; Hosted Services; Startup,Computers & Electronics,
+98,"Chief Officer, Infrastructure & Technology Management","Senior Vice President, Division COO, Real Estate Business Div.",Mitsubishi Corporation,President; Real Estate; Operations Management,Financial Services,Operations
+99,Manager,Manager,Accenture,,Business Services,Management
+100,"CXO, Information Technology",Section Chief Architect,PT. Takenaka Indonesia,Civil Engineering; Development & Architecture; Design; Urban Planning; Landscape; Urban Design; Architectural Design; Research; Building Information Modeling; Interior Design; Landscape Architecture,Real Estate & Construction,Administration
+101,"Owner, Marketing/Sales",Member Board Of Directors,MISUMI Group Inc.,The Board,Manufacturing,Management
+102,"Manager, Program and Project Management",Engineer Civil,Nippon Koei,Engineering; Software Development,Real Estate & Construction,R&D
+103,"Individual Contributor/Staff, Marketing/Sales",海外営業職,Sumitomo Electric,,Manufacturing,
+104,"Individual Contributor/Staff, Operations/Project Management",人材開発担当者,INPEX,,Energy & Utilities,
+105,"Vice President, Marketing/Sales","Vice President, Marketing - Americas",Omron,President; Business Strategy; Team Management; Marketing Strategy; Strategy Development; Business Marketing; Product Marketing; Product; Research; Sales Management; Corporate Development; Software Development; Implementation & Support; Account Management; Marketing Research; Customer Success; Sales Operations; Competitive Intelligence; Market Development; Telecommunications; Mobile; Supply Chain; Concept Development; Product Development; Project Management; Marketing Management; Writing; Supply Chain Management; Mobile Device,Computers & Electronics,Marketing
+106,Tokyo Architectural Construction Branch Business Promotion Department Manager,Tokyo Architectural Construction Branch Business Promotion Department Manager,Kajima,Construction; Finance; Global Infrastructure; IT Infrastructure,Real Estate & Construction,
+107,"Individual Contributor/Staff, Data/Business Intelligence",DB,lixil,,Real Estate & Construction,
+108,C# Programmer,C# Programmer,"SANYO DENKI CO., LTD.",Software Development; Procurement; Hardware Development; Systems Management; Network Management; APIs; Materials; Troubleshooting; Supply Chain; IT Infrastructure; Operating Systems; Network Infrastructure; Supply Chain Management; Quality Assurance,Computers & Electronics,R&D
+109,"Manager, Operations",Operation Manager at JVCKENWOOD Corp.,JVCKENWOOD,Operations Management; Supply Chain Management; Supply Chain,Manufacturing,Operations
+110,"Manager, Information Technology",Architect,Nikken Sekkei Ltd,Civil Engineering; Development & Architecture; Design; Engineering; Infrastructure & Operations; Project Management; Infrastructure Management; Design Management,Real Estate & Construction,R&D
+111,"Manager, Marketing/Sales",Marketing Manager / Resarcher,,Payables Management,,Marketing
+112,Director,Director,komatsu ltd.,Business Strategy; Marketing Strategy; Customer Service; Strategy Development; Project Management; Mobile Applications; Social Media; Communications; Online Marketing; Digital Marketing; Mobile,Manufacturing,
+113,Senior IT Specialist,IT Specialist,Marriott,Technology & Innovation; Systems Management; Customer Support; Software Development; Desktop; Network Management; Product Security; Technical Support; Security Management; IT Support; Server Administration,"Travel, Recreation, and Leisure",Information Technology
+114,"Manager, Sales",Senior Manager - Sales Operations & Reporting,Kose,Sales Operations; Reporting; Network Management,Business Services,Sales
+115,"Manager, Infrastructure &amp; Technology Management","General Manager, Business Legal Department",Nitto Denko Corporation,General Manager,Computers & Electronics,Management
+116,"Chief Officer, Chief Officer","Managing Director at Accenture Strategy & Consulting, Strategy Group / Utilities and Energy lead",Accenture,Business Strategy; Change Management; Acquisitions; Strategy Development; Customer Service; Mergers and Acquisitions; Public Relations; Accounting; Network Management; Communications; Mergers; Corporate Development; Recruitment; Corporate Finance; Software Development; Business Consulting; Project Management; Digital Technology; Relationship Management; Advertising; Startup; CRM,Business Services,Management
+117,"Director, Information Technology","Senior Manager, Business Development, Derivatives",JAPAN EXCHANGE GROUP,Software Development; Options; Financial Risk Management; Network Management; Trading; Risk Management,Financial Services,Business Development
+118,"Manager, Sales",New Business Development Manager,keyence corporation,Software Development; Corporate Development; Employment; SEM; SEO,Computers & Electronics,Business Development
+119,"Individual Contributor/Staff, Infrastructure & Technology Management",Researcher,astellas pharma us,Research; Medicine; Biomedicine; Microscopy; Clinical Research; Molecular Biology; Network Management; Pharmacology; Drug Development; Nanotechnology; Culture; Pharmaceuticals,"Healthcare, Pharmaceuticals, & Biotech",R&D
+120,Manager,Manager,astellas pharma inc.,,"Healthcare, Pharmaceuticals, & Biotech",
+121,"Individual Contributor/Staff, Developer/Engineering/Data Science",Chief Building Engineer,Hokkaido Prefectural Government,Engineering; Software Development,Government,R&D
+122,"Director, Sales",Sales Department,Komori Corporation,,Manufacturing,Sales
+123,aa,Account Run Lead (japanese speaker),dxc,Technology & Innovation,Software & Internet,Sales
+124,"Director, Accounting and Finance",General Manager,Anritsu,General Manager,Computers & Electronics,Management
+125,"Vice President, Finance",Controller/Accounting Manager,TOYOBO,Audit; Accounting; Business Strategy; Business Process Management; Financial Reporting; Financial Analysis; Strategy Development; Budget Management; Revenue Management; IT Process Management; Process Improvement; Reporting,Computers & Electronics,Finance
+126,business planning,business planning,Rakuten Group,Business Strategy,Retail,Business Development
+127,"Manager, Marketing",Assistant Manager of Web Marketing Group,keyence corporation,Online Marketing; Digital Marketing,Computers & Electronics,Marketing
+128,"Manager, Finance","Finance Business Partner, EUCAN Finance",Takeda,Partner; Audit; Accounting; Financial Planning; Financial Management,"Healthcare, Pharmaceuticals, & Biotech",Finance
+129,"Individual Contributor/Staff, Operations",Chief of Staff,United Nations University,Senior Management,Business Services,
+130,"Manager, Operations/Project Management",Sales Manager,Sekisui Chemical,Sales Management,Energy & Utilities,Sales
+131,"Individual Contributor/Staff, Chief Officer",Global R&D,Lion Corporation Japan,,Manufacturing,R&D
+132,"Chief Officer, Chief Officer",Chief Product Supply Officer,Santen,Product; Supply Chain Management; Supply Chain; Systems Management; Biotechnology; Quality System; Drug Regulation; Lifesciences; Biology; Research; Supply Chain Operations; Corporate Development; Engineering; Software Development; Clinical Research; Production; Executive Management; Senior Management; Shipping; Manufacturing; Technology Transfer; Validation; Technology & Innovation; Freight Management; Scheduling; Medicine; Biomedicine; Project Management; Quality Assurance; Management Team; Pharmaceuticals; Logistics,Manufacturing,Product Management
+133,"Manager, Marketing/Sales",Chief Marketing Manager,RIZAP株式会社 - 法人,Media Marketing; Public Relations; Project Management; Social Media; Network Management; Marketing Management; Communications; Online Marketing; Digital Marketing; Sales Management; Social Media Marketing; Advertising,"Healthcare, Pharmaceuticals, & Biotech",Marketing
+134,"Director, Marketing","Global Capability Services Director, Digital, Innovations",AstraZeneca,marketing,"Pharmaceuticals, Biotechnology & Life Sciences",
+135,"Owner, Chief Officer",Partner,Anderson Mori & Tomotsune,"Partner; Technology & Innovation; Investments; Corporate Governance; Information Security; Governance, Risk and Compliance",Business Services,Management
+136,CAD Engineer,Assistant Logistics Manager,Daikin Vietnam,Logistics; Inventory Management; Transportation; Data Analysis; Research,Manufacturing,Operations
+137,"Owner, Operations/Project Management",BIM Manager / Coordinator,Nikken Sekkei Ltd,Building Information Modeling; Design; Architectural Design; Research,Real Estate & Construction,
+138,"Individual Contributor/Staff, Information Technology","Rigaku - Application Scientist, Computed Tomography",Rigaku,Software Development; Scientific Computing,Computers & Electronics,R&D
+139,Deputy Manager,Globa Information and Communications Technology Partner,NTT DATA Services,Technology & Innovation; Communications; Communications Systems; Partner,Software & Internet,Information Technology
+140,"Individual Contributor/Staff, Engineer",Lead Design Engineer,Piolax,Design; Engineering; Software Development; Design Engineering; Product Development; Records Management; IT Process Management; Product; Telecommunications,Manufacturing,Product Management
+141,"Manager, Marketing/Sales",UC global marketing assitant manager,Yamaha Corp,Global Marketing,Financial Services,Marketing
+142,"Director, Information Technology",enginner,Fujikura Ltd.,,Computers & Electronics,Operations
+143,Senior Specialist,Senior Specialist,Rakuten,Customer Support; Workforce Management; Employee Management; IT Process Management; Portal Management; HR Strategy; Talent Management; IT Support; Recruitment,Retail,
+144,"Individual Contributor/Staff, Finance",Accountant,,Accounting,,Finance
+145,"Director, Information Technology",Technical Director,Universal Studios Japan(USJ LLC),IT Management,Media & Entertainment,Information Technology
+146,"Director, Finance","Senior Vice President, Head of Private Equity Investments",Meiji Yasuda America Incorporated,President; Equities; Investments; Investment Management,Financial Services,Finance
+147,"Manager, Human Resources",Canada Goose Japan- Human Resources Manager,TDK,ERP; Resource Planning; HR Management; Resource Management; Marketing Strategy; Business Strategy; Advertising Sales; Marketing Research; Communications; Market Development; Digital Marketing; Research; Corporate Development; Labor Management; Software Development; Marketing Management; Market Planning; Online Marketing; Advertising; Startup,Computers & Electronics,Human Resources
+148,"Owner, Chief Officer",Engineer,Obayashi,Engineering; Software Development,Real Estate & Construction,R&D
+149,"Manager, Infrastructure & Technology Management",Senior Finance Manager,takeda,Financial Management; IT Audit; Business Process Management; Assurance; Financial Analysis; Financial Reporting; Internal Control; Accounting; Revenue Management; IT Process Management; Process Improvement; Reporting; Risk Management; Audit; Financial Risk Management; Taxes; Business Continuity,"Healthcare, Pharmaceuticals, & Biotech",Finance
+150,"Individual Contributor/Staff, Marketing/Sales","Pre Sales and Engineering, Multi Cloud",TD SYNNEX,Engineering; Cloud Computing; Pre Sales; Water; Systems Management; ERP; Coaching; Social Media; Network Management; Systems Architecture & Development; Product; Commerce; Digital Marketing; Development & Architecture; IT Support; Cloud Infrastructure; Design; Learning; Application Development; Software Development; Customer Support; Digital Technology; Education; Digital Media; Trading; Emarketing; Customer Success; Technology & Innovation; Civil Engineering; Communications; Security Management; Training and Development; Cloud Engineering; Mobile; Solutions Design; Medicine; Mobile Device; Gaming; Web Services,Computers & Electronics,Sales
+151,"Manager, Information Technology","Manager, Operations Finance","amkor technology, inc.",Accounting,Energy & Utilities,Finance
+152,"Director, Human Resources",Head of Intellectual Property & Design Center,Yokogawa,Design; Intellectual Property; Business Strategy; Business Partnering; Strategy Development; Mergers and Acquisitions; Network Management; Litigation; Contract Negotiation; Partnerships; Telecommunications; Mobile; Investment Management; Application Development; Engineering; Software Development; Writing; Mobile Device; Due Diligence; Startup; Contracts; Venture Capital; Electrical Engineering,Manufacturing,Legal
+153,"Director, Human Resources","HR Leader, Talent Management, Enablement Team Japan",lixil,Talent Management; Customer Success; Coaching; Succession Management; Training and Development; Corporate Development; Learning; Software Development; Education; HR Consulting; Workforce Management; Employee Management; Performance Management,Real Estate & Construction,Human Resources
+154,"Individual Contributor/Staff, Information Technology",Senior IT Specialist / Project Manager / Product Owner,Starbucks,Project Management; Technology & Innovation; Product; Senior Management,Retail,Information Technology
+155,"Entry, Sales",Sales Representative,Shin-Etsu,Medicine,Energy & Utilities,Sales
+156,"Manager, Information Technology","Technical Manager, Top coat","Kansai Paint Co.,Ltd",IT Management,Manufacturing,Information Technology
+157,"Individual Contributor/Staff, Operations/Project Management",キャリアコンサルタント,株式会社パソナ (Pasona Inc.),,Business Services,
+158,Engineer,Associate Manager,Ntt Data,Wireless; Systems Management; Network Engineering; B2C Sales; Network Management; B2B Sales; Mobile; B2B Marketing; Engineering; Software Development; B2B; Project Management; Mobile Applications; B2C Marketing; Performance Management; Electrical Engineering,Software & Internet,Management
+159,Director,"Director, Public Sector, Gartner Consulting Japan",Gartner,Network Management,Computers & Electronics,
+160,"Manager, Information Technology",PG,"GREE, Inc.",,Software & Internet,
+161, --, --,Kao Corporation,,Manufacturing,
+162,Engineer,Engineer,SoftBank Group,Engineering; Software Development; Software Deployment; Technology & Innovation; SaaS; Product; Training and Development; IT Support; Technical Writing; Business & Technology Solutions; Customer Support; Cloud Computing; Virtual Machines; Technology Training; Technical Support; Life Cycle Management; Network Solutions; Journalism; Database Applications; Virtualization,Financial Services,R&D
+163,"Manager, Infrastructure & Technology Management",Department Head,JGC,Team Management; Customer Service; Application Support; IT Support; Service Management; IT Infrastructure; Engineering; Customer Support; IT Development; Software Development; Infrastructure Security; UX/UI; Production; Infrastructure Management; Technical Support; Data Storage; Security Systems; Construction; Technology Infrastructure; Technology & Innovation; CAD; Security Management; IT Operations; Project Management; Customer Experience; Career Development; Graphic Design,Energy & Utilities,
+164,"Individual Contributor/Staff, Chief Officer",Game System Design Staff,Nintendo,Design; Systems Management; Gaming; Solutions Design; Product Development; Software Development; Customer Experience; Project Management; UX/UI; User Interface; Agile; User Experience; Game Development; IT Management,Software & Internet,Information Technology
+165,"Manager, Finance",Power Management Engineer,RICOH Company Limited,Engineering; Software Development,Software & Internet,R&D
+166,"Owner, Chief Officer",Assistant Manager,Watahan & Co Ltd,,Financial Services,
+167,"Manager, Operations",シニアプロダクトマネージャー,"Gree, Inc.",,Software & Internet,
+168,Other,Assistant Professor,東京工業大学,Education,Diversified Consumer Services,
+169,"Individual Contributor/Staff, Information Technology",Animation Supervisor / Digital Artist,"GrapeCity, Inc.",Digital Technology,Software & Internet,
+170,"Owner, Chief Officer",Assistant Manager in Life Planning Department,"The Toa Reinsurance Company, Limited",Customer Communications; Customer Service; Accounting; Insurance; Pricing; Communications; Information Security; Risk Management; Culture; CRM,Financial Services,
+171,"Director, Sales",Sales Consultant,"Bizreach, Inc.",Technology & Innovation; Network Management; Talent Management; Recruitment,Software & Internet,Sales
+172,"Manager, Marketing/Sales",Sales Manager PSL Labelers,"Fuji Seal International, Inc.",Sales Management; Product Development; Software Development; Customer Success; Sales Operations; Account Management; Product; Manufacturing; Supply Chain Management; Supply Chain; Corporate Development; Pharmaceuticals,Transportation & Storage,Sales
+173,Analyst,Policy Research and Analyst,,IT Policy; Research,,R&D
+174,"Director, Sales",Director of Sales,Technoprobe,Business Strategy; Software Development; Electrical Engineering,Computers & Electronics,Sales
+175,"VP, Purchasing",Vice President,Advantest,President,Computers & Electronics,Management
+176,Associate Director,"Associate Director, Global Alliance",Accenture,Business Strategy; Hardware Development; Business Partnering; Customer Service; Systems Architecture & Development; IT Process Management; Records Management; Channel Sales; Product; Vendor Management; Data Center; Risk Management; Corporate Development; Recruitment; Financial Risk Management; Business & Technology Solutions; Software Development; Cloud Computing; Unified Communications; Pre Sales; Account Management; Senior Management; Partner; Business Intelligence; Integration Management; Customer Success; Direct Sales; SaaS; Communications; Succession Management; Development Lifecycle; Professional Services; Solutions Selling; Sales Process; Project Management; Call Centers; Startup; CRM,Business Services,
+177,"Director, Information Technology Executive",President / Producer / Game Director,あまた株式会社,President; Gaming; Network Management; Content Marketing; Social Media; Interactive Marketing; Digital Marketing; Mobile; Creative Services; Design; Community Management; Software Development; Creative Direction; Content Management; Unity; Creative; Digital Media; News; Production; Journalism; Game Development; Startup; Creative Strategy,Software & Internet,Management
+178,"Manager, Information Technology",Project Manager,Ryosan,Project Management; Business Strategy; Systems Management; Marketing Research; Sales Revenue; Strategy Development; Customer Success; Communication & Collaboration; Budget Management; Records Management; Market Development; Appeals; Research; Mobile; Investment Management; Corporate Development; Software Development; Investments; Account Management; Performance Management; General Manager; Revenue; Culture; Venture Capital,Manufacturing,Product Management
+179,"Entry, Security",Security Project Manager,American Engineering Corporation (AEC Japan),Project Management; Security Management,Real Estate & Construction,Management
+180,"Manager, Information Technology","General Manager, Global Marketing",Okamura,Global Marketing; General Manager,Manufacturing,Marketing
+181,Technical Consultant,Technical Consultant,siemens ag,IT Consulting,Manufacturing,R&D
+182,"Entry, Data Professional",Engineer,"MIXI, Inc",Engineering; Software Development; Rail; Network Management; Computer Programming,Software & Internet,R&D
+183,一般,System Design Specialist,Sony,Design; Systems Management; Solutions Design,Media & Entertainment,Information Technology
+184,"Owner, Operations/Project Management","Project Manager, Product Marketing Manager","Ricoh Company, Ltd.",Project Management; Product Marketing; Product,Computers & Electronics,Marketing
+185,"Manager, Marketing","Manager, Marketing & Planning Group, Marketing & Planning Division","Kikkoman Biochemifa Co. (Diagnostic Enzymes Group, Sales Division-2)",,"Healthcare, Pharmaceuticals, & Biotech",Marketing
+186,"Manager, Information Technology",Senior Project Manager,SATO Holdings Corporation,Project Management; Hardware Development; Systems Management; Retail; Integration Management; Accounting; Systems Integration; Healthcare; Manufacturing; IT Operations; Data Storage; Credit and Collections; Logistics,Manufacturing,Operations
+187,Unknown　TCR,Digital Marketing Manager,Nuvoton Technology Corporation,Digital Technology; Digital Marketing; Product Design; Product; Strategic Marketing; Recruitment; Product Development; Engineering; Software Development; Project Management; News; Journalism; Product Engineering,Computers & Electronics,Marketing
+188,"Individual Contributor/Staff, Marketing",Senior Manager,"Sumitomo Mitsui DS Asset Management Co., Ltd.",,Financial Services,
+189,Doctor Systems Service Manager,DR Systems Service Manager,Konica Minolta,Systems Management; Customer Service; Systems Services; Disaster Recovery; Service Management; Technology & Innovation; Services Engineering; Field Services; Electronics Engineering; Communications; Communications Systems; Medicine; Engineering; Software Development; Biomedicine; Digital Technology; Imaging; Healthcare; Electrical Engineering,Computers & Electronics,Information Technology
+190,"Owner, Chief Officer",Sales Manager,Sumitomo Electric,Sales Management,Manufacturing,Sales
+191,"Director, Accounting and Finance",Foreign Attorney,Nishimura & Asahi,,Business Services,Legal
+192,Finance Director - Puerto Rico,Finance Director - Puerto Rico,komatsu ltd.,Financial Management,Manufacturing,Finance
+193,"Director, Operations/Project Management",Representative Director/Chairman/CEO at Santen,Santen Pharmaceutical,Senior Management; Chairman,"Healthcare, Pharmaceuticals, & Biotech",Management
+194,Project General Manager,Project General Manager,DENSO,General Manager; Systems Management; Network Management; Accounting; Systems Architecture & Development; Civil Engineering; Development & Architecture; Cloud Infrastructure; Credit and Collections; Business Management; Audit; Engineering; Software Development; Cloud Computing; Infrastructure Management; Network Solutions; IT Management; Data Storage; Facilities Management,Manufacturing,Management
+195,"Senior Vice President, Product Planning","Senior Vice President, Product Planning",Dongfeng Nissan Passenger Vehicle Co.,Product Development; President; Product Design; Product; Product Engineering,Manufacturing,Product Management
+196,"Individual Contributor/Staff, Chief Officer",クラウドインフラエンジニア,cyberagent,Systems Management; Trading and Securities; Drug Regulation; Civil Engineering; Cloud Engineering; Development & Architecture; Cloud Infrastructure; Engineering; Software Development; Cloud Computing; Solutions Development; Infrastructure Management; Infrastructure Engineering; Web Management,Software & Internet,
+197,"Owner, Chief Officer",Project Manager,"Software Research Associates, Inc.",Project Management; Application Development; Software Development; Mobile Applications; Mobile Device; IT Infrastructure,Software & Internet,Product Management
+198,"Director, Infrastructure & Technology Management",Director of Display module technology lab.,Huawei,Technology & Innovation; Pharmacology; Design; Systems Management; Engineering; Software Development; Project Management; Network Management; Simulation Software; Research; Graphic Design; Electrical Engineering,Computers & Electronics,
+199,"Manager, Operations/Project Management",Deputy General Manager,"tokyo gas co., ltd.",General Manager,Energy & Utilities,Management
+200,"Individual Contributor/Staff, Information Technology",Senior Development Policy Planning Officer,Ministry of Foreign Affairs of Japan,Software Development; IT Policy,Government,
+201,サポート,recomot Inc. - Sales Consultant,株式会社レコモット,,,Sales
+202,企画,課長,Nitto Denko Corporation,,Manufacturing,
+203,東北統括本部長,"General Manager, Tohoku General Headquarters",The Yomiuri Shimbun,General Manager; Publications; Public Relations; Network Management; Media Relations; Social Media; IT Policy; Communications; Strategic Communications; Online Journalism; Digital Marketing; Reporting; Creative Services; Content Management; Storytelling; Digital Media; News; Writing; Journalism,Media & Entertainment,Management
+204,エンジニア,employee,Fujitsu,,Computers & Electronics,
+205,担当部長,Manager,Hitachi,,Computers & Electronics,
+206,職員,??????,Obayashi Corporation - Middle East Office,,Real Estate & Construction,
+207,エンジニア,Manager,NTT DATA,,Business Services,
+208,事業戦略・企画,Director,hitachi america,Business Strategy; Business Intelligence; Strategy Development; Project Management; IT Management,Computers & Electronics,
+209,部長クラス,Commercial Aviation Industry Team,Mitsubishi,,Manufacturing,
+210,マネージャー,"Leader/Senior Manager, Global Infrastructure, Information Systems",agc group,Systems Management; Infrastructure Management; Information Systems; Global Infrastructure; IT Infrastructure,Manufacturing,Information Technology
+211,マネージャー,マネージャー,NTT DOCOMO,,Telecommunications,
+212,担当部長,Manager,NTT West,,Telecommunications,
+213,執行役員 製品開発運用本部長,"Corporate Officer, VP of Product development and Operations, CTO",i Cubed Systems,Product Development; Software Development; Dev Ops; Product; IT Management; Systems Management; LAN WAN; Network Management; Systems Architecture & Development; IT Process Management; Cloud Infrastructure; IT Infrastructure; Design; Business & Technology Solutions; Enterprise Mobility; Engineering; Cloud Computing; Brand Management; Infrastructure Management; Information Technology and Services; Enterprise Marketing Management; Web Development; Construction; Technology Infrastructure; Technology & Innovation; Product Design; Communication & Collaboration; Security Management; Reporting; Writing; IT Systems; Virtualization,Software & Internet,Product Management
+214,課長,MIS,Nitto Americas,Information Systems; Information Systems Management; Customer Support; Network Management; Technical Support; IT Support; IT Management,Manufacturing,Information Technology
+215,副部長,Director,（株）大和ネクスト銀行,,,
+216,取締役 プロダクト開発・カスタマーサクセス部 部長,Chief Product Officer and Chief Customer Success Officer,株式会社エイトレッド,,Software & Services,Product Management
+217,プロジェクトマネージャー,インフラエンジニア,株式会社DTS,,Software & Internet,
+218,プロモーショングループ,営業支援部,Nitto Denko Corporation,,Manufacturing,
+219,海外オペレーション,IT,fujitsu limited,,Computers & Electronics,Information Technology
+220,従業員,従業員,Autodesk,,Software & Internet,
+221,マネジメントＳＥシステム監査技術者,"Chief Manager, Engineering Process Group",CAC Corporation,engineering,Software & Internet,
+222,一般職,Se,,,,
+223,Business開発,Supply Chain Advisory,CBRE,Supply Chain Management; Supply Chain,Real Estate & Construction,Operations
+224,主幹,Senior Cooridinator,Panasonic,,Computers & Electronics,
+225,品質保証,Business Planning Manager,"hitachi, ltd.",Business Strategy; Art; Trading and Securities; Writing; Information Security; Cyber Crime; Security Management; Web Security; Security Systems,Computers & Electronics,Business Development
+226,内部監査室,Internal Auditor,"Daikin Industries, Ltd.",Audit; Accounting,Real Estate & Construction,Finance
+227,エンジニア,Owner,,Senior Management; Business Strategy; Acquisitions; Marketing Strategy; Strategy Development; Mergers and Acquisitions; Coaching; Mergers; Digital Marketing; Corporate Development; Corporate Finance; Finance Strategy; Software Development; Online Marketing; Financial Planning; Due Diligence; Startup,,Management
+228,アシスタントマネージャー,Global Product Marketing,Nissan Motor Corporation,Product Marketing; Product,Manufacturing,Marketing
+229,システムエンジニア,System Engineer,Mitsui knowledge Industry,Systems Management; Engineering; Software Development; Systems Architecture & Development,Computers & Electronics,Information Technology
+230,執行役員,Workplace事業部 部長,Pksha Technology,,Software & Internet,Management
+231,なし,Manager,Fujitsu,,Computers & Electronics,
+232,総務（人材育成、IT）,"Vice President, R&D Planning and Management","Daiichi Sankyo Co., Ltd.",President; Biotechnology; Drug Research; Technology & Innovation; Drug Regulation; Lifesciences; Oncology; Biology; Pharmacology; Biochemistry; Research; Biomedical Informatics; Drug Discovery; Medicine; Chemistry; Software Development; Research Informatics; Immunology; Biomedicine; Clinical Research; Drug Development; Technology Transfer; Informatics; Pharmaceuticals,"Healthcare, Pharmaceuticals, & Biotech",R&D
+233,なし,Customer Engineer,,Engineering; Software Development; Storage Infrastructure; Storage; Customer Experience; Network Management; UX/UI; User Experience,,R&D
+234,一般社員,"Nikon - Recruiter, Talent Acquisition team",Nikon,Acquisitions; Talent Management; Recruitment,Computers & Electronics,Human Resources
+235,マネジング・ディレクター,Managing Director,Accenture,Systems Management; Business Strategy; Business Intelligence; Business Process Management; Strategy Development; Integration Management; Data Management; Civil Engineering; IT Process Management; Development & Architecture; Data Integration; Business & Technology Solutions; Software Development; Cloud Computing; Project Management; Solutions Development; Pre Sales; Infrastructure Management; Business Continuity; Logistics,Business Services,Management
+236,開発者,Owner,CNS (Computer Network Systems),Senior Management,Software & Internet,Management
+237,部長,"Manager, Global Business Department.",,Engineering; Software Development; Sales Engineering; Project Management; Security Management; Culture; Security Systems,,
+238,Assistant Chief Engineer(アシスタントチーフエンジニア),New Model - Engineering Project Leader,"honda motor co., ltd.",Engineering; Project Management; Product Development; Systems Management; Software Development; Network Management; Product Marketing; Product; Corporate Security; Manufacturing,Financial Services,R&D
+239,研究職,Researcher,（株）豊田中央研究所,Research,,R&D
+240,エンジニア,Technology Consultant,dxc,Technology & Innovation; IT Consulting,Software & Internet,Information Technology
+241,執行役員,Executive Officer (COO of Rakuten Mobile / CCO of Rakuten Symphony),rakuten inc,Mobile; Operations Management; Acquisitions; Business Strategy; Marketing Strategy; Marketing Research; Financial Analysis; Mergers and Acquisitions; Technology & Innovation; Market Development; Mergers; Research; Marketing Analytics; Investment Management; Corporate Finance; Hedge Funds; Investments; Venture Capital,Retail,Operations
+242,代表取締役社長,Presiden& CEO,Molten,Senior Management; Product Development,Software & Internet,Management
+243,課長,Researcher,Ntt West,Research,Telecommunications,R&D
+244,シニアプランナー,シニアプランナー,ADK (WPP Company),,Business Services,
+245,営業,Sales Unit Manager,Hitachi,Business Strategy; Business Intelligence; Software Development; Technology & Innovation; Sales Management,Computers & Electronics,Sales
+246,担当,Global Compensation & Benefit,Mitsubishi Motors Corporation,Compensations; Benefits; Software Development; Talent Management; Corporate Development,Manufacturing,Human Resources
+247,データ戦略室 統括部長,データ戦略室 統括部長,EPark,President; Engineering; Chemistry; Business Partnering; Materials; Lifesciences; Environmental Engineering; General Manager; Pharmacology; Wastewater; Environmental Management,Business Services,
+248,マネジャー,Manager,AGC,Chemistry; Lifesciences,Manufacturing,
+249,マネージャー,Manager,Avanade,,Software & Internet,
+250,代表取締役会長,本部長,ADK (WPP Company),,Business Services,
+251,課長,Project Supervisor,"Konica Minolta, Inc.",,Computers & Electronics,Operations
+252,マネジャー,プロジェクトマネージャー、チームリーダー,Sony Group Corporation,Digital Distribution; Digital Technology; Distribution; Quality Control,Telecommunications,
+253,コンサルタント,Consultant,IBM,,Software & Services,
+254,エンジニア,"Expert, Product Development Department",Fujitsu,Product Development; Software Development; Product,Software & Internet,Product Management
+255,管理職(部長以上),Information Technology Innovation Division I,Mitsui,Technology & Innovation,Manufacturing,Information Technology
+256,勤務,勤務,NTT DATA,,Business Services,
+257,統括部長,Product Leader for CMOS Image Sensor,Sony,Imaging; Product,Media & Entertainment,Product Management
+258,課長,IT Consultant,,IT Consulting; Systems Management; Integration Management; Systems Integration; IT Support; Cloud Infrastructure; Corporate Development; Software Development; Customer Support; Cloud Computing; News; Public Cloud; Journalism; Partner; Web Services,,Information Technology
+259,一般職,Cloud Solutions Architect - AWS,NetApp,Cloud Computing; Solutions Development; Civil Engineering; Development & Architecture; Cloud Infrastructure; Cloud Solutions; Network Management; Disaster Management; Transportation; IT Infrastructure; Recruitment; Application Development; Engineering; Software Development; Investments; Education; Infrastructure Management; Infrastructure Engineering; Sales Development; Partner; Network Engineering; Technology & Innovation; Switching; 3PL; Solutions Selling; Storage; Taxes; Investigation; Quality Assurance; Logistics,Computers & Electronics,Information Technology
+260,常務執行役員,Managing Officer (In charge of R&D / Corporate Alliance / IT),Juki,Product Development; Business Strategy; Engineering; Strategy Development; Software Development; Technology & Innovation; Project Management; Product; Corporate Development,Manufacturing,R&D
+261,課長,Account Manager,SB C&S Corp.,Customer Success; Account Management,Software & Internet,Sales
+262,課長補,Senior Manager,Isuzu Automotive Company,,Manufacturing,
+263,保守設計,Senior Director of Design Center at Fujitsu,fujitsu limited,Design; Industrial Design; Business Strategy; User Experience Design; Product Design; Interface Design; User Interface; User Experience; Product; Quality Management; Interaction Design; Creative Services; Graphics; User Interface Design; Project Management; Creative; Customer Experience; UX/UI; Graphic Design,Computers & Electronics,
+264,部品リマン推進本部,Seinor Manager Parts HANSEI Operation CEnter,komatsu ltd.,Business Strategy; Systems Management; Business Process Management; Strategy Development; Accounting; Materials; Production; IT Process Management; Process Improvement; Manufacturing; Business Continuity,Manufacturing,Operations
+265,調達,"Sourcing Manager, Procurement",astellas,Procurement; Supply Chain Management; Supply Chain,"Healthcare, Pharmaceuticals, & Biotech",Operations
+266,統括部長,General Manager,Sony,General Manager,Media & Entertainment,Management
+267,ディレクター,Director of New Product Marketing,Asurion,Product Marketing; Product; Marketing Research; Software Development; Market Development; Channel Sales; Digital Marketing; Research; Corporate Development,Computers & Electronics,Product Management
+268,センター長,Senior Management,RICOH Company Limited,Senior Management,Manufacturing,Business Development
+269,コンサルティング,Associate Director,Gartner,Design; Workflow Management; Program Management; IT Consulting; Digital Technology; Insurance; Banking; Trading; Optimization; Corporate Development,Computers & Electronics,
+270,人事総務部,Manager,Sojitz Corporation,,Business Services,
+271,ブランド戦略、マーケティングコミュニケーション戦略,Director,FRONTAGE.INC,,Business Services,
+272,プロジェクトマネジメント,Sales Specialist Software,Ntt Ltd.,Software Development; Customer Support; Cloud Computing; Technology & Innovation; Digital Technology; Web Infrastructure; Infrastructure Management; Global Infrastructure; Information Technology and Services; IT Support; IT Infrastructure,Software & Internet,Sales
+273,財務,Director,Santen,,"Healthcare, Pharmaceuticals, & Biotech",
+274,業務イノベーション推進室長,General Manager,ITOCHU,General Manager,Financial Services,Management
+275,研究開発,Acting Manager,Mitsubishi Heavy Industries,Enterprise Mobility,Manufacturing,
+276,その他,"General Manager, Products Planning Department",Panasonic,Product Development; Product Design; Product; General Manager; Product Engineering,Computers & Electronics,Management
+277,シニアスペシャリスト,"Senior Software Architect, Product Manager, Technical Director",DENSO,Software Development; Software Engineering; Civil Engineering; Product; Development & Architecture; IT Management; Systems Management; The Board; Network Management; Solutions Design; Design; Product Development; Engineering; Project Management; Agile; Senior Management,Manufacturing,R&D
+278,IT企画部,Project Manager,Tokio Marine,operations,Insurance,
+279,開発,Production Engineering,Nikon,Engineering; Production; Production Management; Production Engineering,Computers & Electronics,Product Management
+280,人工知能研究センター データプラットフォーム研究チーム チーム長,Researcher,産業技術総合研究所（産総研）,,Commercial & Professional Services,R&D
+281,チーフ,従業員,Kikusui Chemical Industries,Software Development; Technology & Innovation; Materials; Civil Engineering; Performance Management; Technology Development; Development & Architecture; Recruitment,Retail,
+282,執行役員部門長,執行役員,Td Synnex,,Computers & Electronics,Management
+283,課長,Director,ソフトバンク(SoftBank),,Diversified Financials,
+284,課長,データセンターアーキテクト,SoftBank,,Software & Internet,
+285,営業,Inside Sales - Strategic Territory Sales Rep,autodesk inc,Territory Sales; Inside Sales; Wireless; LAN WAN; Accounting; Product; IT Solutions; Building Information Modeling; Development & Architecture; Cloud Infrastructure; Software Development; Cloud Computing; Account Management; Senior Management; Information Technology and Services; Construction; Customer Success; Civil Engineering; Data Management; Big Data; Renewals; Security Management; Credit and Collections; Storage; IT Management,"Travel, Recreation, and Leisure",Sales
+286,システムエンジニア,Chif operation,"hitachi, ltd.",,Computers & Electronics,Operations
+287,事務職,事務職,sojitz corporation,,Manufacturing,
+288,Info Tech 主任 シニア・リサーチャー,Vice Chair of PoC Committee,Automotive Edge Computing Consortium (AECC),Vice Chairman; Chairman,Non-Profit,Management
+289,会社員,System Engineer,"Kyndryl Holdings, Inc",Systems Management; Engineering; Software Development; Systems Architecture & Development,Business Services,Information Technology
+290,事業部長・拠点長クラス,"Head of Marketing and Communications, Sales Management",CBRE Asia Pacific,Communications; Sales Management; Business Strategy; Marketing Strategy; Change Management; Business Intelligence; Strategy Development; Financial Services; Public Relations; Corporate Communications; Corporate Marketing; Information Security; Communication & Collaboration; Risk Management; Corporate Development; Direct Marketing; Software Development; Marketing Management; Insurance; Communications Networks; Internal Communications,Real Estate & Construction,Marketing
+291,社員,従業員,JBCC Corporation,,Computers & Electronics,
+292,上記以外,Principal,JAFCO,Principal,Financial Services,
+293,課長,Manager Engineering,Macnica,Engineering,Computers & Electronics,R&D
+294,主任技師,Manager,,Learning; Business Intelligence; Software Development; IT Consulting; Production; Statistics; Machine Learning,,
+295,エンジニア,Engineer,TDK,Engineering; Software Development,Computers & Electronics,R&D
+296,課長クラス,Manager of Corporate system plannning & development project,mitsubishi corporation,Systems Management; Business & Technology Solutions; Software Development,Manufacturing,Information Technology
+297,部長代理,Financial Systems Business Div. 1,,,,
+298,管理職(課長以下),Project Manager,Denso Wave Incorporated,Project Management,Computers & Electronics,Product Management
+299,課長クラス,International Sales and Marketing Manager,Professional Audio - Yamaha Corporation of America,Network Management,Media & Entertainment,Sales
+300,担当部長,"Assistant Manager, International Procurement Group I",Hitachi,Procurement; Supply Chain Management; Supply Chain,Computers & Electronics,Operations
+301,一般社員,Sales,ITOCHU Techno-Solutions Corporation (CTC),,Software & Internet,Sales
+302,なし,Researcher,FUJITSU FRONTECH,,Computers & Electronics,
+303,事業部長・拠点長クラス,Manager,Shift Gmbh,,Business Services,
+304,マネジャー,Senior Principal,Accenture,Principal; Systems Management; Integration Services; Integration Management; Cloud Computing; Technology Architecture; Technology & Innovation; Systems Integration; Civil Engineering; Development & Architecture; Cloud Infrastructure; IT Operations; Cloud Solutions,Business Services,
+305,主任／係長クラス,Customer Representative,Vertex Software Pvt. Ltd.,,Computers & Electronics,
+306,一般社員,Project Manager,Fast Retailing,Project Management,Retail,Product Management
+307,執行役員 技術部長,Engineer,Nippon Light Metal,Engineering; Software Development,Manufacturing,R&D
+308,一般社員,System Engineer,MISUMI Group,Systems Management; Engineering; Software Development; Systems Architecture & Development; Telecommunications; Gaming,Capital Goods,Information Technology
+309,ソフトウェアエンジニア,Engineer,Renesas Electronics,Engineering; Software Development,Computers & Electronics,R&D
+310,システムインテグレータ,staff,NTT DATA,,Software & Internet,
+311,課長クラス,Head of Research Technology,Mizuho Securities Co.,,Diversified Financials,R&D
+312,ビジネス報道ユニット部次長,Technology Editor,Nikkei,,Media & Entertainment,Operations
+313,課長_Manager,"Clarino Division, Industrial Materials Section",Kuraray - EVAL,Materials,Manufacturing,
+314,なし,Manager of Front End Engineering,IBM,engineering,Software & Services,
+315,センター長代理,Copywriter/Creative Director,ADK (WPP Company),Creative Direction; Creative; Copywriting; Creative Services,Business Services,Marketing
+316,ユニットリーダー,ユニットリーダー,RIKEN,Systems Management; Options; Visualization; Data Management; Big Data; Data Mining; Statistics; Machine Learning; Data Science; Learning; Quantitative Analysis; Forex; Software Development; Storage; Trading; Data Visualization,Business Services,
+317,一般職,Support,Booklive,Customer Support; IT Support,Media & Entertainment,Information Technology
+318,エンジニア,モバイルエンジニア,KDDI Corporation,,Telecommunications,
+319,課長,無し,NSK Global,,Manufacturing,
+320,事務,Chief sales engineer,NTT Comware,Engineering; Software Development; Sales Engineering,Software & Internet,Sales
+321,コンサルタント,Senior Analyst,Accenture,,Software & Internet,
+322,契約社員,IT,RIKEN,information_technology,Business Services,
+323,室長,『出川哲朗の充電させてもらえませんか？』『有吉ぃぃeeeee！』『中居正広のただただ話すダーケ』『世界！ニッポン行きたい人応援団』『超シリトリアル』『最強重機王決定戦』『リアル脱出ゲーム密室美少女』企画&演出&プロデュース。国内最大級の全国高校生eスポーツ大会『STAGE:0』を立ち上げプロデュース。,TV Tokyo,,Media & Entertainment,
+324,一般社員,Consultant,Toyo Business Engineering,,Consumer Services,
+325,取締役CTO,取締役 CTO,株式会社サイダス,IT Management; Enterprise Architecture; Business Intelligence; Integration Management; Technology & Innovation; Data Management; Civil Engineering; Big Data; Data Warehouse; Development & Architecture; Data Integration; Engineering; Software Development; Storage; Solutions Development; Software Engineering; Performance Management; Data Modeling; Information Technology and Services; Logistics,Software & Internet,R&D
+326,なし,Software Engineer,Sony Group,engineering,Media,R&D
+327,担当課長,Manager,DENSO,,Manufacturing,
+328,商品企画,Senior Business Planner Senior Business Planner,Sony,,Media & Entertainment,Business Development
+329,コンサルティングシステムエンジニア,Consulting Systems Engineer Meru,Fortinet,Systems Management; Engineering; Software Development; Systems Architecture & Development,Software & Internet,Information Technology
+330,執行役員 グローバルテクノロジー本部長,Vice President of Global Technology,"Macromill, Inc.",President; Technology & Innovation,Business Services,Information Technology
+331,リリースマネジャー,Release Manager,Active Gaming Media,,Consumer Services,
+332,グループマネジャー,Group Manager,Avanade,"Systems Management; Cloud Security; Cyber Security; Compliance; Information Security; Information Systems; Security Management; Risk Management; Governance, Risk and Compliance; Security Risk; Information Security Management; Cloud Computing; Product Security; Risk Compliance",Computers & Electronics,
+333,エンジニア,System Consultant,RISO KAGAKU CORPORATION,Systems Management,Computers & Electronics,
+334,その他,"Toyota Technical Development Corp, Senior Project Manager",TTDC トヨタテクニカルディベロップメント株式会社,operations,Automobiles & Components,
+335,営業,サーバー管理,NTT,,Software & Internet,
+336,技師長,Executive Engineer,"Daikin Industries, Ltd.",Engineering; Software Development,Manufacturing,R&D
+337,専任部長,General Manager,"Jupiter Telecommunications Co., Ltd.",General Manager,Telecommunications,Management
+338,経営者,"Leave A Nest Co, CIO",Leave a Nest,information_technology,Commercial & Professional Services,Information Technology
+339,ソフトウェア開発,Musashino-Shi,,,,
+340,本部長,"Manager, Commerce Service Industry Sales Dept.",Hitachi Solutions America,Commerce,Software & Internet,Sales
+341,企画,Senior Manager,"hitachi, ltd.",,Computers & Electronics,
+342,グループマネジャー,consultant,Avanade,Customer Service; Content Management; Journalism; Creative Services,Software & Internet,
+343,コンサルタント,Analyst,Accenture,,Software & Internet,Finance
+344,開発本部 技術開発推進部 チーフ,Security Engineer,Secom,Engineering; Software Development; Security Engineering; Security Management,Business Services,Information Technology
+345,担当課長,Service Project Manager,NTT West,Project Management,Telecommunications,Product Management
+346,株式会社JERA,Senior Manager of Power Trading Orchestration program/ ICT 課長,JERA Americas,Trading,Manufacturing,Information Technology
+347,アーキテクト,Innovation Incubation Projects Lab Leader / IBM Garage CoE Leader,IBM,Pharmacology; Project Management; Network Management,Software & Internet,
+348,一般社員,Codeless Automation Training Specialist,Accenture,Customer Success; Training and Development,Software & Internet,Sales
+349,代表取締役会長,President and CEO,Comture Corp,President; Senior Management,Business Services,Management
+350,工事管理,Construction Divislon,"Toyo Engineering Corporation, Japan",Construction,Real Estate & Construction,
+351,主査,主査,"NTT DOCOMO, Inc.",,Telecommunications,
+352,なし,なし,"MonotaRO Co., Ltd.",,Retail,
+353,なし,Staff,Fujitsu,,Software & Internet,
+354,なし,Supplier Quality Engineer,Nissan Motor Corporation,Engineering; Software Development; Supplier Management; Quality Assurance; Quality Engineering,Manufacturing,R&D
+355,担当課長,acting chief of a section,ソフトバンク（SoftBank）,,Commercial & Professional Services,Management
+356,担当,Product Planning Manager,Hitachi,Product Development; Product Design; Product; Product Engineering,Computers & Electronics,Product Management
+357,次長,Manager,SBI Securities,,Financial Services,
+358,システムエンジニア,Senior Engineer,Hitachi,Engineering; Software Development,Computers & Electronics,R&D
+359,ITコンサルタント,Consulting Group Manager,Allied Telesis,,Computers & Electronics,
+360,NW監視,"Senior Research Engineer, Supervisor / Group leader","NTT, OOO",Engineering; Software Development; Research,Wholesale & Distribution,R&D
+361,ソフトウェア開発・保守,主管技師 (Chief Engineer),"hitachi, ltd.",Engineering; Software Development,Computers & Electronics,R&D
+362,グループマネジャー,Data Engineer,リクルートダイレクトスカウト[Recruit Direct Scout]株式会社リクルート,Engineering; Software Development; Data Engineering; Systems Management; Network Engineering; ERP; Network Management; Systems Architecture & Development; Civil Engineering; Communications; Development & Architecture; Cloud Infrastructure; Solutions Selling; Cloud Computing; Web Services,Computers & Electronics,Information Technology
+363,品質管理責任者,品質管理責任者,ASKUL CORPORATION,,Retail,
+364,一般社員,DBA,"GMO Media, Inc.",Database Administration,Software & Internet,Information Technology
+365,部長,Senior Principal Engineer,renesas electronics america inc.,Engineering; Software Development; Principal Engineering; Principal; Design; Systems Management; Quality Assurance; Debug; Solutions Design; Electrical Engineering,Computers & Electronics,R&D
+366,課長,Manager,softbank corp.,,Financial Services,
+367,センター長,"Vice President, Corporate Technology",toshiba corporation,"President; Business & Technology Solutions; Technology & Innovation; Systems Management; Development Management; Cyber Security; Social Media; Information Security; Product; Research; Machine Learning; Design; Software Development; Cloud Computing; Education; Digital Technology; Digital Media; Infrastructure Management; Manufacturing; Cloud Solutions; Dev Ops; Security Management; Mobile; Governance, Risk and Compliance; IT Strategy; Product Development; Medicine; Mobile Device",Computers & Electronics,Information Technology
+368,マネジャー,グループ長（シニアマネージャー）,FUJIFILM Business Innovation Asia Pacific,Business Strategy; Strategy Development; Software Development; Technology & Innovation; Social Media; Network Management; Digital Marketing; Sales Management; SEO; Machine Learning; Advertising; Corporate Development,Software & Internet,
+369,シニアファサードエンジニア,Facade Engineer,Arup,Engineering; Software Development; Design; Construction; Structural Engineering; UX/UI; CAD; Civil Engineering; Design Management; Architectural Design; Building Information Modeling; Research; Development & Architecture,Business Services,R&D
+370,社長・役員,Global Business Development,Fujitsu,Software Development; Business Strategy; Strategy Development; Customer Service; Customer Relations; Project Management; Business Operations; Research; CRM,Computers & Electronics,Business Development
+371,担当,担当,NTT West,Systems Management; Engineering; Systems Architecture & Development; Telecommunications,Telecommunications,
+372,教務課 情報研究係,Unknown,Unknown,,Financial Services,
+373,コンサルタント,"Group Manager, Data Science & Data Governance Group, CX Consulting Department",野村総合研究所,,Commercial & Professional Services,R&D
+374,会社員,設備技術者,NTT Ltd.,,Software & Internet,
+375,本部長,"Senior Director, Digital Healthcare Division","hitachi, ltd.",Digital Technology; Healthcare; Change Management; Business Strategy; Software Development; Network Management; Corporate Development,Computers & Electronics,
+376,プランナー,コミュニケーションディレクター,ADK (WPP Company),,Business Services,
+377,一般社員,regular position,SoftBank Group Corp.,,Financial Services,
+378,本部長,R&D,"hitachi, ltd.",,Computers & Electronics,R&D
+379,主査,Vice President,toshiba corporation,President; Systems Management; The Board; Technology & Innovation; Accounting; IT Process Management; Product; Microelectronics; Sales Management; Middleware; Graphics; Audit; Software Development; Project Management; Quality Assurance; Quality Control; Electrical Engineering,Computers & Electronics,
+380,ITアーキテクト,一般,Sony Group Corporation,,Telecommunications,
+381,常務執行役員 ソーシャルインパクト・パートナーシップ事業部長,"Managing Executive Director, General Manager of Social Impact Partnership Business Dept.","Mitsubishi UFJ Research & Consulting Co.,Ltd.",Social Media; Partnerships; General Manager; Team Management; Biotechnology; Customer Service; Backup and Recovery; Network Management; Systems Architecture & Development; Information Security; IT Process Management; Process Improvement; Vendor Management; Machine Learning; eHealth; Risk Management; Corporate Development; Delivery Management; Payables Management; Project Delivery; Closed Circuit Television; Change Management; Biostatistics; Business Process Management; Business Intelligence; Urban Planning; Technology & Innovation; Data Management; Banking; Big Data; Security Management; Mobile; Development Lifecycle; IT Strategy; Storage; Surveillance; Project Management; Healthcare; IT Management; Operations Management,Financial Services,Management
+382,管理職,管理職,"all nippon airways co., ltd.",,"Travel, Recreation, and Leisure",
+383,リーダ,Leader of Product Design Team,Makino,Design; Product Design; Product; Creative Services; Industrial Design; Reporting,Manufacturing,Product Management
+384,サービス運用者,Senior Manager,,Software Development; Infrastructure Management; SMB Marketing,,
+385,事業部長,Sales manager,Nagase,Sales Management,Computers & Electronics,Sales
+386,経営者,director,,,,
+387,課長,Cloud Architect,NTT West,Cloud Computing; Civil Engineering; Development & Architecture; Cloud Engineering,Telecommunications,R&D
+388,ネットワークエンジニア,Chief Technology Officer,Shaner Insurance Group,Technology & Innovation; IT Management; Team Management; Business Strategy; Payment Solutions; Customer Service; Mergers; Customer Satisfaction; IT Support; Machine Learning; IT Infrastructure; Learning; President; Software Development; Customer Support; Infrastructure Security; Infrastructure Management; Performance Management; Business Intelligence; Financial Analysis; Integration Management; Security Management; Project Management; Customer Experience; Billing; Business Performance; Financial Planning,Financial Services,R&D
+389,ソフトウェアエンジニア,ソフトウェアエンジニア,"Brother Industries, Ltd.",,Computers & Electronics,
+390,部長,Senior Director,astellas pharma inc.,,"Healthcare, Pharmaceuticals, & Biotech",Management
+391,課長,"Manager, Digital Value Co-Creation",Asahi Kasei,Digital Technology; Corporate Finance; Mergers and Acquisitions; Equities; Investments; Network Management; Social Media; Digital Media; Digital Marketing; Investment Management; Startup; Venture Capital,Manufacturing,
+392,ネットワークアドミニストレータ,Network Administrator,ROTA YOKOGAWA GmbH & Co. KG Regeltechnik,Network Management; Integration Management; Technology & Innovation; Network Security; DNS; Information Security; Security Management; Troubleshooting; Quality Assurance,,Information Technology
+393,課長,Manager,Mitsubishi Corporation,,Business Services,
+394,品質保証・品質管理,品質保証・品質管理,"Kagome Co., Ltd.",,Manufacturing,
+395,勤務,Salesperson,,Technology & Innovation; Information Technology and Services,,Sales
+396,部長,"Manager, Department",Hitachi,,Computers & Electronics,
+397,経理職,Financial Planning and Analysis,kubota corporation,Financial Planning,Manufacturing,Finance
+398,主任技師,Senior Director,Hitachi,,Computers & Electronics,
+399,情報システム,Specialist in strategic business alliance,Toshiba,Business Partnering,Computers & Electronics,Operations
+400,エンジニア,ITエンジニア,"Recruit Co.,Ltd.",,Software & Internet,
+401,担当者,System Engineer,Sony,Systems Management; Engineering; Software Development; Systems Architecture & Development; Regulatory Affairs; Research,Computers & Electronics,Information Technology
+402,担当部長,Engineering Manager,Hitachi,Engineering,Computers & Electronics,R&D
+403,部長,manager,fujitsu limited,,Computers & Electronics,
+404,室長,"Business Strategy Office, Office Manager",Rakuten,Business Strategy; Office Management; Marketing Strategy; Business Partnering; Segmentation; Business Marketing; Product Marketing; Product; Partnerships; Digital Marketing; Vendor Management; Lead Management; Market Strategy; Retail; Lead Generation; Digital Technology; Life Cycle Management; Partner; Product Design; Competitive Intelligence; SaaS; Market Development; Product Development; Program Management; Channel Marketing; Multi-Channel Sales; Go to Market Strategy; Online Marketing; Product Engineering; Demand Generation; Multi-Channel Marketing,Retail,Business Development
+405,取締役上席執行役員企画・財務本部長,"Director, Outside","Yamaha Motor Co., Ltd.",,Manufacturing,
+406,担当部長,"General Manager, Sales And Marketing","Kobelco Metal Powder of America, Inc.",General Manager,Agriculture & Mining,Sales
+407,課長代理,Manager,"Hitachi Solutions, Ltd.",,Business Services,
+408,プロジェクトマネージャー,Research Manager,Kuraray - EVAL,Research,Manufacturing,R&D
+409,センター長,取締役,"Densan Co., Ltd.",Business Strategy; Network Engineering; Strategy Development; Network Management; Security Engineering; Network Security; Information Security; Security Management; IT Infrastructure; Design; Application Development; Engineering; Software Development; Visual Basic; Project Management; Infrastructure Management; Infrastructure Engineering,Software & Internet,
+410,主幹,Director,株式会社マクニカ,,Capital Goods,
+411,部長代理,Senior Engineer,"Hitachi, Ltd.",Engineering; Software Development,Energy & Utilities,R&D
+412,担当,Network Engineer,"Hitachi Solutions, Ltd.",Engineering; Network Engineering; Software Development; Network Management; Network Security; Security Management,Software & Internet,Information Technology
+413,室長,Manager,Mitsui,Software Development; Corporate Development,Manufacturing,
+414,課長,特殊鋼貿易部,Kanematsu Ventures Inc,Marketing Strategy; Business Strategy; Marketing Research; Business Marketing; Competitive Intelligence; Product Marketing; Market Development; Product; Sales Management; Research; Mobile; Corporate Development; Product Development; Software Development; Mobile Device,Business Services,
+415,アシスタントマネージャー,一般,Fixer Inc.,,Software & Internet,
+416,社員,"Administration, Accounting",NTT,Accounting; Systems Management; Engineering; Software Development,Software & Internet,Finance
+417,エンジニア,"Expert, Engineering",Macnicar,Engineering,Computers & Electronics,R&D
+418,マネージャー,Account Manager,How to Manage Mobility Sanely and Securely: Beyond BYOD Roundtable Event Series,Customer Success; Account Management; Medicine; Network Management; Imaging; Health Information Management; Data Management; Healthcare,Computers & Electronics,Sales
+419,その他,Director Of Product Development,リクルートダイレクトスカウト[Recruit Direct Scout]株式会社リクルート,Product Development; Software Development; Product; IT Management,Computers & Electronics,Product Management
+420,営業,Regional Relationship Manager,Ricoh Europe,Relationship Management,Software & Internet,
+421,営業支援,"Senior Director, Digital Operation, Digital Communication",Astellas Pharma,Digital Communications; Digital Technology; Digital Media; Communications; Digital Marketing; Digital Operations; IT Operations,"Healthcare, Pharmaceuticals, & Biotech",Marketing
+422,管理職(課長以下),Senior Specialist,Ricoh,,Computers & Electronics,
+423,アナリスト,Unknown,Unknown,,Financial Services,
+424,技術マーケティング,"Manager, Product Engineering Dept.",SUMCO,Engineering; Product; Product Engineering; Technology & Innovation,Computers & Electronics,Product Management
+425,営業,Marketing at Cato products,"Macnica Cytech (Thailand) Co.,Ltd.",Product; LAN WAN; Customer Service; Public Relations; Social Media; Network Management; Network Security; Product Marketing; Information Security; Digital Marketing; Marketing Analytics; Cloud Infrastructure; Machine Learning; Recruitment; Learning; Cloud Computing; Digital Technology; Account Management; Web Analytics; Advertising; Customer Success; Communications; Security Management; Mobile; Solutions Selling; Storage; IT Consulting; Customer Experience; SEM; SEO; Mobile Device; Web Services; Startup,Computers & Electronics,Marketing
+426,システムエンジニア,Technical Specialist,"hitachi, ltd.",Software Development; Communications,Computers & Electronics,
+427,専門職・技術職,Product Manager,Rakuten,Product; Open Source; A/B Testing; Network Management; Data Warehouse; User Experience; Product Marketing; Budget Management; Partnerships; Quality Management; Talent Management; Research; Machine Learning; Design; Application Development; Software Development; Brand Management; UX/UI; Life Cycle Management; Agile; Product Requirements Management; Business Intelligence; Conversion Rate Optimization; Business Analytics; Technology & Innovation; Product Design; Data Management; SaaS; User Interface; Big Data; Communications; Creative Services; Product Development; Program Management; Roadmap; Storage; Project Management; Customer Experience; Data Analysis; Outsourcing; IT Management; Logistics,Retail,Product Management
+428,事業戦略,Platform Bb Advanced Design Hardware Development Tokyo,Sony Group Corporation,Design; Hardware Development; Software Development,Telecommunications,R&D
+429,専門職,Deputy General Manager,Nidec Motor Corporation,General Manager,Computers & Electronics,Management
+430,担当課長,マネージャー,DENSO,,Manufacturing,
+431,無し,"Product Manager, Controller",Omron,Audit; Accounting; Product; Wireless; Systems Management; Cyber Security; Information Security; Product Marketing; IT Process Management; Development & Architecture; Engineering; Software Development; Pre Sales; Global Sales; Manufacturing; SCADA; Electrical Engineering; Integration Management; Sales Engineering; Technology & Innovation; Civil Engineering; Communications; Security Management; Solutions Marketing; Product Development; Biomedicine; Control Engineering; Web Management,Computers & Electronics,Product Management
+432,フリーランス,Software Engineer,,engineering,,
+433,グローバル環境事業統括本部　企画室長,General manager,"hitachi, ltd.","General Manager; Media Marketing; Corporate Communications; Social Media; Product Marketing; Information Security; Commerce; Product; Digital Marketing; Research; Branding; Corporate Development; Brand Marketing; eCommerce; Software Development; HRIT; Brand Management; Digital Technology; Marketing Research; Communications; Market Development; Social Media Marketing; Governance, Risk and Compliance; Integrated Marketing; Brand Development; Project Management; Marketing Management",Computers & Electronics,Management
+434,なし,"Deputy General Manager, Information Planning Sect Information Business System Dept",Yusen Logistics (Americas) Inc.,Systems Management; Business & Technology Solutions; General Manager,Transportation & Storage,Management
+435,室長,Manager of Corporate IT,"mitsui & co., ltd.",Enterprise IT,Manufacturing,Information Technology
+436,アナリスト,Senior Director,Gartner For Marketers,,Business Services,
+437,大学院担当教授,Associate Professor,"Research Institute of Electrical Communication, Tohoku University",Education,Business Services,
+438,システム管理,Manager,Kubota Corporation,,Manufacturing,
+439,マネージャー,Network Engineer,Rakuten,Engineering; Network Engineering; Software Development; Network Management; Social Media; Media Technologies,Retail,Information Technology
+440,製剤技術室　主席部員,Associate Director,takeda pharmaceutical,Systems Management; Change Management; Change Control; Customer Support; Technology & Innovation; Production; Investigation; IT Systems; Manufacturing; IT Support,"Healthcare, Pharmaceuticals, & Biotech",
+441,開発管理担当 プラント付 専任部長,General Manager,Komori Corporation,General Manager; Product Development; Software Development; Product; Corporate Development,Manufacturing,Management
+442,課長,Sales person,Nikon,,Computers & Electronics,Sales
+443,プランニングディレクター,Planning Director,ADK (WPP Company),Marketing Strategy; Media Marketing; Media Management; Customer Service; Marketing Solutions; Commerce; Product; Digital Marketing; Product Development; eCommerce; Software Development; Solutions Development; Digital Technology; Data Analysis; Healthcare; Sales Planning; CRM,Business Services,
+444,管理職,Deputy Manager,Mitsubishi Heavy Industries,,Manufacturing,
+445,社員,社員,Yamaha Music Europe GmbH - Branch Italy,,Retail,
+446,本部長,Country Chief Information Officer,standard chartered bank,Data Management; IT Management; Team Management; Business Strategy; Hardware Development; Systems Management; Customer Service; Strategy Development; Backup and Recovery; Disaster Management; Systems Architecture & Development; Information Security; Vendor Management; Troubleshooting; Data Center; Service Management; Risk Management; Corporate Development; Requirements Management; Software Development; Systems Analysis; Agile; Information Technology and Services; Change Management; Business Intelligence; Integration Management; Dev Ops; Disaster Recovery; Security Management; IT Operations; Development Lifecycle; IT Strategy; Information Security Management; Program Management; Customer Experience; Project Management; Service Delivery; Quality Assurance; Business Continuity,Financial Services,Information Technology
+447,シニアエンジニア,engineer,Ricoh Global,,Consumer Durables & Apparel,R&D
+448,エンジニア,"Senior Sales Director, Businese Promotion Office",NTT West,,Telecommunications,Sales
+449,企画,Product Manager,EIZO,Product,Computers & Electronics,Product Management
+450,マネージャー,Leader of SRE Team,Studist Corporation,,Business Services,
+451,担当部長,担当部長,"hitachi, ltd.",Cloud Computing; Cloud Infrastructure,Computers & Electronics,
+452,総務部,General Manager,Mori Trust Co. Ltd.,General Manager,Financial Services,Management
+453,従業員,従業員,"mitsubishi heavy industries, ltd.",,Manufacturing,
+454,ネットワーククラウド事業本部,スペシャリスト,Plala,,Software & Services,
+455,マーケティング,Product Manager,Startup Olympus Incubator,Product,Financial Services,Product Management
+456,開発IT支援部 ゲームインフラセクション,"Senior Manager, Accounting",SEGA,Accounting; Financial Reporting; Risk Analysis; Budget Management; Revenue Management; Senior Management; Reporting; Risk Management,Consumer Services,Finance
+457,Healthtech/SUM統括ディレクター,"Director, Healthtech/SUM",メドピア株式会社,Medicine; Technology & Innovation,,
+458,会社員,Core Network Standardization Specialist,ntt,Network Infrastructure; Network Management; Mobile,Telecommunications,Information Technology
+459,品質保証,Consultant/Marketing Manager,AlphaTec Solutions,,Software & Internet,Marketing
+460,事務局長,Head of Production Engineering,"Tokyo Broadcasting System Television, Inc.",Engineering; Production; Production Management; Production Engineering,Media & Entertainment,Product Management
+461,シニア・デジタル・エキスパート,digital technology senior expert,Yamaha Motor,Technology & Innovation; Digital Technology,Manufacturing,Information Technology
+462,マネージャー,Manager of Bankig Solution Sales,IBM,Solutions Selling; Enterprise Architecture; Customer Service; Integration Management; IT Delivery; Civil Engineering; Development & Architecture; Service Management; IT Strategy; Requirements Management; Program Management; Customer Experience; Project Management; Solutions Development; Service Delivery; Outsourcing; Information Technology and Services,Software & Internet,Sales
+463,社員,Senior Manager,NTT DATA,,Software & Internet,
+464,なし,Musashino-Shi,Yokogawa,,Software & Services,
+465,次長,Depty General Manager,Jamco Inc,General Manager; Customer Success; Network Management; Data Management; Training and Development,Wholesale & Distribution,Management
+466,上記以外,President,Hakuhodo Inc.,President; Construction; Customer Service; Public Relations; Network Management; Marketing Solutions; Communications; Lead Management; B2B Sales; Cloud Infrastructure; B2B Marketing; B2B; Software Development; Cloud Computing; Lead Generation; Customer Experience; Digital Technology; Real Estate; Account Management; Customer Solutions; Manufacturing; Web Services; Demand Generation,Business Services,Management
+467,一般社員,Account Development Representative,Siemens,Account Development; Software Development; Account Management; Acquisitions; Cloud Security; Network Management; Information Security; Product; Security Management; Sales Promotion; Cloud Computing; Digital Technology; Advertising; Security Systems,Manufacturing,Sales
+468,総務グループ,Assistant Manager,Shaner Insurance Group,,Financial Services,
+469,専任講師,Lecturer,,Education; Learning; Content Management; Coaching; Journalism; eLearning; Creative Services,,
+470,部長 グループＩＴ戦略部,IT Manager,Solize Corporation,IT Management,Manufacturing,Information Technology
+471,専門職契約社員,Director,（株）大豊,,,
+472,エンジニア,Reservoir Engineer,"Idemitsu Kosan Co.,Ltd.",Engineering; Software Development; Network Management; Digital Technology; Production; Simulation Software,Energy & Utilities,R&D
+473,一般社員,Ajudante geral,Industria Textil Tsuzuki Ltda,,Manufacturing,
+474,マネジャー,Manager,Avanade,,Software & Services,
+475,金属・資源・リサイクル本部　鉱産部　セラミックス課,Sojitz Corporation - manager,Sojitz Corporation,,Manufacturing,
+476,プロデューサー,Digital Producer＆XR team leader,Hakuhodo Inc.,Digital Technology; Systems Management; Online Marketing Campaigns; Content Management Systems; Technology & Innovation; Materials; Product; Digital Marketing; Corporate Development; Engineering; Software Development; Content Management; Unity; Campaign Marketing; Employment; Distribution; Production; Marketing Operations; Healthcare; Advertising; Partner; Graphic Design; Web Management,Business Services,
+477,商品設計,"Management Office, Product Development, Mobile Communications Business Group",Sony,Product Development; Software Development; Communications; Product; Mobile,Media & Entertainment,Product Management
+478,チーフ,チーフ,Quick,,Business Services,
+479,コンサルティング,"CMMI High Maturity Lead Appraiser, Director,",Accenture,Acquisitions; Systems Management; Business Process Management; Trading and Securities; Integration Management; Portfolio Management; Systems Architecture & Development; IT Process Management; Process Improvement; Training and Development; Product Development; Software Development; Application Management; Project Management; Supplier Management; Agile; Supply Chain Management; IT Management; Engineering Services,Business Services,
+480,担当,"Associate Manager, Information Technology Solution Support Group Engineering Support Department","hitachi, ltd.",Engineering; Customer Support; Technology & Innovation; IT Solutions; IT Support; IT Management,Computers & Electronics,Information Technology
+481,インフラエンジニア,IT Engineer,,,,Information Technology
+482,参事,"Toshiba, Chief Specialist",Toshiba,,Independent Power and Renewable Electricity Producers,Management
+483,代表取締役社長,Assistant Manager,omron group,,Computers & Electronics,
+484,技術職,Vice Section Manager,Rakuten,Program Management,Retail,
+485,エンジニア,IT Consultant,DXC Technology,IT Consulting,Software & Internet,Information Technology
+486,一般社員,Account Development Dept / General Producer,ADK,Account Development; Software Development; Account Management; Event Management; Advertising,Business Services,Sales
+487,担当部長,Senior Vice President,"hitachi, ltd.",President,Computers & Electronics,Management
+488,助教授,Assistant Professor,Japan Aerospace Exploration Agency,Education,Manufacturing,
+489,課長,Project Manager,DENSO,Project Management,Manufacturing,Product Management
+490,ビジネスシステムズマネージャー,Business system manager,Quraz,Systems Management; Business & Technology Solutions; Water; Product Development; Software Development; Customer Service; Project Management; Systems Architecture & Development; Agile; Threat Management; CRM,Transportation & Storage,Information Technology
+491,データエンジニア,Engineer,,engineering,,
+492,自動車製造,Project Advisor Pe Stamping,Toyota Motor Corporation,,Manufacturing,
+493,プロジェクトマネジメントスペシャリスト,Business Analyst,En World Group,Business Intelligence,Business Services,Business Development
+494,設計開発,Member of Technical Leaders,ローム（株）,,Business Services,
+495,部長,Project Manager,Aucfan,,Software & Internet,
+496,インフラエンジニア インフラ統括マネージャー,General Manager of Infrastructure Division,Cygames,Infrastructure Management; General Manager,Media & Entertainment,Management
+497,課長代理,Sumitomo Corporation,Sumitomo Corporation,Project Management; HRIS,Agriculture & Mining,Legal
+498,事務,Section Manager,"hitachi, ltd.",Program Management,Computers & Electronics,
+499,会社員,Director of System Engineering,hitachi america,Systems Management; Engineering; Systems Architecture & Development; Hardware Development; Technology & Innovation; Data Management; Big Data; User Experience; Product; Quality Management; Mergers; Simulation Software; Benefits; Machine Learning; Corporate Development; Program Development; Software Development; Storage; Project Management; Customer Experience; Digital Technology; UX/UI; Electrical Engineering,Computers & Electronics,Information Technology
+500,社員 社員,Developer,Daitec Co. Ltd.,engineering,Business Services,
+501,earwgtrqweg,,,,,
+502,##%#tgr,,,,,
+503,AWSDVG,,,,,
+504,567890,,,,,
+505,????????????,,,,,
+506,&%#&^^,,,,,
+507,3456789,,,,,
+508,$%*)$@,,,,,
+509,??????,,,,,
+510,<>><$#%RGF,,,,,
+511,😊😂😂🤣🤣🤣🤣🤣,,,,,
+512,�💕🎶😉😉,,,,,
+513,34567,,,,,
+514,🎶🎶👌🤷‍♀️,,,,,
+515,�😒,,,,,
+516,😂🤷‍♀️👌😍😘,,,,,
+517,🎶💕🤦‍♀️😖,,,,,
+518,👌,,,,,
+519,''''''''''',,,,,
+520,%^&*H,,,,,

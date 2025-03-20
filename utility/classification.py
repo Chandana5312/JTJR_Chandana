@@ -73,12 +73,16 @@ class JobTitleClassification:
             5. The job title not recognizable professional role or not closely resemble to the professional role.
             6. Do not remove anything if the job title is invalid. Return the input job title as is.
 
+        **Prioritization Rules:**
+        - If LS Title is valid, use it.
+        - If LS Title is not valid, then use input_job_title
+        - If both are valid but contradict, prioritize LS Title.
+        
+
         User given job title: {job_title}
         Alternate title : {ls_title}
-
-        If any of the titles are valid and similar, give the most suitable job title.
-        If either the user given job title or the alternate title is valid, use only the valid one.
-        If the user given job title and the alternate tile both are valid but contradicts each other, prioretise the aternate title.
+        
+        
 
         The final output should be in JSON format, following this structure:
         {{
