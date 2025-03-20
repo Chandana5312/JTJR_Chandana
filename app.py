@@ -159,9 +159,7 @@ if Certified_flow == "Bulk Mapping":
 
 
         col7,col8,col9,col10 = st.columns([1,1,1,1])
-        df = df[['Lead ID','input_job_title',"detected_language",'LS Title',
-                'LS Company', 'LS Job Functions',
-                'LS Company Industry', 'LS Lead Department',
+        df = df[['Lead ID','input_job_title',"detected_language",
                  "Status","matched_standard_role","marketing_audience",
                  "function","seniority","confidence_score"]]
         df.rename(columns={"Status": "Valid JT"}, inplace=True)
