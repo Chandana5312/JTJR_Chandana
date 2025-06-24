@@ -1,0 +1,501 @@
+Lead ID,Job Title,Language,Valid JT,Job Role,Marketing Audience,Function,Seniority,Confidence Score
+1,　なし,ja,No,,,,,
+2,　部長,ja,Yes,Manager Positions,Business Development DM,Business Development,Manager,0.9
+3,　営業部,ja,Yes,No suitable match found,,,,0
+4,( 主任技師,ja,Yes,Director of Engineering,Engineering DM,Engineering,Director,0.85
+5,"""マネージャー 電気通信主任技術者（伝送交換）",ja,Yes,Telecommunications Specialist,Information Technology User,Information Technology,Entry,0.75
+6,(一般社員),ja,Yes,No suitable match found,,,,0
+7,（一般社員）,ja,Yes,No suitable match found,,,,0
+8,（なし）,ja,No,,,,,
+9,（リーダー）,ja,Yes,Commander,Community and Social Services DM,Community and Social Services,Manager,0.7
+10,(なし),ja,No,,,,,
+11,(個人),zh-Hant,No,,,,,
+12,(主査),ja,Yes,No suitable match found,,,,0
+13,(室長),ja,Yes,Director of Operations,Operations DM,Operations,Director,0.85
+14,(営業),ja,Yes,Sales Executive,Sales DM,Sales,Manager,0.85
+15,（個人としての参加、MICROSOFT MVP）,ja,Yes,No suitable match found,,,,0
+16,（無職）,ja,No,,,,,
+17,（担当）,ja,Yes,Operations Manager,Operations DM,Operations,Manager,0.7
+18,（派遣）,ja,Yes,Logistics Employee,Supply and Logistics User,Supply and Logistics,Entry,0.7
+19,（派遣社員）,ja,Yes,Contract Worker,Other User,Other,Entry,0.85
+20,(専務),ja,Yes,No suitable match found,,,,0
+21,（退職）,ja,Yes,Retired,Other User,Other,Unpaid,1
+22,(退職）,ja,Yes,Retired,Other User,Other,Unpaid,1
+23,(課長),ja,Yes,Operations Manager,Operations DM,Operations,Manager,0.75
+24,（課長クラス）,ja,Yes,Operations Manager,Operations DM,Operations,Manager,0.7
+25,（職能グループ）　サステナビリティ推進部　環境・社会ソリューション課,ja,Yes,Sustainability Specialist,Community and Social Services User,Community and Social Services,Entry,0.85
+26,.医師,ja,Yes,Doctor,Healthcare Services DM,Healthcare Services,Senior,1
+27,.DX戦略本部 デジタル戦略総括部 デジタルプロセス部 第一課,ja,Yes,Digital Manager,Media and Communication DM,Media and Communication,Manager,0.85
+28,？ 准教授,ja,Yes,University Professor,Education DM,Education,Senior,0.85
+29,[14000] 課長,ja,Yes,Operations Manager,Operations DM,Operations,Manager,0.75
+30,",教授",zh-Hans,Yes,Professor,Education DM,Education,Senior,1
+31,[正社員] (ｺｱｽﾀｯﾌ),ja,Yes,No suitable match found,,,,0
+32,[4008] 営業所長,ja,Yes,Sales Operations Manager,Sales DM,Sales,Manager,0.85
+33,^無職,ja,No,,,,,
+34,[5000] 課長,ja,Yes,Staff Manager,Program and Project Management DM,Program and Project Management,Manager,0.75
+35,[派遣社員],ja,Yes,Contract Worker,Other User,Other,Entry,0.85
+36,○,en,No,,,,,
+37,00.社員,ja,No,,,,,
+38,_課長,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.85
+39,00566(課長),ja,Yes,Operations Manager,Operations DM,Operations,Manager,0.75
+40,【個人事業主】,ja,Yes,Small Business Owner,Business Development CXO,Business Development,Owner,0.9
+41,101 室長,ja,No,,,,,
+42,102 統轄次長,ja,Yes,Governor,Community and Social Services CXO,Community and Social Services,CXO,0.75
+43,0648 (IBM JAPAN DIGITAL SERVICES COMPANY 日本アイ・ビー・エム　デジタルサービス㈱),ja,Yes,Digital Media Specialist,Media and Communication User,Media and Communication,Entry,0.85
+44,00755(所長),ja,Yes,Director of Operations,Operations DM,Operations,Director,0.85
+45,00973(所長),ja,Yes,Director of Operations,Operations DM,Operations,Director,0.85
+46,2年9ヶ月,ja,No,,,,,
+47,２課長,ja,Yes,Operations Manager,Operations DM,Operations,Manager,0.7
+48,2WAYリースマーケティング/マーケティングデザイナー,ja,Yes,Marketing Creative Designer,Marketing User,Marketing,Entry,0.85
+49,1課長,ja,Yes,Staff Manager,Program and Project Management DM,Program and Project Management,Manager,0.85
+50,120 次長,ja,Yes,Director of Operations,Operations DM,Operations,Director,0.8
+51,365担当,ja,No,,,,,
+52,365担当TCR,ja,Yes,No suitable match found,,,,0
+53,313 センター長,ja,Yes,Director of Operations,Operations DM,Operations,Director,0.85
+54,350 マネジャー,ja,Yes,Manager Positions,Business Development DM,Business Development,Manager,0.9
+55,320 次長,ja,Yes,Director of Operations,Operations DM,Operations,Director,0.7
+56,3Dデータ活用,ja,Yes,3D Designer,Other User,Other,Entry,0.7
+57,3D住宅CADプロジェクト,ja,Yes,3D Designer,Other User,Other,Entry,0.85
+58,46.研究・開発,ja,Yes,Research and Development Manager,Research DM,Research,Manager,0.85
+59,3Dアーティスト/アニメーター,ja,Yes,3D Artist,Other DM,Other,Senior,1
+60,３PLアドバイザー,ja,Yes,Logistics Manager,Supply and Logistics DM,Supply and Logistics,Manager,0.7
+61,5070教諭,ja,Yes,Teacher,Education User,Education,Entry,1
+62,47.システム管理・保守,ja,Yes,System Administrator,Information Technology DM,Information Technology,Senior,0.85
+63,４グループリーダー,ja,Yes,Staff Manager,Program and Project Management DM,Program and Project Management,Manager,0.75
+64,50.情報処理・オペレーション,ja,Yes,Information Manager,Information Technology DM,Information Technology,Manager,0.75
+65,48.エンジニア・設計・デザイン・クリ工イティブ,ja,Yes,Creative Designer,Other DM,Other,Senior,0.85
+66,ADAS向けプラットフォームソフトウェア開発,ja,Yes,Embedded Software Engineer,Engineering User,Engineering,Entry,0.85
+67,579:部長,ja,Yes,Manager Positions,Business Development DM,Business Development,Manager,0.9
+68,6000係長,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.75
+69,ACコンサルタント,ja,Yes,Consultant,Business Development DM,Business Development,Senior,0.7
+70,AC開発部 AC開発G,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.7
+71,AI DX推進部,ja,Yes,No suitable match found,,,,0
+72,AI AND DATAディレクター,ja,Yes,Director of Artificial Intelligence,Data Professional DM,Data Professional,Director,0.9
+73,AI IN ID-POS協働研究フォーラム事務局長,ja,Yes,Chief Scientific Officer,Research CXO,Research,CXO,0.7
+74,"AI SOLUTION 事業本部, ソフトウェアエンジニア",ja,Yes,Software Engineer,Engineering User,Engineering,Entry,0.85
+75,"AI FRONTIER 部, グループリーダー",ja,Yes,Manager of Artificial Intelligence,Data Professional DM,Data Professional,Manager,0.75
+76,AI/LLM事業部,ja,Yes,Manager of Artificial Intelligence,Data Professional DM,Data Professional,Manager,0.7
+77,AI オペレーション室,ja,Yes,Artificial Intelligence Specialist,Data Professional User,Data Professional,Entry,0.75
+78,AI/MLエンジニア,ja,Yes,Artificial Intelligence Engineer,Data Professional User,Data Professional,Entry,0.9
+79,AI 開発責任者,ja,Yes,Director of Artificial Intelligence,Data Professional DM,Data Professional,Director,0.85
+80,AI 電話事業部開発マネージャー,ja,Yes,Manager of Artificial Intelligence,Data Professional DM,Data Professional,Manager,0.85
+81,AIコンサルタント,ja,Yes,Artificial Intelligence Specialist,Data Professional User,Data Professional,Entry,0.75
+82,AIスペシャリスト,ja,Yes,Artificial Intelligence Specialist,Data Professional User,Data Professional,Entry,0.9
+83,AIエンジニア,ja,Yes,Artificial Intelligence Engineer,Data Professional User,Data Professional,Entry,0.9
+84,AIシニアエンジニア,ja,Yes,Artificial Intelligence Engineer,Data Professional User,Data Professional,Entry,0.85
+85,AIコンサル,ja,Yes,Artificial Intelligence Specialist,Data Professional User,Data Professional,Entry,0.85
+86,AIソリューション営業,ja,Yes,Sales Specialist,Sales User,Sales,Entry,0.85
+87,AI戦略事業本部,ja,Yes,Business Strategist,Business Development DM,Business Development,Senior,0.85
+88,AI導入推進,ja,No,,,,,
+89,AIプロモーション＆SALES,ja,Yes,Sales Specialist,Sales User,Sales,Entry,0.75
+90,AI戦略事業本部 研究・開発 ディベロップメントユニット,ja,Yes,Manager of Artificial Intelligence,Data Professional DM,Data Professional,Manager,0.75
+91,AIロボット工学科長,ja,Yes,Director of Artificial Intelligence,Data Professional DM,Data Professional,Director,0.85
+92,AI活用,ja,Yes,Artificial Intelligence Specialist,Data Professional User,Data Professional,Entry,0.9
+93,AI推進担当,ja,Yes,Artificial Intelligence Specialist,Data Professional User,Data Professional,Entry,0.7
+94,AI戦略室,ja,Yes,Director of Artificial Intelligence,Data Professional DM,Data Professional,Director,0.85
+95,AI活用リサーチャー,ja,Yes,Artificial Intelligence Specialist,Data Professional User,Data Professional,Entry,0.85
+96,AI研究所調査員,ja,Yes,Academic Researcher,Research DM,Research,Senior,0.75
+97,ALMソリューション部,ja,Yes,Software Application Manager,Engineering DM,Engineering,Manager,0.7
+98,AI開発部 一般社員・職員,ja,Yes,Artificial Intelligence Specialist,Data Professional User,Data Professional,Entry,0.7
+99,AI開発,ja,Yes,Artificial Intelligence Engineer,Data Professional User,Data Professional,Entry,0.85
+100,AMSソリューションエンジニア,ja,Yes,Solutions Architect,Architect DM,Architect,Senior,0.85
+101,ALIBABA CLOUD ソリューションアーキテクト,ja,Yes,Solutions Architect,Architect DM,Architect,Senior,0.85
+102,AP開発,ja,Yes,Vice President of Application Development,Developer DM,Developer,VP,0.7
+103,ANDROID研究開発グループ,ja,Yes,Research and Development Manager,Research DM,Research,Manager,0.85
+104,ANSBU 係長・主任クラス,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.85
+105,AP開発、PM,ja,Yes,Project Manager,Program and Project Management DM,Program and Project Management,Manager,0.9
+106,APPLICATIONS ENGINEER  グローバル情報技術戦略オフィス グローバルアーキテクチャー課 情報ツール開発グループ,ja,Yes,Product Development Engineer,Engineering User,Engineering,Entry,0.8
+107,AZUREエンジニア,ja,Yes,Cloud Engineer,Engineering User,Engineering,Entry,0.85
+108,AZURE コンサルタント,ja,Yes,Technology Consultant,Information Technology DM,Information Technology,Senior,0.85
+109,AZURE エンジニア,ja,Yes,Cloud Engineer,Engineering User,Engineering,Entry,0.85
+110,AWSオペレーター,ja,Yes,Cloud Engineer,Engineering User,Engineering,Entry,0.7
+111,"AP開発1課, 課長",ja,Yes,Development Manager,Developer DM,Developer,Manager,0.85
+112,AZURE推進,ja,No,,,,,
+113,AZURE事業部,ja,Yes,No suitable match found,,,,0
+114,AZURE導入担当,ja,Yes,Cloud Engineer,Engineering User,Engineering,Entry,0.75
+115,AZUREサポートエンジニア,ja,Yes,Cloud Engineer,Engineering User,Engineering,Entry,0.85
+116,AZUREを使用したサーバー構築や管理,ja,Yes,Infrastructure Manager,Information Technology DM,Information Technology,Manager,0.85
+117,AZURE環境担当,ja,Yes,Infrastructure Manager,Information Technology DM,Information Technology,Manager,0.75
+118,B2Bマーケティング,ja,Yes,Marketing Specialist,Marketing User,Marketing,Entry,0.7
+119,BASISコンサルタント,ja,Yes,SAP Administrator,Information Technology User,Information Technology,Entry,0.9
+120,BIGDATA その他,ja,Yes,Data Specialist,Data Professional User,Data Professional,Entry,0.85
+121,AZURE管理者,ja,Yes,Cloud Engineer,Engineering User,Engineering,Entry,0.85
+122,BIMディレクター,ja,Yes,Director of Information Architecture,Architect DM,Architect,Director,0.85
+123,BIMオペレーター,ja,Yes,Computer Aided Designer,Engineering User,Engineering,Entry,0.8
+124,BIMコンサルタント,ja,Yes,Construction Project Planner,Program and Project Management DM,Program and Project Management,Senior,0.85
+125,BIM/CIM担当課長,ja,Yes,Manager Project Management,Program and Project Management DM,Program and Project Management,Manager,0.85
+126,BIMオペレーター／事務,ja,Yes,Office Worker,Business Development User,Business Development,Entry,0.7
+127,BIM関連の教育,ja,Yes,Trainer,Human Resources DM,Human Resources,Senior,0.8
+128,BI開発者,ja,Yes,Business Intelligence Engineer,Data Professional User,Data Professional,Entry,0.85
+129,BI開発,ja,Yes,Business Intelligence Engineer,Data Professional User,Data Professional,Entry,0.85
+130,BIエンジニア,ja,Yes,Business Intelligence Engineer,Data Professional User,Data Professional,Entry,0.9
+131,BIコンサルタント,ja,Yes,Business Intelligence Consultant,Data Professional DM,Data Professional,Senior,0.9
+132,BPOソリューション部,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.7
+133,BPOS統括事業開発室,ja,Yes,Business Development Specialist,Business Development User,Business Development,Entry,0.85
+134,BPOコンサルティング,ja,Yes,Consultant,Business Development DM,Business Development,Senior,0.85
+135,BPOサービスマネージャ,ja,Yes,Customer Service Manager,Customer Service and Support DM,Customer Service and Support,Manager,0.85
+136,BLUSTELLARセールス統括部 シニアプロフェッショナル,ja,Yes,Sales Manager,Sales DM,Sales,Manager,0.85
+137,BPR推進部,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.7
+138,BPO案件の環境構築,ja,Yes,Project Manager,Program and Project Management DM,Program and Project Management,Manager,0.9
+139,BPOマネージャ,ja,Yes,Call Center Manager,Customer Service and Support DM,Customer Service and Support,Manager,0.85
+140,BSリスクマネジメントユニット 専門部長,ja,Yes,Manager Risk Management,Accounting and Finance DM,Accounting and Finance,Manager,0.85
+141,ＢＰＯ第一部 部長,zh-Hans,Yes,Call Center Director,Customer Service and Support DM,Customer Service and Support,Director,0.85
+142,CADエンジニア,ja,Yes,Computer Aided Design Engineer,Engineering User,Engineering,Entry,0.9
+143,BS統括部データサービス課課長,ja,Yes,Director Data Management,Data Professional DM,Data Professional,Director,0.85
+144,BUSINESS ADVISORY SERIESコンサルタント,ja,Yes,Consultant,Business Development DM,Business Development,Senior,0.85
+145,BT本部 DX推進室長,ja,Yes,Director General,Business Development DM,Business Development,Director,0.75
+146,BUSINESS IMPROVEMENT グループ マネージャー,ja,Yes,Operations Manager,Operations DM,Operations,Manager,0.75
+147,CADシステムエンジニア,ja,Yes,Computer Aided Design Engineer,Engineering User,Engineering,Entry,0.9
+148,CADオペ,ja,Yes,Computer Aided Design Manager,Engineering DM,Engineering,Manager,0.75
+149,CADオペレーター,ja,Yes,Computer Aided Designer,Engineering User,Engineering,Entry,0.85
+150,CADオペレータ,ja,Yes,Computer Aided Designer,Engineering User,Engineering,Entry,0.85
+151,CADシステム運用サポート,ja,Yes,Support Specialist,Customer Service and Support User,Customer Service and Support,Entry,0.7
+152,CAD事業部,ja,Yes,No suitable match found,,,,0
+153,CADデータと画像処理技術を融合したサービスの提供,ja,Yes,Computer Aided Design Engineer,Engineering User,Engineering,Entry,0.85
+154,CAD事業,ja,Yes,No suitable match found,,,,0
+155,CAD事業 3D住宅CADプロジェクト,ja,Yes,Computer Aided Designer,Engineering User,Engineering,Entry,0.8
+156,CAD運用サポート,ja,Yes,Support Specialist,Customer Service and Support User,Customer Service and Support,Entry,0.7
+157,CAEソリューション部,ja,Yes,No suitable match found,,,,0
+158,CAEエンジニア,ja,Yes,Computer Aided Design Engineer,Engineering User,Engineering,Entry,0.9
+159,CAE担当,ja,Yes,No suitable match found,,,,0
+160,CAEコンサルタント,ja,Yes,Computer Aided Design Engineer,Engineering User,Engineering,Entry,0.8
+161,CAD開発,ja,Yes,Computer Aided Design Engineer,Engineering User,Engineering,Entry,0.7
+162,CCOE担当,ja,Yes,Cloud Architect,Architect DM,Architect,Senior,0.75
+163,CATV総合監理技術者,ja,Yes,Telecommunications Engineering Specialist,Engineering User,Engineering,Entry,0.85
+164,CBTテストセンターオペレーター,ja,Yes,Tester,Engineering User,Engineering,Entry,0.75
+165,CCOEグループ リーダー,ja,Yes,Cloud Architect,Architect DM,Architect,Senior,0.7
+166,CCOE担当部長,ja,Yes,Manager of Cloud Security,Security DM,Security,Manager,0.7
+167,ＣＦＯ,jv,No,,,,,
+168,CCデジタル企画室長,ja,Yes,Digital Manager,Media and Communication DM,Media and Communication,Manager,0.75
+169,ＣＥＯ,gl,Yes,Chief Executive Officer,Business Development CXO,Business Development,CXO,1
+170,CDO補佐官,ja,Yes,Chief Data Officer,Data Professional CXO,Data Professional,CXO,0.7
+171,CDIO室 ソフトウェアエンジニア,ja,Yes,Software Engineer,Engineering User,Engineering,Entry,0.9
+172,CG 一般社員・職員,ja,Yes,No suitable match found,,,,0
+173,CGシステム部 部長,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.85
+174,CFO兼経営管理本部長,ja,Yes,Chief Financial Officer,Accounting and Finance CXO,Accounting and Finance,CXO,0.9
+175,CFO／財務担当役員,ja,Yes,Chief Financial Officer,Accounting and Finance CXO,Accounting and Finance,CXO,0.9
+176,"CHIEF OFFICER, マーケティング",ja,Yes,Chief Marketing Officer,Marketing CXO,Marketing,CXO,1
+177,CIOユニット　CIOグループ　IT企画部,ja,Yes,Chief Information Officer,Information Technology CXO,Information Technology,CXO,0.9
+178,CIO、センター長,ja,Yes,Chief Information Officer,Information Technology CXO,Information Technology,CXO,0.9
+179,"CHIEF OFFICER, 営業/ビジネス ディベロップメント",ja,Yes,Chief Sales Officer,Sales CXO,Sales,CXO,0.9
+180,CIO/アーキテクト,ja,Yes,Chief Information Officer,Information Technology CXO,Information Technology,CXO,0.85
+181,CHRO／人事担当役員,ja,Yes,Chief Human Resources Officer,Human Resources CXO,Human Resources,CXO,0.9
+182,CI事業部企画開発部,ja,Yes,Planning Manager,Program and Project Management DM,Program and Project Management,Manager,0.85
+183,CISO統括オフィス,ja,Yes,Chief Information Security Officer,Security CXO,Security,CXO,0.9
+184,CIO補佐官,ja,Yes,Assistant,Operations User,Operations,Entry,0.85
+185,CLOUD COE/ITアーキテクト,ja,Yes,Cloud Architect,Architect DM,Architect,Senior,0.85
+186,CISM その他,ja,Yes,Information Security Manager,Security DM,Security,Manager,0.9
+187,CMC開発部,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.7
+188,COO 執行役員,ja,Yes,Chief Operations Officer,Operations CXO,Operations,CXO,0.9
+189,CMC薬事部,ja,Yes,Regulatory Specialist,Legal User,Legal,Entry,0.85
+190,ＣＲＭ,lb,Yes,Clinical System Manager,Research DM,Research,Manager,0.6
+191,CLOUD 一般社員・職員,ja,Yes,Staff Manager,Program and Project Management DM,Program and Project Management,Manager,0.7
+192,CS 一般社員・職員,ja,Yes,Staff Manager,Program and Project Management DM,Program and Project Management,Manager,0.7
+193,CRM開発室/室長,ja,Yes,Customer Service Manager,Customer Service and Support DM,Customer Service and Support,Manager,0.7
+194,CSDX推進部付 部長 (兼) リスク統括部付 部長,ja,Yes,Director of Risk Management,Accounting and Finance DM,Accounting and Finance,Director,0.8
+195,CRM テクニカルサポート,ja,Yes,Technical Support Representative,Customer Service and Support DM,Customer Service and Support,Senior,0.85
+196,CRMｿﾘｭｰｼｮﾝ営業部 部長 兼 CRMｿﾘｭｰｼｮﾝ営業課 課長,ja,Yes,Sales Manager,Sales DM,Sales,Manager,0.85
+197,CSR室,zh-Hans,Yes,Customer Service Specialist,Customer Service and Support User,Customer Service and Support,Entry,0.9
+198,CSR関連,ja,Yes,Customer Service Specialist,Customer Service and Support User,Customer Service and Support,Entry,0.9
+199,CSR担当,ja,Yes,Sustainability Specialist,Community and Social Services User,Community and Social Services,Entry,0.7
+200,CSIRT統括課長 兼 CSIRT統括課長 担当部長,ja,Yes,Senior Manager Security Operations,Security DM,Security,Senior,0.85
+201,CSIRT統括課長 副部長,ja,Yes,Senior Manager Security Operations,Security DM,Security,Senior,0.85
+202,CS本部板鍛サービス営業部,ja,Yes,No suitable match found,,,,0
+203,CS事業部,ja,No,,,,,
+204,CS企画本部 サービス企画部,ja,Yes,Planning Manager,Program and Project Management DM,Program and Project Management,Manager,0.85
+205,CSディレクタ,ja,Yes,Director of Customer Service,Customer Service and Support DM,Customer Service and Support,Director,0.9
+206,CS第二開発統括 システム基盤部 ネットワーク開発室 室長,ja,Yes,Vice President of Business Development,Business Development DM,Business Development,VP,0.75
+207,CS部,ja,Yes,No suitable match found,,,,0
+208,CS調査センター,ja,No,,,,,
+209,CTO CMO 執行役員 アルゴサイエンス事業部 事業部長,ja,Yes,Chief Technology Officer,Information Technology CXO,Information Technology,CXO,0.85
+210,CTCシステムマネジメント,ja,Yes,Information Technology System Administrator,Information Technology User,Information Technology,Entry,0.75
+211,CTO （最高技術責任者） TCR,zh-Hant,Yes,Chief Technology Officer,Information Technology CXO,Information Technology,CXO,0.95
+212,CTO 技術理事,ja,Yes,Chief Technology Officer,Information Technology CXO,Information Technology,CXO,0.9
+213,CTO兼部長,ja,Yes,Chief Technology Officer,Information Technology CXO,Information Technology,CXO,0.9
+214,CTO 兼) 副社長,ja,Yes,Chief Technology Officer,Information Technology CXO,Information Technology,CXO,0.9
+215,CTO/取締役　TCR,ja,Yes,Chief Information Technology Officer,Information Technology CXO,Information Technology,CXO,0.85
+216,CTO CSO エバンジェリスト OKINAWA INNOVATION LAB長,en,Yes,Chief Technology Officer,Information Technology CXO,Information Technology,CXO,0.85
+217,CTO室 シニアアーキテクト,ja,Yes,Chief Technology Architect,Architect CXO,Architect,CXO,0.85
+218,CUSTOMERサービス,ja,Yes,Customer Service Specialist,Customer Service and Support User,Customer Service and Support,Entry,0.9
+219,CTO室 エンジニアリングマネージャー,ja,Yes,Engineering Manager,Engineering DM,Engineering,Manager,0.9
+220,CUSTOMER SUCCESS コンサルタント,ja,Yes,Customer Service Specialist,Customer Service and Support User,Customer Service and Support,Entry,0.75
+221,CTO室 室長,ja,Yes,Chief Technology Officer,Information Technology CXO,Information Technology,CXO,0.8
+222,CXデザインタスクフォース,ja,Yes,Director Customer Experience,Customer Service and Support DM,Customer Service and Support,Director,0.7
+223,CXLABセンター長,ja,Yes,Call Center Director,Customer Service and Support DM,Customer Service and Support,Director,0.85
+224,CXコンサルティング部門,ja,Yes,Director Customer Experience,Customer Service and Support DM,Customer Service and Support,Director,0.7
+225,CXセールススペシャリスト,ja,Yes,Sales Specialist,Sales User,Sales,Entry,0.9
+226,CV開発,ja,No,,,,,
+227,CX推進,ja,Yes,Director Customer Experience,Customer Service and Support DM,Customer Service and Support,Director,0.7
+228,CX推進部,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.7
+229,CX本部 その他,ja,Yes,Director Customer Experience,Customer Service and Support DM,Customer Service and Support,Director,0.7
+230,D365FOパートナー SE,ja,Yes,Embedded Software Engineer,Engineering User,Engineering,Entry,0.7
+231,CX推進本部,ja,Yes,No suitable match found,,,,0
+232,D365FO社内トレーニング 担当,ja,No,,,,,
+233,DBエンジニア,ja,Yes,Database Engineer,Data Professional User,Data Professional,Entry,0.9
+234,DATA＆AI リーダー,ja,Yes,Director of Artificial Intelligence,Data Professional DM,Data Professional,Director,0.85
+235,DATA&AIグループリーダー,ja,Yes,Director of Artificial Intelligence,Data Professional DM,Data Professional,Director,0.85
+236,DATA PLATFORM事業部 マネージャー,ja,Yes,Data Manager,Data Professional DM,Data Professional,Manager,0.75
+237,DEI推進,ja,No,,,,,
+238,DB構築,ja,Yes,Database Engineer,Data Professional User,Data Professional,Entry,0.7
+239,DEV (研究開発部),ja,Yes,Research Development Software Developer,Developer User,Developer,Entry,0.9
+240,ＤＥＰＵＴＹ　ＤＩＲＥＣＴＯＲ　Ｘイノベーション本部,ja,Yes,Director of Innovation,Product Management DM,Product Management,Director,0.85
+241,DC施設技術部 部長,ja,Yes,Facilities Manager,Customer Service and Support DM,Customer Service and Support,Manager,0.8
+242,DEV エンジニア,ja,Yes,Software Developer,Developer User,Developer,Entry,0.85
+243,DEシニアマネージャー,ja,Yes,Data Science Manager,Data Professional DM,Data Professional,Manager,0.75
+244,DEVOPSエンジニア,ja,Yes,Devops Engineer,Engineering User,Engineering,Entry,1
+245,DEVOPS エンジニア,ja,Yes,Devops Engineer,Engineering User,Engineering,Entry,0.95
+246,DEVOPS推進部,zh-Hans,Yes,Devops Engineer,Engineering User,Engineering,Entry,0.85
+247,DI部 その他,ja,No,,,,,
+248,DISM コマンドの実施のため,ja,No,,,,,
+249,DFM部MEIグループ,ja,No,,,,,
+250,DI本部 部長,ja,Yes,Director General,Business Development DM,Business Development,Director,0.75
+251,"DIA統括部, エキスパートエンジニア",ja,Yes,Director Data Management,Data Professional DM,Data Professional,Director,0.7
+252,DP技推 一般社員・職員,ja,Yes,Technology Development Engineer,Engineering User,Engineering,Entry,0.6
+253,DI部 課長,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.7
+254,DSPU 一般社員・職員,ja,Yes,No suitable match found,,,,0
+255,DS事業部 一般社員・職員,ja,Yes,No suitable match found,,,,0
+256,ＤＯ会計アシスタントＭ,ja,Yes,Accounts Payable Clerk,Accounting and Finance User,Accounting and Finance,Entry,0.8
+257,DWH・BI基盤係,ja,Yes,Data Warehouse Specialist,Data Professional User,Data Professional,Entry,0.7
+258,DT2BU エンジニア,ja,Yes,Test Development Engineer,Engineering User,Engineering,Entry,0.75
+259,DTSS 課長クラス,ja,Yes,Director Information Technology Security,Information Technology DM,Information Technology,Director,0.7
+260,DWH/BI領域の開発・運用保守,ja,Yes,Data Warehouse Engineer,Data Professional User,Data Professional,Entry,0.8
+261,DTPオペレータ,ja,Yes,Desktop Publisher,Information Technology DM,Information Technology,Senior,0.9
+262,DX/GX推進,ja,Yes,Marketing Specialist,Marketing User,Marketing,Entry,0.85
+263,DX・メディアデザイン局ICTチーム,ja,Yes,Information Technology Analyst,Information Technology User,Information Technology,Entry,0.6
+264,DX プラットフォーム部　マネジャー,ja,Yes,Digital Manager,Media and Communication DM,Media and Communication,Manager,0.85
+265,DX ディベロッパー,ja,Yes,Developer,Developer User,Developer,Entry,0.85
+266,DX-IT本部 IT統括部,zh-Hans,Yes,Information Technology Support Specialist,Information Technology User,Information Technology,Entry,0.75
+267,DXアドバイザー,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.6
+268,DXエンジニア,ja,Yes,Technology Development Engineer,Engineering User,Engineering,Entry,0.85
+269,DXコンサルタント,ja,Yes,Technology Consultant,Information Technology DM,Information Technology,Senior,0.8
+270,DXコンサルタント　TCR,ja,Yes,Technology Consultant,Information Technology DM,Information Technology,Senior,0.8
+271,DXアナリスト,ja,Yes,Director of User Experience,Information Technology DM,Information Technology,Director,0.6
+272,DXシステム担当,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.7
+273,DXサービス推進本部 本部長,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.75
+274,DXスペシャリスト,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.6
+275,DXセキュリティ推進室長,ja,Yes,Director of Cyber Security,Security DM,Security,Director,0.85
+276,DXコンサルティング,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.7
+277,DXチーム,ja,No,,,,,
+278,DXタスクリーダー,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+279,DXソリューション事業本部 SYMPHONICT事業推進本部 先端技術開発グループ,ja,Yes,Technology Development Engineer,Engineering User,Engineering,Entry,0.7
+280,DXソリューション 部長,ja,Yes,Director General,Business Development DM,Business Development,Director,0.85
+281,DXソリューション営業本部 部長,ja,Yes,Sales Director,Sales DM,Sales,Director,0.75
+282,DXツール推進,ja,Yes,Business Development Specialist,Business Development User,Business Development,Entry,0.7
+283,"DXテクノロジー本部 X-TECH DOTANK事業部 プロダクト開発チーム, エンジニア",ja,Yes,Product Development Engineer,Engineering User,Engineering,Entry,0.9
+284,DXマネージャー,ja,Yes,Digital Manager,Media and Communication DM,Media and Communication,Manager,0.85
+285,DXユニット ITアーキテクト,ja,Yes,Information Technology Architect,Architect DM,Architect,Senior,0.85
+286,DXビジネス革新センタ長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.85
+287,DX事業統括本部 MSソリューション部 インフラチーム,ja,Yes,Infrastructure Engineer,Information Technology User,Information Technology,Entry,0.7
+288,DX事業部,ja,No,,,,,
+289,DX事業部 DXソリューション部 部長,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.75
+290,DXリーダー,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+291,DX事業統括本部 ビジネステクノロジー事業本部 データインテリジェンス事業部,ja,Yes,No suitable match found,,,,0
+292,DX企画の推進,ja,Yes,Project Manager,Program and Project Management DM,Program and Project Management,Manager,0.9
+293,DX企画,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.7
+294,DX人材教育企画,ja,Yes,Manager Training Organizational Development,Human Resources DM,Human Resources,Manager,0.75
+295,DX企画室　室長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.75
+296,DX企画グループ長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.85
+297,DX企画推進部,ja,Yes,Planning Director,Business Development DM,Business Development,Director,0.8
+298,DX企画課,ja,Yes,No suitable match found,,,,0
+299,DX企画推進,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.7
+300,DX企画担当,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+301,DX企画管理部 マネージャー,ja,Yes,Digital Manager,Media and Communication DM,Media and Communication,Manager,0.85
+302,DX化業務の支援,ja,Yes,Support Specialist,Customer Service and Support User,Customer Service and Support,Entry,0.7
+303,DX営業,ja,Yes,Salesperson,Sales User,Sales,Entry,0.9
+304,DX企画部 全社変革推進グループ,ja,Yes,Chief Transformation Officer,Information Technology CXO,Information Technology,CXO,0.75
+305,DX企画部,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.7
+306,DX企画部DXマネジメント室長,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.75
+307,DX戦略室,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.7
+308,DX戦略(業務委託),ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+309,ＤＸ戦略・企画,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.7
+310,DX基盤事業本部,ja,No,,,,,
+311,DX室 室長,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.75
+312,DX戦略本部,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.8
+313,DX戦略推進室,ja,Yes,Director of Business Operations,Operations DM,Operations,Director,0.7
+314,DX戦略室 サブリーダー,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+315,DX戦略室長,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.75
+316,DX戦略本部 AAS DX推進部 部長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+317,DX戦略検討メンバー,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.6
+318,DX戦略部,ja,Yes,Director of User Experience,Information Technology DM,Information Technology,Director,0.7
+319,DX戦略本部 デジタル戦略総括部 デジタルプロセス部 第一課基幹職,ja,Yes,No suitable match found,,,,0
+320,DX戦略課長,ja,Yes,Digital Manager,Media and Communication DM,Media and Communication,Manager,0.75
+321,DX戦略本部　サイバーセキュリティ総括部長,ja,Yes,Director of Cyber Security,Security DM,Security,Director,0.85
+322,DX担当 TCR,ja,Yes,No suitable match found,,,,0
+323,DX担当　TCR,ja,Yes,No suitable match found,,,,0
+324,DX技術推進担当,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.75
+325,"director, 営業/ビジネス ディベロップメント",ja,Yes,Director of Business Development,Business Development DM,Business Development,Director,0.9
+326,DX戦略部長,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.75
+327,DX推進,ja,No,,,,,
+328,DX推進エージェント,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+329,ＤＸ推進,ja,No,,,,,
+330,DX推進 部長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.75
+331,DX担当者,ja,Yes,Chief Digital Officer,Media and Communication CXO,Media and Communication,CXO,0.7
+332,DX推進センター,ja,No,,,,,
+333,DX推進グループ,ja,No,,,,,
+334,DX推進スタッフ,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+335,DX推進グループ長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.85
+336,DX推進コンサルタント/DXMO,ja,Yes,Technology Consultant,Information Technology DM,Information Technology,Senior,0.75
+337,DX推進チーム　アドバイザー,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+338,DX推進事業部,ja,Yes,No suitable match found,,,,0
+339,DX推進チーム,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+340,DX推進企画,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+341,DX推進リーダー,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.75
+342,DX推進室 DX推進グループ,ja,No,,,,,
+343,DX推進室,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.7
+344,ＤＸ推進室,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+345,DX推進室　主任,ja,Yes,Chief Digital Officer,Media and Communication CXO,Media and Communication,CXO,0.85
+346,DX推進室 室長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.75
+347,DX推進室　推進2課 一般社員,ja,Yes,Digital Manager,Media and Communication DM,Media and Communication,Manager,0.7
+348,DX推進室　室長,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.7
+349,DX推進室サービスリード,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.75
+350,DX推進室室長,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.75
+351,DX推進室副室長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.75
+352,DX推進局,ja,No,,,,,
+353,DX推進専門官,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+354,DX推進室長,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.7
+355,DX推進担当,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+356,DX推進本部,ja,Yes,No suitable match found,,,,0
+357,DX推進支援,ja,Yes,Campaign Coordinator,Community and Social Services User,Community and Social Services,Entry,0.7
+358,DX推進本部 IT業務推進部,zh-Hant,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.85
+359,DX推進本部 DX横断企画室 エキスパート,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+360,DX推進担当部長,ja,Yes,Digital Manager,Media and Communication DM,Media and Communication,Manager,0.75
+361,DX推進課,ja,Yes,No suitable match found,,,,0
+362,DX推進者,ja,No,,,,,
+363,DX推進統括 取締役,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.85
+364,DX推進本部長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.85
+365,ＤＸ推進本部長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.85
+366,ＤＸ推進部,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+367,DX推進部,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+368,DX推進部　,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.7
+369,DX推進部 システム担当者,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.7
+370,DX推進部　先進ITグループ長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.85
+371,DX推進部 開発グループ,ja,Yes,Technology Development Engineer,Engineering User,Engineering,Entry,0.7
+372,ＤＸ推進部システム開発統制 副調査役,ja,Yes,Research and Development Manager,Research DM,Research,Manager,0.75
+373,ＤＸ推進部チーフエンジニア,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.75
+374,DX推進部長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.75
+375,DX推進部 部長,ja,Yes,Vice President of Digital Transformation,Business Development DM,Business Development,VP,0.75
+376,DX本部 IT事業部,ja,No,,,,,
+377,DX本部,ja,No,,,,,
+378,DX推進部長 兼 DX推進部 DXグループ　グループリーダー,ja,Yes,Digital Manager,Media and Communication DM,Media and Communication,Manager,0.75
+379,DX推進部長 兼 IT統括部主席部員,zh-Hant,Yes,Manager Project Management,Program and Project Management DM,Program and Project Management,Manager,0.75
+380,DX支援（派遣社員）,ja,Yes,Director Customer Experience,Customer Service and Support DM,Customer Service and Support,Director,0.7
+381,DX統括課,ja,Yes,Digital Manager,Media and Communication DM,Media and Communication,Manager,0.7
+382,DX業務,ja,Yes,No suitable match found,,,,0
+383,DX本部　アーキテクト,ja,Yes,Chief Enterprise Architect,Architect CXO,Architect,CXO,0.75
+384,DX経営戦略部,ja,Yes,Business Strategist,Business Development DM,Business Development,Senior,0.85
+385,DX統括部　課長補佐,ja,Yes,Digital Manager,Media and Communication DM,Media and Communication,Manager,0.75
+386,DX開発,ja,Yes,Technology Development Engineer,Engineering User,Engineering,Entry,0.75
+387,DX部,zh-Hans,No,,,,,
+388,DX関連,ja,No,,,,,
+389,DX部門,ja,No,,,,,
+390,DX責任者,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.85
+391,E&M第二事業統括部スマート保全推進グループ なし,ja,Yes,No suitable match found,,,,0
+392,EB DXソリューション２部,ja,Yes,Sales Specialist,Sales User,Sales,Entry,0.7
+393,ECBU クラウドIOT カンパニー エッジクラウドソリューション部 セールス2グループ グループリーダー,ja,Yes,Sales Manager,Sales DM,Sales,Manager,0.75
+394,EC 通販ｼｽﾃﾑ担当 ﾏﾈｰｼﾞｬｰ,fr,Yes,eCommerce Manager,Sales DM,Sales,Manager,0.85
+395,ECBU クラウドIOT カンパニー エッジクラウドソリューション部 セールスグループ 部長代理,ja,Yes,Sales Manager,Sales DM,Sales,Manager,0.75
+396,ECM部 エンジニアリングシステム4課,ja,Yes,Control Systems Engineer,Engineering User,Engineering,Entry,0.85
+397,ECシステムエンジニアリング部門 EC開発-C グループ長,ja,Yes,Director of Engineering,Engineering DM,Engineering,Director,0.85
+398,ＥＣサイト管理者,ja,Yes,eCommerce Specialist,Sales User,Sales,Entry,0.85
+399,EC事業課 責任者,ja,Yes,eCommerce Manager,Sales DM,Sales,Manager,0.85
+400,ECサイト運営,ja,Yes,eCommerce Manager,Sales DM,Sales,Manager,0.9
+401,EC推進部,ja,Yes,Marketing Manager,Marketing DM,Marketing,Manager,0.7
+402,EC運営事務局,ja,Yes,Administrative Employee,Operations User,Operations,Entry,0.7
+403,ＥＣ事業部システムチーム 課長,ja,Yes,Information Technology Manager,Information Technology DM,Information Technology,Manager,0.75
+404,EC担当,ja,Yes,eCommerce Specialist,Sales User,Sales,Entry,0.85
+405,EC運営,ja,Yes,eCommerce Specialist,Sales User,Sales,Entry,0.75
+406,"EP事業ユニットシステム開発部, 副主査",ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.75
+407,ERP シニアマネージャー,ja,Yes,ERP Consultant,Information Technology DM,Information Technology,Senior,0.85
+408,ERPソリューション事業部ERP営業部,ja,Yes,Sales Specialist,Sales User,Sales,Entry,0.85
+409,ERP 開発者,ja,Yes,ERP Consultant,Information Technology DM,Information Technology,Senior,0.85
+410,ERPソリューションユニット アソシエイトマネージャー,ja,Yes,ERP Consultant,Information Technology DM,Information Technology,Senior,0.85
+411,ESG推進,ja,Yes,Sustainability Specialist,Community and Social Services User,Community and Social Services,Entry,0.7
+412,EXPERT / エキスパート,ja,Yes,Subject Matter Expert,Business Development DM,Business Development,Senior,0.9
+413,ESG推進室,ja,Yes,Sustainability Manager,Community and Social Services DM,Community and Social Services,Manager,0.75
+414,ES1 マネージャー,ja,Yes,Manager Positions,Business Development DM,Business Development,Manager,0.9
+415,"ES事業部共通システムグループ, シニアチーフ",ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.75
+416,EXPERT STAFF(エキスパートスタッフ),ja,Yes,No suitable match found,,,,0
+417,EX推進部,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.6
+418,Ｅコマース推進部,ja,Yes,Digital Marketing Manager,Marketing DM,Marketing,Manager,0.7
+419,Eコマーススペシャリスト,ja,Yes,eCommerce Specialist,Sales User,Sales,Entry,0.95
+420,EXPERT ENGINEER(エキスパートエンジニア),ja,Yes,Engineer,Engineering User,Engineering,Entry,0.85
+421,ＦＡ推進室長,ja,Yes,No suitable match found,,,,0
+422,FAシステム事業本部,ja,No,,,,,
+423,FAシステム事業本部 FAデジタルエンジニアリング推進部 デジタルマニュファクチャリングソリューションセンター アプリケーション開発グループ,ja,Yes,No suitable match found,,,,0
+424,E-ビジネスサービスカンパニー DX事業部 事業部長,ja,Yes,Managing Director,Business Development CXO,Business Development,CXO,0.85
+425,Eコマース推進部 WEB管理グループ 次長,ja,Yes,eCommerce Manager,Sales DM,Sales,Manager,0.75
+426,FLUCT 開発部,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.75
+427,FBデータシステム事業部,ja,Yes,No suitable match found,,,,0
+428,FE/BE マネージャー,ja,Yes,Web Development Manager,Developer DM,Developer,Manager,0.85
+429,FITSPLUS WEBエンジニア,ja,Yes,Web Developer,Developer User,Developer,Entry,0.9
+430,FBSC CC部基幹システム系業務主管担当,ja,Yes,System Administrator,Information Technology DM,Information Technology,Senior,0.75
+431,GIGAスクール担当,ja,Yes,Educational Technology,Education User,Education,Entry,0.75
+432,FMソリューション部,ja,Yes,Chief of Department,Community and Social Services CXO,Community and Social Services,CXO,0.6
+433,GIGAスクールサポーター,ja,Yes,No suitable match found,,,,0
+434,GIGA STUDX推進チーム,ja,Yes,No suitable match found,,,,0
+435,FORXAI事業統括部 AI技術開発部 第1グループ アシスタントマネジャー,ja,Yes,Manager of Artificial Intelligence,Data Professional DM,Data Professional,Manager,0.85
+436,GITHUB活用メンバー,ja,No,,,,,
+437,GITHUB導入推進,ja,No,,,,,
+438,GITHUB TEAM およびGITHUBCOPILOTの解約について,ja,No,,,,,
+439,GLOBAL-SMALL-FOUNDATION エンジニアリングマネージャー,ja,Yes,No suitable match found,,,,0
+440,GISプロダクトスペシャリスト,ja,Yes,GIS Specialist,Information Technology User,Information Technology,Entry,0.9
+441,GR長,ja,No,,,,,
+442,GPQ 主査,ja,Yes,No suitable match found,,,,0
+443,GM補佐,ja,Yes,Director General,Business Development DM,Business Development,Director,0.7
+444,GTM マネージャー,ja,Yes,Marketing Product Manager,Marketing DM,Marketing,Manager,0.85
+445,GM/DX本部、副本部長,ja,Yes,Managing Director,Business Development CXO,Business Development,CXO,0.75
+446,Ｇ長,ja,No,,,,,
+447,GXコンサルタント,ja,Yes,Technology Consultant,Information Technology DM,Information Technology,Senior,0.75
+448,GX関連新規事業責任者,ja,Yes,No suitable match found,,,,0
+449,HR TECH マネージャー,ja,Yes,Technology Manager,Information Technology DM,Information Technology,Manager,0.8
+450,HCMサービス企画開発部,ja,Yes,Professional Development Manager,Human Resources DM,Human Resources,Manager,0.7
+451,HRコンサルティング,ja,Yes,Human Resources Legal Consultant,Human Resources DM,Human Resources,Senior,0.7
+452,HR マネージャー,ja,Yes,Human Resources Manager,Human Resources DM,Human Resources,Manager,0.95
+453,HRMOSプロダクト本部 エンジニア,ja,Yes,Product Development Engineer,Engineering User,Engineering,Entry,0.75
+454,HR/GAシニアアドバイザー,ja,Yes,Human Resources Manager,Human Resources DM,Human Resources,Manager,0.75
+455,HRD責任者,ja,Yes,Human Resources Director,Human Resources DM,Human Resources,Director,0.9
+456,HTT実践推進ナビゲーター,ja,Yes,No suitable match found,,,,0
+457,HR事業部,ja,Yes,Human Resources Manager,Human Resources DM,Human Resources,Manager,0.7
+458,HW開発,ja,Yes,Hardware Engineer,Engineering User,Engineering,Entry,0.85
+459,HRサポートマネージャー,ja,Yes,Human Resources Manager,Human Resources DM,Human Resources,Manager,0.85
+460,IA事業部 アーキテクト,ja,Yes,Information Technology Architect,Architect DM,Architect,Senior,0.7
+461,ICS事業本部,ja,No,,,,,
+462,ICASカンパニー企画室ファイバーマテリアルグループ,ja,Yes,No suitable match found,,,,0
+463,ICT 推進室,ja,Yes,Public Relations Officer,Media and Communication User,Media and Communication,Entry,0.7
+464,ICT 専門官,ja,Yes,Information Technology Support Specialist,Information Technology User,Information Technology,Entry,0.8
+465,IBMコンサルティング事業本部 クラウドネイティブ開発部 主任,ja,Yes,Cloud Architect,Architect DM,Architect,Senior,0.75
+466,ICT・DX推進,ja,Yes,Director of Digital Services,Media and Communication DM,Media and Communication,Director,0.7
+467,ICTアーキテクト,ja,Yes,Information Technology Architect,Architect DM,Architect,Senior,0.9
+468,ICTS 部 部長,ja,Yes,Director of Information Technology,Information Technology DM,Information Technology,Director,0.85
+469,ICT-CSW本部　本部長,ja,Yes,Information Technology Manager,Information Technology DM,Information Technology,Manager,0.75
+470,ＩＣＴアドバイザー,ja,Yes,Information Technology Consultant,Information Technology DM,Information Technology,Senior,0.85
+471,ICTインフラ担当,ja,Yes,Infrastructure Architect,Architect DM,Architect,Senior,0.75
+472,ICTインフラベンダ,ja,No,,,,,
+473,ICTインフラ管理,ja,Yes,Infrastructure Manager,Information Technology DM,Information Technology,Manager,0.85
+474,ICTエバンジェリスト,ja,Yes,No suitable match found,,,,0
+475,ICTエンジニア,ja,Yes,Information Technology Engineer,Engineering User,Engineering,Entry,0.9
+476,ICTサービス,ja,Yes,Information Technology Generalist,Information Technology User,Information Technology,Entry,0.7
+477,ICTエンジニアサービス部 エンジニア,ja,Yes,Information Technology Engineer,Engineering User,Engineering,Entry,0.9
+478,ICTエンジニアサービス部,ja,Yes,Information Technology Engineer,Engineering User,Engineering,Entry,0.9
+479,ICTコンサルタント,ja,Yes,Information Technology Consultant,Information Technology DM,Information Technology,Senior,0.9
+480,ICTコーディネーター,ja,Yes,Information Technology Manager,Information Technology DM,Information Technology,Manager,0.85
+481,ICTサービス事業部,ja,No,,,,,
+482,ICTサポーター,ja,Yes,Information Technology Support Specialist,Information Technology User,Information Technology,Entry,0.85
+483,ICTサポータ,ja,Yes,Information Technology Support Specialist,Information Technology User,Information Technology,Entry,0.9
+484,ICTサポート,ja,Yes,Information Technology Support Specialist,Information Technology User,Information Technology,Entry,0.9
+485,ICTサポート TCR,ja,Yes,Information Technology Support Specialist,Information Technology User,Information Technology,Entry,0.9
+486,ICTセンター,ja,No,,,,,
+487,ICTサポート業務,ja,Yes,Information Technology Support Specialist,Information Technology User,Information Technology,Entry,0.85
+488,ICTサポートサービス,ja,Yes,Information Technology Support Specialist,Information Technology User,Information Technology,Entry,0.85
+489,ICTセキュリティ,ja,Yes,Information Technology Security Specialist,Security User,Security,Entry,0.85
+490,ICTセールス,ja,Yes,Technical Sales Professional,Sales User,Sales,Entry,0.85
+491,ICTソリューション,ja,Yes,Service Support Specialist,Customer Service and Support User,Customer Service and Support,Entry,0.7
+492,ICTソリューション事業部 　ICTソリューションシステム第一部 ソリューションシステム第二課,ja,Yes,No suitable match found,,,,0
+493,ICTソリューション事業部事業部長,ja,Yes,Vice President Information Technology,Information Technology DM,Information Technology,VP,0.75
+494,ICTソリューション事業部 ICTソリューション部,ja,Yes,Chief Solutions Architect,Architect CXO,Architect,CXO,0.7
+495,ICTソリューション本部 CIS部 一般社員・職員,ja,No,,,,,
+496,"AIソリューション推進部, 係長",ja,Yes,Manager of Artificial Intelligence,Data Professional DM,Data Professional,Manager,0.85
+497,AIチーム管理者,ja,Yes,Administration Manager,Operations DM,Operations,Manager,0.85
+498,AIビジネスコンサルタント,ja,Yes,Artificial Intelligence Specialist,Data Professional User,Data Professional,Entry,0.7
+499,AIプロダクトマネージャー,ja,Yes,Product Manager,Product Management DM,Product Management,Manager,0.85
+500,DX推進局 ICTエンジニアリング部 主任,ja,Yes,Chief Digital Officer,Media and Communication CXO,Media and Communication,CXO,0.85

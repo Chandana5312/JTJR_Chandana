@@ -7,6 +7,7 @@ import os
 
 class AzureTranslator:
     def __init__(self):
+        
         """
         Initialize the AzureTranslator class with API credentials.
         :param subscription_key: Azure Translator API subscription key.
@@ -21,6 +22,11 @@ class AzureTranslator:
             'Ocp-Apim-Subscription-Region': self.region,
             'Content-Type': 'application/json'
         }
+        print("🔧 Translator Config:")
+        print("Key:", self.subscription_key)
+        print("Endpoint:", self.endpoint)
+        print("Region:", self.region)
+
 
     def detect_language(self, text: str) -> str:
         url = f"{self.endpoint}/detect?api-version=3.0"

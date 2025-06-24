@@ -1,0 +1,2001 @@
+Lead ID	Job Title	Language	Valid JT	Job Role	Marketing Audience	Function	Seniority	Confidence Score
+1	CTO兼部長	ja	Yes	Architect				1
+2	CTO室 エンジニアリングマネージャー	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+3	CTO室 シニアアーキテクト	ja	Yes	Architect				0.96
+4	CTO室 室長	ja	Yes	Information Technology Manager				1
+5	CUSTOMER SUCCESS コンサルタント	ja	Yes	Customer Service Specialist	Customer Service and Support User	Customer Service and Support	Entry	1
+6	CUSTOMERサービス	ja	Yes	Service Support Specialist				1
+7	CV開発	ja	Yes	Administrative Employee				1
+8	CXLABセンター長	ja	Yes	Director General				1
+9	CXコンサルティング部門	ja	Yes	Information Technology Consultant				1
+10	CXセールススペシャリスト	ja	Yes	Sales Specialist	Sales User	Sales	Entry	1
+11	CXデザインタスクフォース	ja	Yes	Engineer				1
+12	CX推進	ja	Yes	Sales Manager				1
+13	CX推進本部	ja	Yes	Accountant				1
+14	CX推進部	ja	Yes	Information Technology Generalist				0.93
+15	CX本部 その他	ja	Yes	Customer Service Specialist	Customer Service and Support User	Customer Service and Support	Entry	1
+16	D365FOパートナー SE	ja	Yes	Software Engineer				1
+17	D365FO社内トレーニング 担当	ja	Yes	Manager of Artificial Intelligence				1
+18	DATA PLATFORM事業部 マネージャー	ja	Yes	Database Engineer				1
+19	DATA＆AI リーダー	ja	Yes	Director of Artificial Intelligence	Data Professional DM	Data Professional	Director	0.85
+20	DATA&AIグループリーダー	ja	Yes	Manager of Artificial Intelligence	Data Professional DM	Data Professional	Manager	0.98
+21	DBエンジニア	ja	Yes	Database Engineer	Data Professional User	Data Professional	Entry	1
+22	DB構築	ja	Yes	Database Developer	Developer User	Developer	Entry	1
+23	DC施設技術部 部長	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+24	DEI推進	ja	No					
+25	ＤＥＰＵＴＹ　ＤＩＲＥＣＴＯＲ　Ｘイノベーション本部	ja	Yes	Devops Engineer				0.96
+26	DEV (研究開発部)	ja	Yes	Devops Engineer				0.93
+27	DEV エンジニア	ja	Yes	Devops Specialist				1
+28	DEVOPS エンジニア	ja	Yes	Devops Engineer	Engineering User	Engineering	Entry	1
+29	DEVOPSエンジニア	ja	Yes	Devops Engineer	Engineering User	Engineering	Entry	1
+30	DEVOPS推進部	zh-Hans	Yes	Devops Specialist	Engineering User	Engineering	Entry	1
+31	DEシニアマネージャー	ja	Yes	Information Technology Manager				1
+32	DFM部MEIグループ	ja	No					
+33	"DIA統括部, エキスパートエンジニア"	ja	Yes	Engineer				0.95
+34	DISM コマンドの実施のため	ja	No					
+35	DI本部 部長	ja	Yes	Information Technology Manager				1
+36	DI部 その他	ja	No					
+37	DI部 課長	ja	Yes	Information Technology Manager				1
+38	ＤＯ会計アシスタントＭ	ja	Yes	Accounts Payable Clerk	Accounting and Finance User	Accounting and Finance	Entry	0.85
+39	DP技推 一般社員・職員	ja	Yes	Engineer				0.97
+40	DSPU 一般社員・職員	ja	Yes	Operations Specialist				1
+41	DS事業部 一般社員・職員	ja	Yes	Administrative Employee				1
+42	DT2BU エンジニア	ja	Yes	Engineer				1
+43	DTPオペレータ	ja	Yes	Administrative Employee				1
+44	DTSS 課長クラス	ja	Yes	Director Information Technology Security	Information Technology DM	Information Technology	Director	0.7
+45	DWH/BI領域の開発・運用保守	ja	Yes	Information Technology Generalist				1
+46	DWH・BI基盤係	ja	Yes	Information Technology Generalist				1
+47	DX ディベロッパー	ja	Yes	Developer				1
+48	DX プラットフォーム部　マネジャー	ja	Yes	Information Technology Generalist				1
+49	DX/GX推進	ja	Yes	Business Analyst				1
+50	DX・メディアデザイン局ICTチーム	ja	Yes	Engineer				1
+51	DX-IT本部 IT統括部	zh-Hans	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	0.7
+52	DXアドバイザー	ja	Yes	Information Technology Generalist				1
+53	DXアナリスト	ja	Yes	Business Analyst				1
+54	DXエンジニア	ja	Yes	Engineer				1
+55	DXコンサルタント	ja	Yes	Information Technology Generalist				1
+56	DXコンサルタント　TCR	ja	Yes	Information Technology Generalist				1
+57	DXコンサルティング	ja	Yes	Information Technology Generalist				1
+58	DXサービス推進本部 本部長	ja	Yes	Information Technology Manager				1
+59	DXシステム担当	ja	Yes	System Administrator				1
+60	DXスペシャリスト	ja	Yes	Information Technology Generalist				1
+61	DXセキュリティ推進室長	ja	Yes	Information Technology Manager				1
+62	DXソリューション 部長	ja	Yes	Information Technology Manager				1
+63	DXソリューション事業本部 SYMPHONICT事業推進本部 先端技術開発グループ	ja	Yes	Vice President of Digital Transformation	Business Development DM	Business Development	VP	0.7
+64	DXソリューション営業本部 部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+65	DXタスクリーダー	ja	Yes	Information Technology Manager				1
+66	DXチーム	ja	Yes	Information Technology Generalist				1
+67	DXツール推進	ja	No					
+68	"DXテクノロジー本部 X-TECH DOTANK事業部 プロダクト開発チーム, エンジニア"	ja	Yes	Product Development Engineer	Engineering User	Engineering	Entry	0.9
+69	DXビジネス革新センタ長	ja	Yes	Information Technology Manager				1
+70	DXマネージャー	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	1
+71	DXユニット ITアーキテクト	ja	Yes	Information Technology Generalist				1
+72	DXリーダー	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	1
+73	DX事業統括本部 MSソリューション部 インフラチーム	ja	Yes	Infrastructure Engineer				1
+74	DX事業統括本部 ビジネステクノロジー事業本部 データインテリジェンス事業部	ja	Yes	Data Specialist				0.95
+75	DX事業部	ja	No					
+76	DX事業部 DXソリューション部 部長	ja	Yes	Information Technology Manager				1
+77	DX人材教育企画	ja	Yes	Human Resources Specialist				0.96
+78	DX企画	ja	Yes	Information Technology Generalist				1
+79	DX企画グループ長	ja	Yes	Information Technology Manager				1
+80	DX企画の推進	ja	Yes	Information Technology Generalist				1
+81	DX企画室　室長	ja	Yes	Information Technology Manager				1
+82	DX企画担当	ja	Yes	Information Technology Generalist				1
+83	DX企画推進	ja	Yes	Information Technology Generalist				1
+84	DX企画推進部	ja	Yes	Information Technology Generalist				1
+85	DX企画管理部 マネージャー	ja	Yes	Planning Manager				1
+86	DX企画課	ja	Yes	Information Technology Generalist				1
+87	DX企画部	ja	Yes	Information Technology Generalist				1
+88	DX企画部 全社変革推進グループ	ja	Yes	Information Technology Generalist				1
+89	DX企画部DXマネジメント室長	ja	Yes	Information Technology Manager				1
+90	DX化業務の支援	ja	Yes	Information Technology Generalist				1
+91	DX営業	ja	Yes	Sales Specialist				1
+92	DX基盤事業本部	ja	Yes	Information Technology Generalist				1
+93	DX室 室長	ja	Yes	Office Manager				1
+94	DX戦略(業務委託)	ja	Yes	Business Strategist				1
+95	ＤＸ戦略・企画	ja	Yes	Information Technology Generalist				1
+96	DX戦略室	ja	Yes	Business Strategist				1
+97	DX戦略室 サブリーダー	ja	Yes	Business Strategist				1
+98	DX戦略室長	ja	Yes	Information Technology Manager				1
+99	DX戦略推進室	ja	Yes	Information Technology Generalist				1
+100	DX戦略本部	ja	Yes	Business Strategist				1
+101	DX戦略本部 AAS DX推進部 部長	ja	Yes	Information Technology Manager				0.97
+102	DX戦略本部　サイバーセキュリティ総括部長	ja	Yes	Cyber Security Manager	Security DM	Security	Manager	1
+103	DX戦略本部 デジタル戦略総括部 デジタルプロセス部 第一課基幹職	ja	Yes	No suitable match found				0
+104	DX戦略検討メンバー	ja	Yes	Business Strategist				1
+105	DX戦略課長	ja	Yes	Planning Manager				1
+106	DX戦略部	ja	Yes	Business Strategist				1
+107	DX戦略部長	ja	Yes	Information Technology Manager				1
+108	DX技術推進担当	ja	Yes	Information Technology Generalist				1
+109	"director, 営業/ビジネス ディベロップメント"	ja	Yes	Director of Business Development	Business Development DM	Business Development	Director	1
+110	DX担当 TCR	ja	Yes	Digital Media Specialist				1
+111	DX担当　TCR	ja	Yes	Digital Media Specialist				1
+112	DX担当者	ja	Yes	Digital Media Specialist				1
+113	DX推進	ja	Yes	Information Technology Generalist				1
+114	ＤＸ推進	ja	Yes	Information Technology Generalist				1
+115	DX推進 部長	ja	Yes	Information Technology Manager				1
+116	DX推進エージェント	ja	Yes	Information Technology Generalist				1
+117	DX推進グループ	ja	Yes	Information Technology Generalist				1
+118	DX推進グループ長	ja	Yes	Information Technology Manager				1
+119	DX推進コンサルタント/DXMO	ja	Yes	Information Technology Generalist				1
+120	DX推進スタッフ	ja	Yes	Information Technology Generalist				1
+121	DX推進センター	ja	Yes	Information Technology Generalist				1
+122	DX推進チーム	ja	Yes	Information Technology Generalist				1
+123	DX推進チーム　アドバイザー	ja	Yes	Information Technology Generalist				1
+124	DX推進リーダー	ja	Yes	Information Technology Manager				1
+125	DX推進事業部	ja	Yes	Information Technology Generalist				1
+126	DX推進企画	ja	Yes	Information Technology Generalist				1
+127	DX推進室	ja	Yes	Information Technology Generalist				1
+128	ＤＸ推進室	ja	Yes	Information Technology Generalist				1
+129	DX推進室 DX推進グループ	ja	Yes	Information Technology Generalist				1
+130	DX推進室　主任	ja	Yes	Information Technology Generalist				1
+131	DX推進室 室長	ja	Yes	Information Technology Manager				1
+132	DX推進室　室長	ja	Yes	Information Technology Manager				1
+133	DX推進室　推進2課 一般社員	ja	Yes	Marketing Specialist				1
+134	DX推進室サービスリード	ja	Yes	Service Delivery Specialist				1
+135	DX推進室副室長	ja	Yes	Information Technology Manager				1
+136	DX推進室室長	ja	Yes	Information Technology Manager				1
+137	DX推進室長	ja	Yes	Information Technology Manager				1
+138	DX推進専門官	ja	Yes	Information Technology Generalist				1
+139	DX推進局	ja	Yes	Information Technology Generalist				1
+140	DX推進局 ICTエンジニアリング部 主任	ja	Yes	Information Technology Generalist				0.98
+141	DX推進担当	ja	Yes	Information Technology Generalist				1
+142	DX推進担当部長	ja	Yes	Information Technology Manager				1
+143	DX推進支援	ja	Yes	Information Technology Generalist				1
+144	DX推進本部	ja	Yes	Information Technology Generalist				1
+145	DX推進本部 DX横断企画室 エキスパート	ja	Yes	Information Technology Generalist				1
+146	DX推進本部 IT業務推進部	zh-Hant	Yes	Information Technology Generalist				1
+147	DX推進本部長	ja	Yes	Information Technology Manager				1
+148	ＤＸ推進本部長	ja	Yes	Information Technology Manager				1
+149	DX推進統括 取締役	ja	Yes	Director of Information Technology				1
+150	DX推進者	ja	Yes	Information Technology Generalist				1
+151	DX推進課	ja	Yes	Information Technology Generalist				1
+152	DX推進部	ja	Yes	Information Technology Manager				0.94
+153	ＤＸ推進部	ja	Yes	Information Technology Manager				0.94
+154	DX推進部　	ja	Yes	Information Technology Manager				0.94
+155	DX推進部 システム担当者	ja	Yes	Information Technology Generalist				1
+156	DX推進部　先進ITグループ長	ja	Yes	Information Technology Manager				1
+157	DX推進部 部長	ja	Yes	Information Technology Manager				1
+158	DX推進部 開発グループ	ja	Yes	Developer				1
+159	ＤＸ推進部システム開発統制 副調査役	ja	Yes	Information Technology Generalist				0.99
+160	ＤＸ推進部チーフエンジニア	ja	Yes	Information Technology Generalist				1
+161	DX推進部長	ja	Yes	Information Technology Manager				1
+162	DX推進部長 兼 DX推進部 DXグループ　グループリーダー	ja	Yes	Information Technology Manager				1
+163	DX推進部長 兼 IT統括部主席部員	zh-Hant	Yes	Information Technology Generalist				1
+164	DX支援（派遣社員）	ja	Yes	Contract Worker				1
+165	DX本部	ja	No					
+166	DX本部 IT事業部	ja	Yes	Information Technology Generalist				1
+167	DX本部　アーキテクト	ja	Yes	Information Technology Generalist				1
+168	DX業務	ja	Yes	Information Technology Generalist				1
+169	DX経営戦略部	ja	Yes	Chief of Department	Community and Social Services CXO	Community and Social Services	CXO	0.7
+170	DX統括課	ja	Yes	Information Technology Administrator				1
+171	DX統括部　課長補佐	ja	Yes	Information Technology Manager				0.98
+172	DX責任者	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	1
+173	DX部	zh-Hans	No					
+174	DX部門	ja	Yes	Information Technology Generalist				1
+175	DX開発	ja	Yes	Developer	Developer User	Developer	Entry	1
+176	DX関連	ja	No					
+177	E&M第二事業統括部スマート保全推進グループ なし	ja	Yes	Conservationist				0.96
+178	EB DXソリューション２部	ja	Yes	Information Technology Generalist				1
+179	EC 通販ｼｽﾃﾑ担当 ﾏﾈｰｼﾞｬｰ	fr	Yes	eCommerce Manager				1
+180	ECBU クラウドIOT カンパニー エッジクラウドソリューション部 セールス2グループ グループリーダー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.75
+181	ECBU クラウドIOT カンパニー エッジクラウドソリューション部 セールスグループ 部長代理	ja	Yes	Sales Director	Sales DM	Sales	Director	0.85
+182	ECM部 エンジニアリングシステム4課	ja	Yes	Information Technology Generalist				1
+183	ＥＣサイト管理者	ja	Yes	eCommerce Specialist	Sales User	Sales	Entry	1
+184	ECサイト運営	ja	Yes	eCommerce Specialist	Sales User	Sales	Entry	1
+185	ECシステムエンジニアリング部門 EC開発-C グループ長	ja	Yes	Information Technology Generalist				0.91
+186	EC事業課 責任者	ja	Yes	eCommerce Manager	Sales DM	Sales	Manager	1
+187	ＥＣ事業部システムチーム 課長	ja	Yes	Information Technology Manager				1
+188	EC担当	ja	Yes	eCommerce Specialist	Sales User	Sales	Entry	1
+189	EC推進部	ja	Yes	eCommerce Specialist				1
+190	EC運営	ja	Yes	eCommerce Specialist	Sales User	Sales	Entry	1
+191	EC運営事務局	ja	Yes	eCommerce Specialist				1
+192	"EP事業ユニットシステム開発部, 副主査"	ja	Yes	Developer				0.99
+193	ERP シニアマネージャー	ja	Yes	Information Technology Manager				1
+194	ERP 開発者	ja	Yes	Developer	Developer User	Developer	Entry	1
+195	ERPソリューションユニット アソシエイトマネージャー	ja	Yes	Engineer				1
+196	ERPソリューション事業部ERP営業部	ja	Yes	Engineer				1
+197	ES1 マネージャー	ja	Yes	Information Technology Manager				1
+198	ESG推進	ja	Yes	Environmental Specialist	Community and Social Services User	Community and Social Services	Entry	1
+199	ESG推進室	ja	Yes	Environmental Specialist	Community and Social Services User	Community and Social Services	Entry	1
+200	"ES事業部共通システムグループ, シニアチーフ"	ja	Yes	Information Technology Manager				0.98
+201	EXPERT / エキスパート	ja	Yes	Infrastructure Engineer				1
+202	EXPERT ENGINEER(エキスパートエンジニア)	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	1
+203	EXPERT STAFF(エキスパートスタッフ)	ja	Yes	Information Technology Generalist				1
+204	EX推進部	ja	Yes	Information Technology Generalist				1
+205	Eコマーススペシャリスト	ja	Yes	eCommerce Specialist	Sales User	Sales	Entry	1
+206	Ｅコマース推進部	ja	Yes	eCommerce Specialist				1
+207	Eコマース推進部 WEB管理グループ 次長	ja	Yes	Director of eCommerce	Sales DM	Sales	Director	1
+208	E-ビジネスサービスカンパニー DX事業部 事業部長	ja	Yes	Information Technology Manager				1
+209	FAシステム事業本部	ja	Yes	Business Development Specialist				1
+210	FAシステム事業本部 FAデジタルエンジニアリング推進部 デジタルマニュファクチャリングソリューションセンター アプリケーション開発グループ	ja	Yes	Mechanic and Maintenance Tradesperson				1
+211	ＦＡ推進室長	ja	Yes	Consultant				1
+212	FBSC CC部基幹システム系業務主管担当	ja	Yes	Consultant				1
+213	FBデータシステム事業部	ja	Yes	Data Specialist				1
+214	FE/BE マネージャー	ja	Yes	Web Development Manager	Developer DM	Developer	Manager	0.85
+215	FITSPLUS WEBエンジニア	ja	Yes	Web Developer	Developer User	Developer	Entry	1
+216	FLUCT 開発部	ja	Yes	Development Manager	Developer DM	Developer	Manager	0.92
+217	FMソリューション部	ja	Yes	Chief of Department	Community and Social Services CXO	Community and Social Services	CXO	0.7
+218	FORXAI事業統括部 AI技術開発部 第1グループ アシスタントマネジャー	ja	Yes	Manager of Artificial Intelligence	Data Professional DM	Data Professional	Manager	1
+219	GIGA STUDX推進チーム	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+220	IT 運用サービス	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+221	IT 部長（旧： IT 部アプリケーショングループ長）	ja	Yes	Director of Information Technology	Information Technology DM	Information Technology	Director	0.85
+222	IT 開発担当責任者	ja	Yes	Information Technology Manager				1
+223	IT 開発者	ja	Yes	Technology Development Engineer				1
+224	IT＆DX担当	ja	Yes	Information Technology Generalist				1
+225	IT＆ソリューション部  情報システムセンター　ビジネスアプリケーション室 アプリケーション開発グループ	ja	Yes	Information Technology Manager				1
+226	ＩＴ＆デジタル革新推進部	ja	Yes	Information Technology Generalist				1
+227	IT＆デジタル革新推進部 係長・主任クラス	ja	Yes	Technology Development Engineer				0.95
+228	"IT, マネージャー"	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+229	IT、DX推進	ja	Yes	Information Technology Generalist				1
+230	IT、デジタル全て	ja	Yes	Information Technology Generalist				1
+231	IT/IS部コーポレートエンジニア	ja	Yes	Information Technology Generalist				1
+232	IT/インフラ担当 (情報基盤、IT基盤)	ja	Yes	Information Technology Generalist				0.91
+233	IT/インフラ担当 (情報基盤、IT基盤)_TCR	ja	Yes	Information Technology Manager				1
+234	IT/システム担当TCR	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+235	IT・DX推進室 副部長	ja	Yes	Information Technology Manager				1
+236	IT・システム企画部	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+237	IT・システム部 部長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+238	IT・デジタル	ja	Yes	Information Technology Generalist				1
+239	IT・企画	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+240	"IT・通信, 情報処理業"	ja	Yes	Information Technology Generalist				1
+241	IT1エンジニア	ja	Yes	Engineer				1
+242	IT-AI 推進室	ja	Yes	Artificial Intelligence Engineer				1
+243	ITCLOUD運用エンジニア	ja	Yes	Cloud Engineer	Engineering User	Engineering	Entry	0.85
+244	ITC担当	ja	Yes	Information Technology Generalist				1
+245	ITI DIV 本部長	ja	Yes	Information Technology Manager				0.94
+246	ITMS本部ITソリューション事業部総合技術部クラウドサービス課	ja	Yes	No suitable match found				0
+247	ITOC事業部 MBS部 課長クラス	ja	Yes	Information Technology Manager				0.92
+248	ITOC事業部 一般社員・職員	ja	Yes	Office Worker				0.95
+249	ITOC事業部 課長クラス	ja	Yes	Operations Manager	Operations DM	Operations	Manager	0.75
+250	IT-OTイノベーション本部	ja	Yes	3D Artist				1
+251	ITS 主査	ja	Yes	Information Technology Generalist				1
+252	ITS推進室 室長	ja	Yes	Information Technology Manager				1
+253	ITS第二グループ チーフ	ja	Yes	Chief Executive Officer				1
+254	ITアーキテクト	ja	Yes	Information Technology Generalist				1
+255	ＩＴアーキテクト	ja	Yes	Information Technology Generalist				1
+256	ITアーキテクト、プロジェクトマネージャ	ja	Yes	Information Technology Architecture Manager	Architect DM	Architect	Manager	1
+257	ITアーキテクト・エキスパート	ja	Yes	Information Technology Architect	Architect DM	Architect	Senior	1
+258	ITアーキテクト・セキュリティエンジニア	ja	Yes	Senior Security Architect	Security DM	Security	Senior	1
+259	ITアーキテクト部 一般社員・職員	ja	Yes	Information Technology Generalist				1
+260	ITアークテクト	ja	Yes	Information Technology Generalist				1
+261	ITアカウント	ja	Yes	Information Technology Generalist				1
+262	ITアドバイザ	ja	Yes	Information Technology Consultant	Information Technology DM	Information Technology	Senior	1
+263	ITアドバイザー	ja	Yes	Information Technology Consultant	Information Technology DM	Information Technology	Senior	1
+264	ITアドミニストレータ	ja	Yes	Information Technology Administrator	Information Technology User	Information Technology	Entry	1
+265	ITアナリスト	ja	Yes	Information Technology Analyst	Information Technology User	Information Technology	Entry	1
+266	ITインストラクター	ja	Yes	Technology Instructor	Education DM	Education	Senior	1
+267	ITインテグレーション部	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	0.7
+268	ITインテグレーション部企画課 マネージャー	ja	Yes	Information Technology Manager				1
+269	ITインフラ	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+270	ITインフラ・トランジション担当 参事	ja	Yes	Information Technology Manager				1
+271	ITインフラG	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+272	ITインフラアーキテクト (インフラ設計者)	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	0.94
+273	ITインフラエンジニア	ja	Yes	Information Technology Generalist				1
+274	ITインフラサービス一部 一般社員・職員	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	0.85
+275	ITインフラサポート	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+276	ITインフラストラクチャ・スペシャリスト	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+277	ITインフラスペシャリスト	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+278	ＩＴインフラセキュリティサポート本部 部長クラス	ja	Yes	Information Technology Security Manager				0.94
+279	ITインフラマネージャ	ja	Yes	Information Technology Security Manager				1
+280	ITインフラ保守	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+281	ITインフラ基盤	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+282	ITインフラ担当	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+283	ITインフラ整備	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+284	ITインフラ構築	ja	Yes	Infrastructure Engineer				1
+285	ITインフラ構築及びサービス	ja	Yes	Infrastructure Engineer				1
+286	ITインフラ管理者	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+287	ITインフラ設計	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+288	ITインフラ課　主任	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+289	ITインフラ課 課長	ja	Yes	Infrastructure Manager	Information Technology DM	Information Technology	Manager	1
+290	ITインフラ運用	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+291	ITインフラ運用保守	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+292	ITインフラ運用管理	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+293	ITインフラ部	ja	Yes	Infrastructure Manager	Information Technology DM	Information Technology	Manager	0.7
+294	ITインフラ関係	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+295	ITエキスパート	ja	Yes	Information Technology Generalist				1
+296	ITエンジニア	ja	Yes	Engineer				1
+297	ＩＴエンジニア	ja	Yes	Engineer				1
+298	ITエンジニア その他	ja	Yes	Engineer				1
+299	ITエンジニア 一般社員	ja	Yes	Information Technology Engineer				1
+300	ITエンジニア 主任／係長クラス	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	0.92
+301	ITエンジニア 契約社員	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	1
+302	ITエンジニア 役員クラス	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	0.92
+303	ITエンジニア 本部長クラス	ja	Yes	Technology Manager	Information Technology DM	Information Technology	Manager	0.96
+304	ITエンジニア 派遣社員	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	1
+305	ITエンジニア 経営者	ja	Yes	Engineering Manager				1
+306	ITエンジニア 課長クラス	ja	Yes	Technology Manager				0.9
+307	ITエンジニア 部長クラス	ja	Yes	Technology Manager	Information Technology DM	Information Technology	Manager	0.96
+308	ITエンジニア・部長	ja	Yes	Technology Manager				1
+309	ITエンジニアリング	ja	Yes	Engineer				1
+310	ITエンジニア営業サポート	ja	Yes	Engineer				1
+311	ITエンジニニア	ja	Yes	Engineer				1
+312	ITオペレーション	ja	Yes	Information Technology Generalist				1
+313	ITオペレーショングループ	ja	Yes	Information Technology Generalist				1
+314	ITオペレーター	ja	Yes	Information Technology Generalist				1
+315	ITカスタマーサービス	ja	Yes	Customer Service Specialist	Customer Service and Support User	Customer Service and Support	Entry	1
+316	ITガバナンス	ja	Yes	Information Technology Generalist				1
+317	ITガバナンスグループ長	ja	Yes	Information Technology Manager				1
+318	ITグループ	ja	Yes	Information Technology Generalist				1
+319	ITグループ長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+320	ITコーディネータ	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+321	ＩＴコーディネータ	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+322	ITコーディネーター	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+323	ＩＴコーディネーター	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+324	ITコンサル	ja	Yes	Information Technology Consultant	Information Technology DM	Information Technology	Senior	1
+325	ITコンサルタント	ja	Yes	Information Technology Generalist				1
+326	ＩＴコンサルタント	ja	Yes	Information Technology Generalist				1
+327	ITコンサルタント 代表取締役	ja	Yes	Chief Executive Officer				1
+328	ITコンサルティング	ja	Yes	Information Technology Consultant	Information Technology DM	Information Technology	Senior	1
+329	ITコンサルティング事業部	ja	Yes	Information Technology Consultant	Information Technology DM	Information Technology	Senior	1
+330	ITコンサルティング担当 エンジニア	ja	Yes	Information Technology Consultant	Information Technology DM	Information Technology	Senior	1
+331	ITコンサルティング業	ja	Yes	Information Technology Consultant	Information Technology DM	Information Technology	Senior	1
+332	ITコンシェルジュ	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+333	ITサービス	ja	Yes	Information Technology Support Specialist				1
+334	ＩＴサービス	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	1
+335	ITサービス&エンジニアリング事業本部データセキュリティマネジメント担当 医療情報技師	ja	Yes	Engineer				1
+336	ITサービス（運用）	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+337	ITサービスG	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	1
+338	ITサービスエンジニア	ja	Yes	Information Technology Generalist				1
+339	ITサービスオペレーション本部 JAPAN ITサービス部 エンドユーザーアプリケーションオペレーショングループ	ja	Yes	Service Support Manager	Customer Service and Support DM	Customer Service and Support	Manager	0.85
+340	ITサービスサポート	ja	Yes	Information Technology Support Specialist				1
+341	ITサービスデスク	ja	Yes	Information Technology Help Desk	Information Technology User	Information Technology	Entry	1
+342	ITサービスプロバイダー	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	0.97
+343	ITサービスマネージャ	ja	Yes	Information Technology Manager				1
+344	ITサービスマネージャー	ja	Yes	Information Technology Manager				1
+345	ITサービスマネジメント	ja	Yes	Information Technology Support Specialist				1
+346	ITサービスマネジャ	ja	Yes	Information Technology Manager				1
+347	ITサービス事務	ja	Yes	Information Technology Generalist				1
+348	ITサービス事業ユニット プロジェクトマネージャー	ja	Yes	Manager Project Management	Program and Project Management DM	Program and Project Management	Manager	1
+349	ITサービス保守	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+350	ITサービス推進	ja	Yes	Information Technology Support Specialist				1
+351	ITサービス提供	ja	Yes	Information Technology Support Specialist				1
+352	"individual contributor/staff, 営業/ビジネス ディベロップメント"	ja	Yes	Business Development Specialist				1
+353	ITサービス管理者	ja	Yes	Information Technology Administrator	Information Technology User	Information Technology	Entry	1
+354	ITサービス職	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	1
+355	ITサービス部	ja	Yes	Information Technology Administrator	Information Technology User	Information Technology	Entry	0.7
+356	ITサービス部 ITインフラチーム	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+357	ITサービス部　インテグレーション担当	ja	Yes	Information Technology Support Specialist				0.98
+358	ITサービス部 平社員	ja	Yes	Information Technology Support Specialist				1
+359	ITサポーター	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	1
+360	ITサポート	ja	Yes	Information Technology Generalist				1
+361	ＩＴサポート	ja	Yes	Information Technology Generalist				1
+362	ITサポート TCR	ja	Yes	Information Technology Generalist				1
+363	ITサポートエンジニア	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	1
+364	ITサポートサービス	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	1
+365	ITサポートスタッフ	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	1
+366	ITサポートデスク	ja	Yes	Information Technology Support Specialist				1
+367	ITサポート事務	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	0.97
+368	ITサポート室	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	0.97
+369	ITサポート担当者	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	1
+370	ITサポート部門　一般社員	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	0.85
+371	ITジェネラリスト	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+372	ITシステム	ja	Yes	Information Technology System Administrator				1
+373	ITシステムインテグレート	ja	Yes	Information Technology System Administrator	Information Technology User	Information Technology	Entry	1
+374	ITシステムエンジニア	ja	Yes	Information Technology System Administrator	Information Technology User	Information Technology	Entry	1
+375	ITシステムグループ 一般社員・職員	ja	Yes	Information Technology Generalist				1
+376	ITシステムマネージャー	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+377	ITシステム事務本部 DX推進グループ マネージャー	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	0.85
+378	ITシステム企画グループ	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+379	ITシステム室担当	ja	Yes	Information Technology System Administrator				1
+380	ＩＴシステム推進部　システムインフラチーム 係長・主任クラス	ja	Yes	Infrastructure Manager	Information Technology DM	Information Technology	Manager	0.85
+381	ITシステム改善	ja	Yes	Information Technology System Administrator				1
+382	ITシステム管理	ja	Yes	Information Technology System Administrator	Information Technology User	Information Technology	Entry	1
+383	ITシステム管理者	ja	Yes	Information Technology System Administrator	Information Technology User	Information Technology	Entry	1
+384	ITシステム課	ja	Yes	Information Technology System Administrator				1
+385	ITシステム運用	ja	Yes	Information Technology Generalist				1
+386	IT 責任者	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+387	ITシステム部門	ja	Yes	Information Technology System Administrator				1
+388	ITシステム開発	ja	Yes	Information Technology System Administrator				1
+389	ITシステム関連の管理・運用	ja	Yes	Information Technology System Administrator	Information Technology User	Information Technology	Entry	1
+390	ITシニアスペシャリスト	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+391	ITスクール事業	ja	Yes	Educational Technology				1
+392	ITスタッフ	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+393	ITストラジスト	ja	Yes	Information Technology Generalist				1
+394	ＩＴストラテジー	ja	Yes	Information Technology Generalist				1
+395	ITストラテジスト	ja	Yes	Information Technology Generalist				1
+396	ＩTストラテジスト	ja	Yes	Information Technology Generalist				1
+397	ITスペシャリスト	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+398	ＩＴスペシャリスト	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+399	ITセールス	ja	Yes	Technical Sales Professional	Sales User	Sales	Entry	1
+400	ITセキュリティ	ja	Yes	Information Technology Security Specialist	Security User	Security	Entry	1
+401	ＩＴセキュリティ	ja	Yes	Information Technology Security Specialist	Security User	Security	Entry	1
+402	ITセキュリティ エンジニア	ja	Yes	Information Technology Security Specialist	Security User	Security	Entry	1
+403	ITセキュリティアナリスト	ja	Yes	Information Security Analyst	Security User	Security	Entry	1
+404	ITセキュリティ事業部 エンジニア	ja	Yes	Information Technology Security Specialist	Security User	Security	Entry	1
+405	ITセキュリティ技術職	ja	Yes	Information Technology Security Specialist	Security User	Security	Entry	1
+406	ITソフトウェアエンジニア	ja	Yes	Software Engineer	Engineering User	Engineering	Entry	1
+407	ITソリューション	ja	Yes	Information Technology Generalist				1
+408	ＩＴソリューション	ja	Yes	Information Technology Generalist				1
+409	ITソリューション1部	ja	Yes	Information Technology Generalist				1
+410	ITソリューション4部	ja	Yes	Information Technology Generalist				1
+411	ITソリューションエンジニア	ja	Yes	Engineer				1
+412	ITソリューショングループ長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+413	ITソリューションの社内への提供	ja	Yes	Technology Consultant	Information Technology DM	Information Technology	Senior	0.75
+414	ITソリューション事業	ja	Yes	Information Technology Generalist				1
+415	ITソリューション事業部	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+416	ITソリューション事業部 開発グループ部	ja	Yes	Information Technology Generalist				1
+417	ITソリューション企画部 一般社員・職員	ja	Yes	Information Technology Generalist				1
+418	ITソリューション営業	ja	Yes	Technical Sales Professional	Sales User	Sales	Entry	1
+419	ＩＴソリューション室	ja	Yes	Information Technology Generalist				0.97
+420	ITソリューション推進課	ja	Yes	Information Technology Generalist				1
+421	ITソリューション本部	ja	Yes	Information Technology Generalist				1
+422	ITソリューション本部プラットフォーム部 課長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+423	ITソリューション統括部	ja	Yes	Information Technology Administrator				1
+424	ITソリューション部	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	0.7
+425	ITソリューション部　主務	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+426	ITソリューション部　部長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+427	ITソリューション開発本部	ja	Yes	Information Technology Generalist				1
+428	ITチームマネージャー	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+429	ITツールを活用した業務改革の担当者	ja	Yes	Information Technology Generalist				1
+430	ITツール導入促進	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	0.85
+431	ITディベロッパ	ja	Yes	Technology Development Engineer				1
+432	ITディレクター	ja	Yes	Director of Information Technology	Information Technology DM	Information Technology	Director	1
+433	ITテクニカルサポート	ja	Yes	Information Technology Support Specialist	Information Technology User	Information Technology	Entry	1
+434	ITデジタル	ja	Yes	Information Technology Generalist				1
+435	ITデジタル推進部	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	0.7
+436	ITデリバリー	ja	Yes	Information Technology Generalist				1
+437	ITトレーナー	ja	Yes	Technology Instructor	Education DM	Education	Senior	1
+438	ITバイヤー	ja	Yes	Purchaser				1
+439	ＩＴ部門	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+440	IT部門　経営/企画	ja	Yes	Information Technology Generalist				1
+441	IT部門スタッフ	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+442	IT部門セキュリティ担当者	ja	Yes	Information Technology Security Specialist	Security User	Security	Entry	1
+443	IT部門マネジメント	ja	Yes	Information Technology Administrator	Information Technology User	Information Technology	Entry	1
+444	IT部門担当者	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+445	IT部門長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+446	ITセキュリティ技術責任者	ja	Yes	Information Technology Security Manager				1
+447	IT開発担当	ja	Yes	Information Technology Generalist				1
+448	IT開発担当者	ja	Yes	Technology Development Engineer				1
+449	"IT開発本部 開発1部, 課長"	ja	Yes	Information Technology Manager				0.98
+450	IT開発本部開発1部	ja	Yes	Technology Development Engineer	Engineering User	Engineering	Entry	1
+451	IT開発本部開発2部	ja	Yes	Technology Development Engineer	Engineering User	Engineering	Entry	1
+452	IT開発者	ja	Yes	Technology Development Engineer				1
+453	IT開発部 部長	ja	Yes	Information Technology Manager				1
+454	IT関係	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+455	ＩＴ関係	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+456	IT関連	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+457	IT関連サービス	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+458	IT関連スタッフ	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+459	IT関連の情報収集	ja	Yes	No suitable match found				0
+460	IT関連担当者	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+461	IT関連職	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+462	IT関連部署	ja	No					
+463	I一般社員	ja	Yes	Banker				0.97
+464	JEIS 営業部	ja	Yes	Sales Employee				1
+465	JGG)アドバンスアーキテクトデビジョン統括部	ja	Yes	Architect				0.92
+466	KCS部 エンジニア	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	1
+467	KDI豊中園長	ja	Yes	Information Technology Manager				1
+468	KPS推進課	ja	Yes	Accountant				0.92
+469	"LAB, リードエンジニア"	ja	Yes	Engineer				1
+470	LAN管理者	ja	Yes	Network Engineer	Information Technology User	Information Technology	Entry	1
+471	LINUX サポート	ja	Yes	Information Technology Generalist				1
+472	LPSRA雷保護システム技能者	ja	Yes	Information Technology Generalist				0.93
+473	LSI開発ツール環境の効率化	ja	No					
+474	ＬＴＶ企画Ｇ	zh-Hans	Yes	Project Manager	Program and Project Management DM	Program and Project Management	Manager	1
+475	M365グローバル管理者	ja	Yes	Administrative Employee				1
+476	M365運用担当者	ja	Yes	Information Technology Generalist				1
+477	MAAS営業部 部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+478	ＭＡＮＡＧＥＲ	lb	Yes	Information Technology Manager				1
+479	"MANAGER, DXソリューション開発部"	ja	Yes	Information Technology Manager				1
+480	IT企画	ja	Yes	Information Technology Generalist				1
+481	"MANAGING DIRECTOR, ACCENTURE SONG/営業日本統括 兼 クライアントグループ日本 ..."	ja	Yes	Sales Director				0.98
+482	MARKETING PLATFORM第2本部  ソリューションアーキテクト	ja	Yes	Architect				1
+483	MBP/AS事業部 開発チーム リーダー	ja	Yes	Information Technology Generalist				0.9
+484	MCGビジネス本部 係長・主任クラス	ja	Yes	Information Technology Manager				0.98
+485	MC工場商品設計部一課二係 なし	ja	Yes	Product Developer	Product Management User	Product Management	Entry	0.7
+486	MES(SAP)担当	ja	Yes	SAP Administrator	Information Technology User	Information Technology	Entry	1
+487	MICROSOFT 365 システム管理者	ja	Yes	Information Technology Administrator	Information Technology User	Information Technology	Entry	1
+488	MICROSOFTエンジニア	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	1
+489	MIXED REALITY テクニカルマネージャー	ja	Yes	Virtual Reality Software Engineer				1
+490	ＭＭ事業部 マネージャー	ja	Yes	Information Technology Manager				1
+491	MSソリューション担当	ja	Yes	Information Technology Generalist				1
+492	MS部 係長・主任クラス	ja	Yes	Chief of Department	Community and Social Services CXO	Community and Social Services	CXO	0.75
+493	MUFGトレーディング CMO	ja	Yes	Chief Marketing Officer	Marketing CXO	Marketing	CXO	1
+494	MUIT ホストプラットフォーム部(出向) 調査役	ja	Yes	Financial Analyst				1
+495	MUS@SI総合窓口/運用	ja	Yes	No suitable match found				0
+496	NAS開発部 課長	ja	Yes	Development Manager	Developer DM	Developer	Manager	1
+497	NETWORKの提供	ja	Yes	Network Engineer	Information Technology User	Information Technology	Entry	1
+498	NETWORK担当	ja	Yes	Network Administrator	Information Technology User	Information Technology	Entry	1
+499	NGO職員	ja	Yes	Social Worker				1
+500	NM営業部デリバリ１Ｇ	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.6
+501	NORTH STAR MANAGEMENT株式会社 テクノロジーユニット マネージングディレクター	ja	Yes	Managing Director	Business Development CXO	Business Development	CXO	0.9
+502	NWインフラデザイン	ja	Yes	Network Engineer	Information Technology User	Information Technology	Entry	1
+503	NWエンジニア	ja	Yes	Network Engineer	Information Technology User	Information Technology	Entry	1
+504	NW-エンジニア	ja	Yes	Network Engineer	Information Technology User	Information Technology	Entry	1
+505	NWオペレーション	ja	Yes	Network Engineer				1
+506	NW事業推進本部 高度化推進部 ネットワーク開発部門 ビジネス基盤開発担当	ja	Yes	No suitable match found				0
+507	NW管理者	ja	Yes	Network Administrator	Information Technology User	Information Technology	Entry	1
+508	NW計画	ja	No					
+509	OA 担当	ja	Yes	Information Technology Analyst				1
+510	OAサポート	ja	Yes	Information Technology Generalist				1
+511	OA担当	ja	Yes	Information Technology Generalist				1
+512	OA機器メンテナンス	ja	Yes	Information Technology Generalist				1
+513	OA機器等販売	ja	Yes	Sales Executive	Sales DM	Sales	Manager	0.85
+514	OCRエンジニア	ja	Yes	Information Technology Engineer				1
+515	OFFICE　インストラクター	ja	Yes	Information Technology Generalist				1
+516	OFFICE365 担当	ja	Yes	Information Technology Analyst				1
+517	OMO校長/相談役	ja	Yes	Consultant	Business Development DM	Business Development	Senior	0.75
+518	OPENAI推進事業部	ja	Yes	Accountant				0.92
+519	OPERATION DX部門 事業統括 AIソリューションチーム	ja	Yes	Information Technology Generalist				1
+520	OS事業部 お客様技術サービス課 課長代理	ja	Yes	Customer Service Manager	Customer Service and Support DM	Customer Service and Support	Manager	1
+521	"OWNER, 営業/ビジネス ディベロップメント"	ja	Yes	Sales Director				1
+522	PA）技術二部 主査	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	0.91
+523	PC・サーバ運用	ja	Yes	Cloud Engineer				1
+524	ＰＣＭＣ　本社　情報システムセンター　業務推進部　業務集中管理課	ja	Yes	Information Technology Generalist				0.91
+525	PCインストラクター	ja	Yes	Information Technology Generalist				1
+526	PCコンサル	ja	Yes	Technology Consultant				1
+527	PCサポート	ja	Yes	Information Technology Generalist				1
+528	PCトータル管理	ja	Yes	Information Technology Generalist				1
+529	PCのメンテナンス	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+530	PCメンテナー	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+531	PCメンテナンス	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+532	PC技術業務	ja	Yes	Information Technology Generalist				1
+533	PC担当	ja	Yes	Desktop Support Manager	Information Technology DM	Information Technology	Manager	0.85
+534	PC管理担当	ja	Yes	Information Technology Analyst				1
+535	PC管理者	zh-Hans	Yes	Information Technology Generalist				0.97
+536	PC販売	ja	Yes	Information Technology Generalist				1
+537	PC部門	ja	Yes	Information Technology Generalist				1
+538	PC開発	ja	Yes	Cloud Engineer				1
+539	PC関連	ja	No					
+540	PF推進室 室長	ja	Yes	Information Technology Manager				1
+541	ＰＨ）健康医療事	ja	Yes	Health Specialist				0.92
+542	PM システムエンジニア	ja	Yes	Engineer				1
+543	PM（IT関係）	ja	Yes	Information Technology Generalist				1
+544	"PM, 開発"	ja	Yes	Information Technology Generalist				1
+545	"PM,エンジニア"	ja	Yes	Engineer				1
+546	PM3-1部 部長	ja	Yes	Information Technology Manager				1
+547	PMOマネージャー	ja	Yes	Information Technology Manager				1
+548	PM部	zh-Hans	Yes	Information Technology Generalist				1
+549	POWERPLATFORMコンサルタント	ja	Yes	Consultant	Business Development DM	Business Development	Senior	0.85
+550	PRD部門	ja	No					
+551	PRD部門　生産支援	ja	Yes	Product Developer				0.97
+552	PRICING室　室長	ja	Yes	Pricing Specialist	Marketing User	Marketing	Entry	1
+553	PRODUCTS & CONSUMER事業本部 テックコンサルタント	ja	Yes	Technology Consultant	Information Technology DM	Information Technology	Senior	1
+554	PROJECT MANAGER (プロジェクトマネージャー)	ja	Yes	Project Manager	Program and Project Management DM	Program and Project Management	Manager	1
+555	PR戦略部門 生活者コミュニケーションセンター コミュニケーション業務推進部 システム開発室 2G リーダー	ja	Yes	Marketing Communications Specialist				1
+556	PSIRT マネージャー	ja	Yes	Information Technology Manager				1
+557	PSIRT リーダ	ja	Yes	Information Technology Manager				1
+558	PS事業推進部 部長	ja	Yes	Sales Manager				1
+559	ＰＳ本部　Ｃ＆Ｎ部　第一サービス部門 係長・主任クラス	ja	Yes	Information Technology Manager				0.99
+560	PS本部 一般社員・職員	ja	Yes	Office Worker				1
+561	RRP開発センター 係長・主任クラス	ja	Yes	Information Technology Manager				0.9
+562	SAAS開発部 部長	ja	Yes	Software Application Manager				1
+563	SALESFORCEコンサルタント	ja	Yes	Information Technology Consultant				1
+564	SAP BASISコンサルタント	ja	Yes	Information Technology Consultant				1
+565	SAP ERP開発運用保守	ja	Yes	Information Technology Consultant				1
+566	SAPエキスパート	ja	Yes	Information Technology Consultant				1
+567	SAPコンサルタント	ja	Yes	Information Technology Consultant				1
+568	SAPスペシャリスト	ja	Yes	Information Technology Consultant				1
+569	SA事業ユニット 部長	ja	Yes	Director General	Business Development DM	Business Development	Director	1
+570	SBS事業本部　品質統轄部　CS推進部 主任	zh-Hant	Yes	Quality Assurance Tester				1
+571	SCM生産本部 技術部 ソフトウェア技術グループ	ja	Yes	Software Engineer	Engineering User	Engineering	Entry	1
+572	S-CRED＋推進部 課長	ja	Yes	Information Technology Manager				0.9
+573	SC事業部エッジデバイス事業推進室 一般社員・職員	ja	Yes	Business Development Specialist				1
+574	SC部 エンジニアリング部門	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	0.96
+575	SDD マネージャー	ja	Yes	Information Technology Manager				1
+576	ＳＤＧＳ推進室　室長	ja	Yes	Information Technology Generalist				1
+577	SE プログラマ	ja	Yes	Software Engineer	Engineering User	Engineering	Entry	0.85
+578	"SE,情シス"	ja	Yes	Information Technology Analyst	Information Technology User	Information Technology	Entry	0.98
+579	SE/開発者	ja	Yes	Software Engineer	Engineering User	Engineering	Entry	0.9
+580	SENIOR EXPERT / シニアエキスパート	ja	Yes	Information Technology Generalist				1
+581	SENIOR SPECIALIST / シニアスペシャリスト	ja	Yes	Director of Administration				1
+582	SE二課 一般社員	ja	Yes	Software Engineer				0.95
+583	SE本部/主幹	ja	Yes	Information Technology Manager				1
+584	SE部 一般社員・職員	ja	Yes	Software Engineer				0.98
+585	"SGEコア技術本部, エンジニア"	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	0.93
+586	SIS 事業統括部長 兼 アジャイル開発センター長 常務執行役員 CTO	ja	Yes	Chief Technology Officer				1
+587	SI事業部 シニアエキスパート	ja	Yes	Information Technology Generalist				1
+588	SI事業部 主任	ja	Yes	Information Technology Manager				1
+589	SI事業部 副事業部長	ja	Yes	Information Technology Manager				1
+590	SI第1事業部 部長	ja	Yes	Information Technology Manager				1
+591	SI開発事業本部 ビジネスアーキテクト部 部長	ja	Yes	Business Development Manager	Business Development DM	Business Development	Manager	1
+592	SMART VISION事業センター 事業企画室 室長	ja	Yes	Information Technology Manager				1
+593	SMARTファクトリー開発部 担当課長	ja	Yes	Business Development Manager				0.99
+594	SND 取締役	ja	Yes	Managing Director				1
+595	SOFTWAREENGINEERING シニアアナリスト	ja	Yes	Software Analyst	Engineering User	Engineering	Entry	0.75
+596	SOL企画 一般社員・職員	ja	Yes	Project Administrator				1
+597	SPA 一般社員・職員	ja	Yes	Office Worker				1
+598	SPD管理部係長 医療情報技師	ja	Yes	Engineer				1
+599	SPF企画室 一般社員・職員	ja	Yes	Business Planner				1
+600	SPF開発本部 シニアエンジニア	ja	Yes	Information Technology Engineer				0.98
+601	SQL SERVER サポート	ja	Yes	Sql Developer	Developer User	Developer	Entry	1
+602	SRE エンジニア	ja	Yes	Engineer				1
+603	SRE メンバー	ja	Yes	Site Reliability Engineer	Engineering User	Engineering	Entry	0.95
+604	SREUNIT インフラエンジニア	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	0.98
+605	SREエンジニア/グループマネージャ	ja	Yes	Engineering Manager				1
+606	SREグループ 開発チーム	ja	Yes	Site Reliability Engineer	Engineering User	Engineering	Entry	1
+607	SS部　第三マネージドソリューション部門　第六グループ その他	ja	Yes	Managed Services Specialist	Operations User	Operations	Entry	0.85
+608	SX推進室 マネージャー	ja	Yes	Business Development Manager				0.94
+609	T (担当者)	ja	Yes	No suitable match found				0
+610	TCR クラウド事業本部 3D住宅CADプロジェクト	ja	Yes	Information Technology Analyst				0.96
+611	TCR グループリーダー	ja	Yes	Information Technology Analyst				1
+612	TCR グループ長	ja	Yes	Information Technology Analyst				1
+613	TCR セールス&AMP;マーケティングユニット	ja	Yes	Information Technology Analyst				0.92
+614	TCR 室長	ja	Yes	Information Technology Manager				1
+615	TCR 情シス担当	ja	Yes	Information Technology Analyst	Information Technology User	Information Technology	Entry	1
+616	TCR　情報システム部 執行役員	ja	Yes	Information Technology Executive	Information Technology DM	Information Technology	Senior	1
+617	TCR 経営管理本部 情報システム部 システム運用グループ	ja	Yes	Information Technology Generalist				0.91
+618	TCR 経営管理部業務システム室 係長補佐	ja	Yes	Information Technology Analyst				1
+619	TCR 経理総務部	ja	Yes	Accountant				1
+620	TCR 統括リーダー	ja	Yes	Information Technology Analyst				1
+621	TCR 調査役	ja	Yes	Research Employee				1
+622	TCR_MW/AZURE　経営企画部 システム担当	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	0.7
+623	TECHマーケ＆デザイン企画部 担当課長	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	1
+624	UIデザイナー	ja	Yes	User Interface Designer	Information Technology User	Information Technology	Entry	1
+625	URBAN HACKS エンジニア	ja	Yes	Information Technology Generalist				1
+626	UX/UI デザイナー	ja	Yes	User Interface Designer	Information Technology User	Information Technology	Entry	1
+627	VFXスーパーバイザー	ja	Yes	Industrial Designer				1
+628	"VICE PRESIDENT, マーケティング"	ja	Yes	Vice President Marketing	Marketing DM	Marketing	VP	1
+629	"VICE PRESIDENT, 営業/ビジネス ディベロップメント"	ja	Yes	Vice President of Sales	Sales DM	Sales	VP	1
+630	WDEV その他	ja	Yes	Software Application Developer	Developer User	Developer	Entry	0.85
+631	WEB PCプロダクトG エキスパート職	ja	Yes	Product Manager	Product Management DM	Product Management	Manager	0.7
+632	WEB コンテンツ戦略	ja	Yes	Content Developer				0.9
+633	WEB サイト	ja	No					
+634	WEB/AIチーム	ja	Yes	Web Developer				1
+635	WEB3推進室活用係 係長	zh-Hant	Yes	Marketing Director	Marketing DM	Marketing	Director	0.7
+636	WEBアプリケーションエンジニア	ja	Yes	Web Application Developer	Developer User	Developer	Entry	1
+637	WEBアプリケーションディベロッパー	ja	Yes	Web Application Developer	Developer User	Developer	Entry	1
+638	WEBエンジニア	ja	Yes	Web Developer	Developer User	Developer	Entry	1
+639	WEBサービス エンジニア	ja	Yes	Web Developer	Developer User	Developer	Entry	1
+640	WEBサイト設計/構築/開発者	ja	Yes	Website Designer	Media and Communication User	Media and Communication	Entry	0.9
+641	WEBシステム開発部 GM	ja	Yes	Web Developer	Developer User	Developer	Entry	1
+642	WEBディベロッパー	ja	Yes	Web Developer	Developer User	Developer	Entry	1
+643	WEBデザイナー	ja	Yes	Web Designer	Media and Communication User	Media and Communication	Entry	1
+644	WEBデザイン	ja	Yes	Web Designer	Media and Communication User	Media and Communication	Entry	1
+645	WEBマーケター	ja	Yes	Marketing Specialist				1
+646	WEBマーケティング部 部長	ja	Yes	Digital Marketing Manager	Marketing DM	Marketing	Manager	1
+647	WEBマスター	ja	Yes	Web Developer				1
+648	WEB管理者	ja	Yes	Web Administrator	Media and Communication User	Media and Communication	Entry	1
+649	WEB開発	ja	Yes	Web Developer	Developer User	Developer	Entry	1
+650	WEB開発/エンジニア	ja	Yes	Web Developer	Developer User	Developer	Entry	0.96
+651	WEB開発者	ja	Yes	Web Developer	Developer User	Developer	Entry	1
+652	WEB開発部 エンジニア	ja	Yes	Web Developer	Developer User	Developer	Entry	1
+653	WING マネージャー	ja	Yes	Information Technology Manager				1
+654	"X(クロス)イノベーション本部 ソフトウェアデザインセンター 開発技術グループ, アソシエイトマネージャー"	ja	Yes	Development Manager	Developer DM	Developer	Manager	0.85
+655	"YOJO事業部, エンジニアリングマネージャー"	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+656	あ	ja	No					
+657	アーキテクチャ	ja	Yes	Architect				1
+658	エンジニアリングマネージャ	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+659	エンジニアリングマネージャー	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+660	エンジニアリングユニット	ja	No					
+661	エンジニアリングリーダー	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+662	エンジニアリング事業企画本部 部長	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+663	エンジニアリング事業部 ネットワークインテグレーション部	ja	Yes	Network Engineer				1
+664	エンジニアリング技術者	ja	Yes	Health Specialist				1
+665	エンジニアリング推進本部/プロフェッショナル	ja	Yes	No suitable match found				0
+666	エンジニアリング統括	ja	Yes	Engineer				1
+667	エンジニアリング統括 グループマネージャー	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+668	エンジニアリング部 なし	ja	Yes	Infrastructure Engineer				1
+669	エンジニアリング部門	ja	No					
+670	エンジニアリング部電気技術室 課長クラス	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	0.85
+671	エンジニアリング部電計システム課  兼 システム戦略部	ja	Yes	No suitable match found				0
+672	エンジニア部 リーダー	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+673	エンタープライズアーキテクト	ja	Yes	Enterprise Architect	Architect DM	Architect	Senior	1
+674	エンタープライズアカウントマネージャー	ja	Yes	Account Manager	Sales DM	Sales	Manager	1
+675	エンタープライズセールス	ja	Yes	Sales Specialist	Sales User	Sales	Entry	1
+676	エンタープライズソリューション事業本部 担当課長	ja	Yes	Information Technology Manager				1
+677	エンタープライズビジネスソリューション部 課長代理	ja	Yes	Information Technology Manager				1
+678	エンタープライズビジネス営業部 一般社員・職員	ja	Yes	Sales Executive	Sales DM	Sales	Manager	0.85
+679	エンタープライズ事業部 クラウドアーキテクト	ja	Yes	Cloud Architect	Architect DM	Architect	Senior	1
+680	エンタープライズ推進事業部 チーフプロジェクトマネージャー	ja	Yes	Project Manager	Program and Project Management DM	Program and Project Management	Manager	1
+681	エンタープライズ本部 一般社員・職員	ja	Yes	Information Technology Generalist				1
+682	エンタープライズ本部 開発3部 PS開発チーム	ja	Yes	Technology Development Engineer	Engineering User	Engineering	Entry	0.7
+683	エンタープライズ開発本部 開発3部 PS開発チーム	ja	Yes	Business Development Specialist				1
+684	エンドポイントセキュリティ部 係長・主任クラス	ja	Yes	Security Operations Manager	Security DM	Security	Manager	0.85
+685	エンドユーザービジネス本部 本部長	ja	Yes	Information Technology Manager				1
+686	エンベデット事業本部 営業部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.99
+687	オートメーションエンジニア	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	1
+688	オートモーティブ セールスマネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+689	オートモーティブシステム事業部 ソリューションビジネス部 主査	ja	Yes	Information Technology Manager				1
+690	オートモーティブ営業本部長 応用技術本部長 取締役	ja	Yes	Sales Director	Sales DM	Sales	Director	1
+691	オーナー	ja	Yes	Owner	Business Development CXO	Business Development	Owner	1
+692	オネスト・アイHD 財務戦略部 マネージャー 兼 広報経営企画部 マネージャー 兼 法務知財戦略部 マネージャー	ja	Yes	Director of Intellectual Property	Legal DM	Legal	Director	0.6
+693	オフィサー	ja	Yes	Director of Business Development				1
+694	オフィスシステムマネージャー	ja	Yes	Project Manager				1
+695	オフィスワーク	ja	No					
+696	オペレーション	ja	Yes	Operations Staff	Operations User	Operations	Entry	0.95
+697	オペレーション TCR	ja	No					
+698	オペレーションエンジニア	ja	Yes	Engineer				1
+699	オペレーションコンサルタント	ja	Yes	Process Specialist				1
+700	オペレーションマネージャー	ja	Yes	Operations Manager	Operations DM	Operations	Manager	1
+701	オペレーション強化部 リーダー	ja	Yes	Operations Specialist				1
+702	オペレーション部オペレーション企画グループ マネージャー	ja	Yes	Operations Manager	Operations DM	Operations	Manager	1
+703	オペレーター	ja	Yes	Finance Specialist				1
+704	オンラインエディター	ja	Yes	Production Editor	Media and Communication User	Media and Communication	Entry	1
+705	お客様サポートセンター センター長	ja	Yes	Service Support Specialist				1
+706	カーボンニュートラル推進本部/副長	ja	Yes	Director of Sustainability	Community and Social Services DM	Community and Social Services	Director	0.85
+707	カウンセラー	ja	Yes	Consultant				1
+708	IT推進	ja	Yes	Technology Development Engineer				1
+709	カスタマーサービス	ja	Yes	Service Support Specialist				1
+710	カスタマーサービス シニアマネージャー	ja	Yes	Customer Service Manager	Customer Service and Support DM	Customer Service and Support	Manager	1
+711	カスタマーサービス部 一般社員・職員	ja	Yes	Customer Service Specialist	Customer Service and Support User	Customer Service and Support	Entry	0.85
+712	カスタマーサクセス	ja	Yes	Customer Service Specialist	Customer Service and Support User	Customer Service and Support	Entry	1
+713	カスタマーサクセスマネージャー	ja	Yes	Customer Service Specialist	Customer Service and Support User	Customer Service and Support	Entry	1
+714	カスタマーサポートエンジニア	ja	Yes	Technical Support Representative	Customer Service and Support DM	Customer Service and Support	Senior	1
+715	カスタマーサポートマネージャー	ja	Yes	Customer Service Specialist				1
+716	カスタマーサポート統括本部 部長クラス	ja	Yes	Customer Service Manager	Customer Service and Support DM	Customer Service and Support	Manager	0.85
+717	カスタマーソリューションマネージャー	ja	Yes	Customer Service Specialist	Customer Service and Support User	Customer Service and Support	Entry	1
+718	カスタマープロジェクトマネージャー	ja	Yes	Project Manager	Program and Project Management DM	Program and Project Management	Manager	1
+719	カスタマエンジニアリング部 部長	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+720	カスタマオペレーション グループマネージャー	ja	Yes	Customer Service Manager	Customer Service and Support DM	Customer Service and Support	Manager	1
+721	カスタマサポート本部 サービスセンタ 取締役 次長	ja	Yes	Service Support Manager	Customer Service and Support DM	Customer Service and Support	Manager	0.96
+722	ガバナンスマネージャー	ja	Yes	Information Technology Governance Manager	Information Technology DM	Information Technology	Manager	1
+723	カメラマン	ja	Yes	Photographer	Media and Communication User	Media and Communication	Entry	1
+724	カントリーディレクター	ja	Yes	Director General	Business Development DM	Business Development	Director	1
+725	カントリーマネージャー	ja	Yes	Chief Sales Officer				1
+726	キーアカウントマネージャー	ja	Yes	Account Manager	Sales DM	Sales	Manager	1
+727	ギークス株式会社 経営管理本部 コーポレートデザイン部 情報システム担当 リーダー	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	0.85
+728	キャプテン	ja	Yes	Commander	Community and Social Services DM	Community and Social Services	Manager	1
+729	キャラクターモデラー	ja	Yes	3D Artist	Other DM	Other	Senior	1
+730	キャリアアドバイザー	ja	Yes	Career Counselor	Human Resources DM	Human Resources	Senior	0.97
+731	キャリアコーチ	ja	Yes	Career Counselor	Human Resources DM	Human Resources	Senior	1
+732	キャリアコンサルタント	ja	Yes	Career Counselor	Human Resources DM	Human Resources	Senior	1
+733	キャンペーン マネージャー	ja	Yes	Information Technology Manager				1
+734	キュレーター	ja	Yes	Art Curator	Other DM	Other	Senior	1
+735	クライアント・エグゼクティブ	ja	Yes	Account Executive	Sales DM	Sales	Senior	1
+736	クライアント・パートナー	ja	Yes	Business Development Manager				1
+737	クライアントアドバイザー	ja	Yes	Consultant				1
+738	クライアントエンジニア	ja	Yes	Infrastructure Engineer				1
+739	クライアントサービス	ja	Yes	Customer Service Specialist	Customer Service and Support User	Customer Service and Support	Entry	1
+740	クライアントディレクター	ja	Yes	Director of Sales and Client Services	Sales DM	Sales	Director	1
+741	クライアントパート エンジニア	ja	Yes	Information Technology Engineer				1
+742	クライアントパートナー	ja	Yes	Business Development Manager				1
+743	クライアントリーダー	ja	Yes	Consultant				1
+744	クライアント担当	ja	Yes	Information Technology Generalist				1
+745	クラウド	ja	Yes	Information Technology Generalist				1
+746	クラウド アーキテクト	ja	Yes	Cloud Architect	Architect DM	Architect	Senior	1
+747	クラウド/バックアップ	ja	Yes	Information Technology Generalist				1
+748	クラウド・ソリューション技術本部　第一技術部 係長	ja	Yes	Manager of Cloud Security	Security DM	Security	Manager	0.75
+749	クラウドCOE室 室長	ja	Yes	Information Technology Manager				1
+750	クラウドアーキテクト	ja	Yes	Cloud Architect	Architect DM	Architect	Senior	1
+751	クラウドインテグレーション事業部 営業部	ja	Yes	Information Technology Generalist				1
+752	クラウドエンジニア	ja	Yes	Cloud Engineer	Engineering User	Engineering	Entry	1
+753	クラウドサービス部 課長	ja	Yes	Cloud Security Manager	Security DM	Security	Manager	0.75
+754	"クラウドサービス部, 担当係長"	ja	Yes	Information Technology Manager				0.99
+755	クラウドサービス開発部 自働化イノベーション課 課長	ja	Yes	Information Technology Manager				0.9
+756	"クラウドソリューション部, インフラエンジニア"	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	0.98
+757	"クラウドソリューション部, エンジニア"	ja	Yes	Cloud Engineer	Engineering User	Engineering	Entry	0.85
+758	クラウド営業第二部 一般社員・職員	ja	Yes	Technical Sales Professional	Sales User	Sales	Entry	0.75
+759	クラウド基盤運用	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	1
+760	クラウド基盤開発部 係長・主任クラス	ja	Yes	Cloud Architect	Architect DM	Architect	Senior	0.75
+761	クラウド技術者	ja	Yes	Information Technology Generalist				1
+762	クラウド推進部 部長	ja	Yes	Information Technology Manager				1
+763	グラフィックデザイナー	ja	Yes	Graphic Designer	Media and Communication User	Media and Communication	Entry	1
+764	クリエイター	ja	Yes	Content Developer				1
+765	クリエイター&エンジニア本部	ja	Yes	Engineer				1
+766	クリエイティブ	ja	Yes	Creative Designer				1
+767	クリエイティブ ディレクタ/マネージャ	ja	Yes	Information Technology Manager				1
+768	クリエイティブアソシエイト	ja	Yes	Creative Designer	Other DM	Other	Senior	1
+769	クリエイティブディレクター	ja	Yes	Digital Art Director	Media and Communication DM	Media and Communication	Director	1
+770	クリエイティブデザイナー	ja	Yes	Creative Designer	Other DM	Other	Senior	1
+771	クリエイティブプロデューサー	ja	Yes	Production Editor	Media and Communication User	Media and Communication	Entry	1
+772	クリエイティブマネージャー	ja	Yes	Information Technology Manager				1
+773	クリエイティブリーダー	ja	Yes	Creative Designer	Other DM	Other	Senior	1
+774	クリエイティブ室 室長	ja	Yes	Information Technology Manager				1
+775	クルー	ja	Yes	Mariner				1
+776	グループ マネージャー	ja	Yes	Information Technology Manager				1
+777	グループアカウントディレクター	ja	Yes	Director of Account Management	Sales DM	Sales	Director	1
+778	グループアシスタント	ja	Yes	Assistant	Operations User	Operations	Entry	1
+779	グループウェア開発部 係長・主任クラス	ja	Yes	Business Development Manager				1
+780	グループディレクター	ja	Yes	Executive Director				1
+781	グループマネージャ	ja	Yes	Information Technology Manager				1
+782	グループマネージャー	ja	Yes	Information Technology Manager				1
+783	グループマネージャー / WEB企画開発部WEB開発グループ	ja	Yes	Web Development Manager	Developer DM	Developer	Manager	0.85
+784	グループマネージャー TCR	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+785	グループマネージャー 経営管理	ja	Yes	Information Technology Manager				1
+786	グループマネジャー	ja	Yes	Information Technology Manager				1
+787	グループマネジャー プロデューサー	ja	Yes	Information Technology Manager				1
+788	グループメンバー	ja	No					
+789	グループリーダ	ja	Yes	Technology Manager				1
+790	IT系	zh-Hans	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+791	グループリーダー / 久保　直子 / 093645	ja	Yes	Technology Manager				1
+792	グループリーダー / 廣木　由里子 / 131903	ja	Yes	Technology Manager				1
+793	グループリーダー / 杉田　千鶴 / 913839	ja	Yes	Technology Manager				1
+794	グループリーダー / 石川　雄大 / 042080	ja	Yes	Technology Manager				1
+795	グループリーダー TCR	ja	Yes	Information Technology Manager				1
+796	グループリーダー プラットフォームエンジニア	ja	Yes	Engineering Manager				1
+797	グループリーダー/DX・IT統括本部 DX企画部	ja	Yes	Information Technology Manager				0.98
+798	グループリーダー/GROUP LEADER	ja	Yes	Technology Manager				1
+799	グループリーダ主任技師 / SENIOR ENGINEER	ja	Yes	Engineer	Engineering User	Engineering	Entry	1
+800	グループ事業サポート本部 ICT戦略部 ICT 運用課長	ja	Yes	Business Development Specialist				1
+801	グループ情報システム部 課長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+802	グループ経営推進部　デジタル戦略課 課長	ja	Yes	Information Technology Manager				1
+803	グループ長	ja	Yes	Technology Manager				1
+804	グループ長 (兼) 主査	ja	Yes	Information Technology Manager				0.97
+805	グローバルICT本部 DX推進部	ja	Yes	Digital Media Specialist				1
+806	グローバルアカウントセールスマネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+807	グローバルアカウントマネージャー	ja	Yes	Account Manager	Sales DM	Sales	Manager	1
+808	グローバルセールス	ja	Yes	Sales Employee				1
+809	グローバルビジネス推進本部 一般社員・職員	ja	Yes	Business Development Specialist				0.99
+810	グローバルマーケティング	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+811	グローバル事業本部 主任	ja	Yes	International Trade Specialist				1
+812	グローバル事業本部 課長クラス	ja	Yes	Information Technology Manager				0.92
+813	グローバル情報システム部 課長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+814	グローバル監査部 マネジャー	ja	Yes	Information Technology Manager				1
+815	"クロス・フロンティアディビジョン, アソシエイトプリンシパル"	ja	Yes	Principal				1
+816	ケーブルプロダクト部・担当部長	ja	Yes	Information Technology Manager				1
+817	ゲームプロジェクト エンジニア	ja	Yes	Game Producer	Information Technology DM	Information Technology	Manager	1
+818	コアメンバー	ja	Yes	Administrative Employee				1
+819	コーチ	ja	Yes	Agile Coach				1
+820	コーディネーター	ja	Yes	Information Technology Generalist				1
+821	IT運用	ja	Yes	Information Technology Generalist				1
+822	コーポレート・エグゼクティブ	ja	Yes	Executive				1
+823	コーポレートIT チームリーダー	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+824	コーポレートITコンサルティング部 課長代理	ja	Yes	Information Technology Manager				1
+825	コーポレートIT部 一般社員・職員	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+826	コーポレートIT部 副部長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+827	コーポレートエンジニア	ja	Yes	Engineer	Engineering User	Engineering	Entry	1
+828	コーポレートオフィサー 部長	ja	Yes	Information Technology Manager				1
+829	コーポレートセールスマネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+830	コーポレート本部 デジタル改革推進室 企画開発部	ja	Yes	Business Planner				1
+831	コーポレート本部 情報システム部 IT戦略室	ja	Yes	Information Technology Generalist				1
+832	コーポレート本部 部長代理	ja	Yes	Information Technology Manager				1
+833	コーポレート管理本部デジタル統括部サイバーセキュリティ推進部セキュリティ推進課 チーフ	ja	Yes	Chief Information Security Officer				1
+834	コーポレート管理部 課長クラス	ja	Yes	Information Technology Manager				0.92
+835	コーポレート部 情報システムグループ	ja	Yes	Information Technology Generalist				1
+836	コールセンター	ja	Yes	Call Center Specialist	Customer Service and Support User	Customer Service and Support	Entry	1
+837	コールセンターオペレーター	ja	Yes	Call Center Specialist	Customer Service and Support User	Customer Service and Support	Entry	1
+838	コールセンターマネージャー	ja	Yes	Call Center Manager	Customer Service and Support DM	Customer Service and Support	Manager	1
+839	コスト管理	ja	Yes	Corporate Finance Specialist				1
+840	コネクティッドシステム部 インフラエンジニア	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	0.98
+841	コネクティッドシステム部 シニアスペシャリスト	ja	Yes	System Administrator				1
+842	コネクティビティ戦略部 係長・主任クラス	ja	Yes	Planning Manager				0.94
+843	"コネックテッドテクノロジー部, システムエンジニア"	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	0.85
+844	コピーライター	ja	Yes	Copywriter	Media and Communication User	Media and Communication	Entry	1
+845	コマーシャルエグゼクティブ	ja	Yes	Executive				1
+846	コマーシャルディレクター	ja	Yes	Director of Business Development	Business Development DM	Business Development	Director	1
+847	コマーシャルマーケティング マネージャー	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	1
+848	コマーシャルマネージャー	ja	Yes	Information Technology Manager				1
+849	コミュニケーションデザイナー	ja	Yes	Creative Designer				1
+850	コミュニケーション事業部 ディレクター	ja	Yes	Director of Information Technology				1
+851	コラボレーション本部 　マネージャー	ja	Yes	Information Technology Manager				1
+852	IT開発	ja	Yes	Information Technology Generalist				1
+853	コンサルタント  TCR	ja	Yes	Consultant				1
+854	コンサルタント　NON-TCR	ja	Yes	Information Technology Consultant				1
+855	コンサルタント コンサルタント	ja	Yes	Information Technology Consultant				1
+856	コンサルタント/エンジニア	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+857	コンサルタント/チームリード	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+858	コンサルタント/プロジェクト・マネージャー	ja	Yes	Project Manager	Program and Project Management DM	Program and Project Management	Manager	1
+859	コンサルタント業務	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+860	コンサルティング	ja	Yes	Information Technology Consultant				1
+861	コンサルティング 一般社員・職員	ja	No					
+862	コンサルティング＆ソリューション事業部クラウドインテグレーション部 IT-TECHNICAL-MANAGER	ja	Yes	Information Technology Architecture Manager	Architect DM	Architect	Manager	0.85
+863	コンサルティングエンジニア	ja	Yes	Technology Consultant				1
+864	コンサルティングサービスマネージャー	ja	Yes	Information Technology Manager				1
+865	コンサルティングディレクター	ja	Yes	Director of Information Technology				1
+866	コンサルティングパートナー	ja	Yes	Consultant				0.97
+867	コンサルティングマネージャー	ja	Yes	Consultant				1
+868	コンサルティング事業本部 シニアテクノロジーコンサルタント	ja	Yes	Technology Consultant	Information Technology DM	Information Technology	Senior	1
+869	コンサルティング事業本部 係長・主任クラス	ja	Yes	Chief of Department	Community and Social Services CXO	Community and Social Services	CXO	0.85
+870	コンサルティング事業部 シニアマネジャー	ja	Yes	Consultant				1
+871	コンサルティング事業部 一般社員・職員	ja	Yes	Consultant				1
+872	コンサルティング本部　コンサルティング部　コンサルティング課 コンサルタント	ja	Yes	Information Technology Consultant				1
+873	コンサルティング本部 部長	ja	Yes	Consultant				1
+874	コンサルティング部  部長	ja	Yes	Consultant				1
+875	コンサルティング部 パートナー	ja	Yes	Consultant				1
+876	コンサルト パートナー	ja	Yes	Consultant				1
+877	システム部 システム管理者	ja	Yes	System Administrator	Information Technology DM	Information Technology	Senior	1
+878	システム部 システム課	ja	No					
+879	システム部 システム課 課長代理	ja	Yes	Information Technology Manager				1
+880	システム部 チーフ	ja	Yes	Chief Technology Officer				1
+881	システム部 バイスプレジデント	ja	Yes	Vice President of Technology	Information Technology DM	Information Technology	VP	1
+882	システム部 マネージャー	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+883	システム部 企画・開発チーム リーダー	ja	Yes	Business Development Specialist				1
+884	システム部 係長	ja	Yes	Information Technology Manager				1
+885	システム部 副部長	ja	Yes	Information Technology Manager				1
+886	システム部 副部長 エンジニア	ja	Yes	Computer Engineer	Engineering User	Engineering	Entry	0.6
+887	システム部 営業課長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+888	システム部 東京システム運用課	ja	Yes	System Administrator				1
+889	システム部 課長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	0.85
+890	システム部 調査役	ja	Yes	System Administrator	Information Technology DM	Information Technology	Senior	1
+891	システム部 部長	ja	Yes	System Administrator				1
+892	システム部　部長	ja	Yes	System Administrator				1
+893	システム部 部長クラス	ja	Yes	System Administrator				0.99
+894	システム部 部門長	ja	Yes	System Administrator				1
+895	システム部担当役員 兼 部長	ja	Yes	Information Technology Manager				1
+896	システム部長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+897	システム部門	ja	Yes	Infrastructure Engineer				1
+898	システム部門 なし	ja	No					
+899	システム開発 TCR	ja	Yes	Developer				1
+900	システム開発 管理職	ja	Yes	Development Manager	Developer DM	Developer	Manager	1
+901	システム開発、保守	ja	Yes	Developer	Developer User	Developer	Entry	1
+902	システム開発、運用	ja	Yes	Developer				1
+903	システム開発/保守	ja	Yes	Developer	Developer User	Developer	Entry	1
+904	システム開発・運用	ja	Yes	Developer				1
+905	システム開発1部 共通2G	ja	Yes	Developer				1
+906	システム開発2部長	ja	Yes	Development Manager	Developer DM	Developer	Manager	0.97
+907	システム開発エンジニア	ja	Yes	Developer				1
+908	システム開発保守	ja	Yes	Technology Development Engineer				1
+909	システム開発室	ja	Yes	Developer				1
+910	システム開発担当	ja	Yes	Developer				1
+911	システム開発第一事業本部　岩手開発部 マネージャ	ja	Yes	Developer				1
+912	システム開発第二事業本部 本部長付	ja	Yes	Developer				1
+913	システム開発第二事業本部 福井開発部 技術職	ja	Yes	Developer	Developer User	Developer	Entry	0.99
+914	ｼｽﾃﾑ開発第二事業本部－福井開発部 サブリーダー	ja	Yes	Developer				1
+915	システム開発第五事業本部 本部長	ja	Yes	Development Manager	Developer DM	Developer	Manager	1
+916	システム開発責任者	ja	Yes	Developer				1
+917	システム開発運用	ja	Yes	Developer				1
+918	システム開発部	ja	Yes	Developer				1
+919	システム開発部  部長	ja	Yes	Development Manager	Developer DM	Developer	Manager	1
+920	システム開発部 IT戦略グループ	ja	Yes	Developer				1
+921	システム開発部 チーフエンジニア	ja	Yes	Chief Information Technology Officer				1
+922	システム開発部 主任	ja	Yes	System Administrator				1
+923	システム開発部 副部長	ja	Yes	Development Manager	Developer DM	Developer	Manager	1
+924	システム開発部 取締役部長	ja	Yes	Development Manager	Developer DM	Developer	Manager	1
+925	システム開発部 契約・嘱託・派遣等	ja	Yes	Developer	Developer User	Developer	Entry	1
+926	システム開発部 部長	ja	Yes	Development Manager	Developer DM	Developer	Manager	1
+927	システム開発部 部長　デジタルソリューショングループ統括	ja	Yes	Development Manager	Developer DM	Developer	Manager	1
+928	システム開発部 開発エンジニア	ja	Yes	Developer				1
+929	システム開発部/インフラエンジニア	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	0.9
+930	システム開発部次長 兼 京都支店長	ja	Yes	Development Manager	Developer DM	Developer	Manager	1
+931	システム開発部長	ja	Yes	Development Manager	Developer DM	Developer	Manager	1
+932	シニア アカウント マネージャー	ja	Yes	Account Manager	Sales DM	Sales	Manager	1
+933	シニア エグゼクティブ アドバイザー	ja	Yes	Executive				1
+934	シニア エンジニア	ja	Yes	Engineer	Engineering User	Engineering	Entry	1
+935	シニア クラウド セールス スペシャリスト AVS	ja	Yes	Sales Specialist	Sales User	Sales	Entry	1
+936	シニア コンサルタント	ja	Yes	Information Technology Consultant				1
+937	シニア ソリューション アーキテクト	ja	Yes	Solutions Architect	Architect DM	Architect	Senior	1
+938	シニア ソリューションアーキテクト	ja	Yes	Solutions Architect	Architect DM	Architect	Senior	1
+939	シニア パートナー ソリューション アーキテクト	ja	Yes	Solutions Architect	Architect DM	Architect	Senior	1
+940	シニア ビジネスデベロップメントマネージャー	ja	Yes	Business Development Manager	Business Development DM	Business Development	Manager	1
+941	ｼﾆｱ ﾏﾈｰｼﾞｬｰ	ja	Yes	Director of Administration				1
+942	シニア・アーキテクト	ja	Yes	Architect	Architect User	Architect	Entry	1
+943	シニア・アカウント・マネージャー	ja	Yes	Account Manager	Sales DM	Sales	Manager	1
+944	シニア・アカウントマネージャー	ja	Yes	Account Manager	Sales DM	Sales	Manager	1
+945	シニア・アドバイザー	ja	Yes	Information Technology Consultant				1
+946	シニア・エンジニア	ja	Yes	Engineer	Engineering User	Engineering	Entry	1
+947	シニア・エンジニアリング・マネージャー	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+948	シニア・コンサルタント	ja	Yes	Information Technology Consultant				1
+949	シニア・システム・コンサルタント	ja	Yes	Information Technology Consultant	Information Technology DM	Information Technology	Senior	1
+950	シニア・セールス・マネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+951	シニア・ソリューションアーキテクト	ja	Yes	Solutions Architect	Architect DM	Architect	Senior	1
+952	シニア・ディレクター	ja	Yes	Director General	Business Development DM	Business Development	Director	1
+953	"シニア・ディレクター,アナリスト"	ja	Yes	Director of Information Technology				1
+954	シニア・テクニカルサポートエンジニア	ja	Yes	Technical Support Representative	Customer Service and Support DM	Customer Service and Support	Senior	1
+955	シニア・プランナー	ja	Yes	Business Planner	Business Development DM	Business Development	Senior	1
+956	シニア・プロジェクト・マネージャー	ja	Yes	Project Manager	Program and Project Management DM	Program and Project Management	Manager	1
+957	シニア・プロジェクトマネージャー	ja	Yes	Project Manager	Program and Project Management DM	Program and Project Management	Manager	1
+958	シニア・プロダクト・マネージャー	ja	Yes	Product Manager	Product Management DM	Product Management	Manager	1
+959	シニア・プロデューサー	ja	Yes	Production Editor				1
+960	シニア・プロデューサー デジタル・プロデューサー	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	0.75
+961	シニア･マネージャー	ja	Yes	Director of Administration				1
+962	シニア・マネージャー	ja	Yes	Director of Administration				1
+963	シニア・マネジャー	ja	Yes	Director of Administration				1
+964	シニア・リーダー	ja	Yes	Information Technology Manager				1
+965	シニアICTコンサルタント	ja	Yes	Information Technology Consultant	Information Technology DM	Information Technology	Senior	1
+966	シニアITエンジニア	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	1
+967	シニアITコンサルタント	ja	Yes	Information Technology Consultant	Information Technology DM	Information Technology	Senior	1
+968	シニアITスペシャリスト	ja	Yes	Information Technology Generalist				1
+969	シニアITマネージャー	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+970	シニアMANAGER	ja	Yes	Director of Administration				1
+971	シニアSE	ja	Yes	Software Engineer	Engineering User	Engineering	Entry	1
+972	シニアアーキテクト	ja	Yes	Architect	Architect User	Architect	Entry	1
+973	シニアアカウントエグゼクティブ	ja	Yes	Account Executive	Sales DM	Sales	Senior	1
+974	シニアアカウントマネージャー	ja	Yes	Account Manager	Sales DM	Sales	Manager	1
+975	シニアアシスタント	ja	Yes	Assistant	Operations User	Operations	Entry	1
+976	シニアアソシエイトコンサルタント	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+977	シニアアドバイザー	ja	Yes	Information Technology Consultant				1
+978	シニアアドミニストレーター	ja	Yes	Administrative Employee	Operations User	Operations	Entry	1
+979	シニアアプリケーションエンジニア	ja	Yes	Software Application Developer	Developer User	Developer	Entry	1
+980	シニアインストラクター	ja	Yes	Corporate Trainer	Education User	Education	Entry	1
+981	シニアエキスパート	ja	Yes	Information Technology Generalist				1
+982	シニアエキスパート 兼　課長	ja	Yes	Information Technology Manager				1
+983	シニアエキスパート」	ja	Yes	Information Technology Generalist				1
+984	シニアエグゼクティブ	ja	Yes	Executive				1
+985	シニアエグゼクティブマネージャー	ja	Yes	Information Technology Manager				1
+986	シニアエンジニア	ja	Yes	Engineer	Engineering User	Engineering	Entry	1
+987	シニアエンジニア 4K OVER IPスペシャリスト	ja	Yes	Information Technology Generalist				1
+988	シニアエンジニア テクニカルマネージャー	ja	Yes	Information Technology Manager				1
+989	シニアオフィサー	ja	Yes	Information Technology Manager				1
+990	シニアカウンセル	ja	Yes	Legal Administrative Professional				1
+991	シニアコーチ	ja	Yes	Corporate Trainer				1
+992	シニアコンサル	ja	Yes	Information Technology Consultant				1
+993	エキスパート	ja	Yes	Infrastructure Engineer				1
+994	シニアコンサルタント PMP	ja	Yes	Consultant				1
+995	シニアコンサルタント TCR	ja	Yes	Consultant				1
+996	シニアコンサルタント/モデラ	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+997	シニアサイエンティスト	ja	Yes	Laboratory Scientist	Research DM	Research	Senior	1
+998	シニアシステムアーキテクト	ja	Yes	System Architect	Architect DM	Architect	Senior	1
+999	シニアシステムエンジニア	ja	Yes	Engineer				1
+1000	シニアスタッフ	ja	Yes	Information Technology Generalist				1
+1001	シニアストラテジスト	ja	Yes	Business Strategist	Business Development DM	Business Development	Senior	1
+1002	シニアスペシャリスト	ja	Yes	Director of Administration				1
+1003	シニアセールス	ja	Yes	Salesperson				1
+1004	シニアセールスエグゼクティブ	ja	Yes	Sales Executive	Sales DM	Sales	Manager	1
+1005	シニアセールスエンジニア	ja	Yes	Sales Executive	Sales DM	Sales	Manager	1
+1006	シニアセールスコンサルタント	ja	Yes	Salesperson				1
+1007	シニアセールスマネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1008	シニアセキュリティアナリスト	ja	Yes	Information Security Specialist	Security User	Security	Entry	1
+1009	シニアセキュリティエンジニア	ja	Yes	Information Security Specialist	Security User	Security	Entry	1
+1010	シニアセキュリティコンサルタント	ja	Yes	Information Security Specialist				1
+1011	シニアセキュリティコンサルタント CISA	ja	Yes	Information Security Specialist	Security User	Security	Entry	1
+1012	シニアソフトウェアアーキテクト	ja	Yes	Software Architect	Architect DM	Architect	Senior	1
+1013	シニアソフトウェアエンジニア	ja	Yes	Software Engineer	Engineering User	Engineering	Entry	1
+1014	シニアソフトウェアコンサルタント	ja	Yes	Information Technology Consultant				1
+1015	シニアソリューションアーキテクト	ja	Yes	Solutions Architect	Architect DM	Architect	Senior	1
+1016	シニアソリューションエンジニア	ja	Yes	Solutions Architect	Architect DM	Architect	Senior	1
+1017	シニアソリューションコンサルタント	ja	Yes	Technology Consultant				1
+1018	シニアチーフ	ja	Yes	Chief of Staff				1
+1019	シニアチームマネージャー	ja	Yes	Information Technology Manager				1
+1020	シニアディベロッパー	ja	Yes	Senior Developer	Developer DM	Developer	Senior	1
+1021	シニアディレクター	ja	Yes	Director General	Business Development DM	Business Development	Director	1
+1022	シニアテクニカルアーキテクト	ja	Yes	Technical Architect	Architect DM	Architect	Senior	1
+1023	シニアテクニカルアドバイザー	ja	Yes	Technology Consultant				1
+1024	シニアテクニカルアナリスト	ja	Yes	Information Technology Analyst				1
+1025	シニアテクニカルエンジニア	ja	Yes	Engineer				1
+1026	シニアテクニカルコンサルタント	ja	Yes	Information Technology Consultant				1
+1027	シニアテクニカルスペシャリスト	ja	Yes	Technician				1
+1028	シニアテクニカルマネージャー	ja	Yes	Technology Manager				1
+1029	シニアテクニカルリードマネージャー マネージャー ヘルスケアブロックチェーン開発室室長	ja	Yes	Chief Blockchain Officer	Engineering CXO	Engineering	CXO	0.75
+1030	シニアテクノロジーコンサルタント	ja	Yes	Information Technology Consultant	Information Technology DM	Information Technology	Senior	1
+1031	シニアデザイナー	ja	Yes	Creative Designer	Other DM	Other	Senior	1
+1032	シニアパートナー	ja	Yes	Partner	Business Development CXO	Business Development	Partner	1
+1033	シニアパートナーセールスマネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1034	シニアビジネスアナリスト	ja	Yes	Business Analyst	Data Professional User	Data Professional	Entry	1
+1035	シニアビジネスコンサルタント	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+1036	シニアファイナンスマネージャー	ja	Yes	Finance Manager	Accounting and Finance DM	Accounting and Finance	Manager	1
+1037	シニアプランナー	ja	Yes	Business Planner	Business Development DM	Business Development	Senior	1
+1038	シニアプリンシパル テクニカルサポートエンジニア	ja	Yes	Information Technology Support Specialist				1
+1039	シニアプログラマー	ja	Yes	Programmer	Engineering User	Engineering	Entry	1
+1040	シニアプログラムマネージャー	ja	Yes	Program Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1041	シニアプロジェクトディレクター	ja	Yes	Director Project Management	Program and Project Management DM	Program and Project Management	Director	1
+1042	シニアプロジェクトマネージャー	ja	Yes	Project Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1043	シニアプロジェクトリーダー	ja	Yes	Project Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1044	シニアプロダクトマネージャー	ja	Yes	Product Manager	Product Management DM	Product Management	Manager	1
+1045	シニアプロデューサー	ja	Yes	Production Editor				1
+1046	シニアプロフェッショナル	ja	Yes	Information Technology Generalist				1
+1047	シニアポートフォリオマネージャー	ja	Yes	Investment Portfolio Manager	Accounting and Finance DM	Accounting and Finance	Manager	1
+1048	シニアマーケティングマネージャー	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	1
+1049	シニアマネージャ	ja	Yes	Director of Administration				1
+1050	シニアマネージャ―	ja	Yes	Director of Administration				1
+1051	シニアマネージャー	ja	Yes	Director of Administration				1
+1052	シニアマネージャー CISA CISM ITコーディネータ	ja	Yes	Information Technology Manager				1
+1053	シニアマネージャー TCR	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+1054	シニアマネージングコンサルタント	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+1055	シニアマネジメント	ja	Yes	Information Technology Manager				1
+1056	シニアマネジャー	ja	Yes	Director of Administration				1
+1057	シニアメカニカルエンジニア	ja	Yes	Engineer	Engineering User	Engineering	Entry	1
+1058	シニアリーダー	ja	Yes	Information Technology Manager				1
+1059	シニアリードエンジニア	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+1060	シニアリサーチフェロー	ja	Yes	Research Development Researcher	Research DM	Research	Senior	1
+1061	シフトリーダー	ja	Yes	Information Technology Manager				1
+1062	ジャーナリスト	ja	Yes	Journalist	Media and Communication User	Media and Communication	Entry	1
+1063	ジュニア・コンサルタント	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+1064	ジュニアアソシエイト	ja	Yes	Information Technology Generalist				1
+1065	ジュニアエンジニア	ja	Yes	Engineer	Engineering User	Engineering	Entry	1
+1066	ジュニアコンサルタント	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+1067	ジュニアテクニカルコンサルタント	ja	Yes	Information Technology Consultant				1
+1068	ジュニアマネージャー	ja	Yes	Information Technology Manager				1
+1069	ショッピングメディア本部 メディアデザイン2部 マネージャー	ja	Yes	Information Technology Manager				0.96
+1070	スカウト	ja	Yes	Military				1
+1071	スクールカウンセラー	ja	Yes	Career Counselor	Human Resources DM	Human Resources	Senior	1
+1072	スクラムマスター	ja	Yes	Scrum Master	Program and Project Management User	Program and Project Management	Entry	1
+1073	"スクラムマスター, ソフトウェアエンジニア"	ja	Yes	Software Engineer	Engineering User	Engineering	Entry	1
+1074	スタッフ / STAFF	ja	Yes	Office Worker				1
+1075	スタッフ・アシスタント	ja	Yes	Assistant	Operations User	Operations	Entry	0.97
+1076	スタッフ・マネージャー	ja	Yes	Staff Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1077	スタッフエンジニア	ja	Yes	Engineer	Engineering User	Engineering	Entry	1
+1078	スタッフコンサルタント	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+1079	スタッフソフトウェアエンジニア	ja	Yes	Software Developer	Developer User	Developer	Entry	1
+1080	スタッフマネージャー	ja	Yes	Staff Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1081	スタッフリーダー	ja	Yes	People Manager				1
+1082	ストアマネージャー	ja	Yes	Retail Salesperson				1
+1083	ストラテジー＆コンサルティング アナリスト	ja	Yes	Business Analyst				1
+1084	ストラテジスト	ja	Yes	Business Strategist	Business Development DM	Business Development	Senior	1
+1085	ストラテジック アライアンス マネージャー	ja	Yes	Information Technology Manager				1
+1086	ストラテジックプランナー	ja	Yes	Business Strategist	Business Development DM	Business Development	Senior	1
+1087	ストラテジック第一営業部ACCOUNT MANAGER	ja	Yes	Account Manager	Sales DM	Sales	Manager	0.9
+1088	ストレージ・アーキテクト	ja	Yes	Architect				1
+1089	ストレージエンジニア	ja	Yes	Information Technology System Administrator				1
+1090	スペシャリスト	ja	Yes	Information Technology Generalist				1
+1091	セールス	ja	Yes	Sales Specialist	Sales User	Sales	Entry	1
+1092	セールス　NON-TCR	ja	Yes	Sales Specialist	Sales User	Sales	Entry	1
+1093	セールス オペレーション	ja	Yes	Sales Employee				1
+1094	セールス&マーケティング事業部	ja	Yes	Sales Specialist	Sales User	Sales	Entry	1
+1095	セールス/PR	ja	Yes	Sales Specialist				1
+1096	ディベロッパー	ja	Yes	Developer	Developer User	Developer	Entry	1
+1097	ディレクター	ja	Yes	Education Professional				1
+1098	ディレクター IOT セクター長	ja	Yes	Director of Information Technology				1
+1099	ディレクター TCR	ja	Yes	Director of Information Technology				1
+1100	ディレクター システム部	ja	Yes	Director of Information Technology				1
+1101	ディレクター 経営企画担当	ja	Yes	Planning Director	Business Development DM	Business Development	Director	1
+1102	ディレクター/デザイナー	ja	Yes	Computer Aided Design Manager				1
+1103	データ アナリスト	ja	Yes	Data Analyst	Data Professional User	Data Professional	Entry	1
+1104	データ エンジニア	ja	Yes	Data Engineer	Data Professional User	Data Professional	Entry	1
+1105	データ サイエンティスト	ja	Yes	Data Scientist	Data Professional User	Data Professional	Entry	1
+1106	データアーキテクト	ja	Yes	Data Architect	Architect DM	Architect	Senior	1
+1107	データアナリスト	ja	Yes	Data Analyst	Data Professional User	Data Professional	Entry	1
+1108	データエンジニア	ja	Yes	Data Engineer	Data Professional User	Data Professional	Entry	1
+1109	"データエンジニアリング部, 部長"	ja	Yes	Data Manager				0.98
+1110	データオペレーション	ja	Yes	Data Specialist				1
+1111	データサイエンス	ja	Yes	Data Scientist	Data Professional User	Data Professional	Entry	1
+1112	データサイエンスコンサルティング部 マネージャー	ja	Yes	Data Science Manager	Data Professional DM	Data Professional	Manager	1
+1113	"データサイエンスセンター, シニアマネージャー"	ja	Yes	Data Science Manager	Data Professional DM	Data Professional	Manager	0.97
+1114	データサイエンス部長	ja	Yes	Data Science Manager	Data Professional DM	Data Professional	Manager	1
+1115	データサイエンティスト	ja	Yes	Data Scientist	Data Professional User	Data Professional	Entry	1
+1116	データシステムエンジニア	ja	Yes	Data Engineer	Data Professional User	Data Professional	Entry	1
+1117	データスペシャリスト	ja	Yes	Data Specialist	Data Professional User	Data Professional	Entry	1
+1118	データセンターエンジニア	ja	Yes	Data Engineer	Data Professional User	Data Professional	Entry	1
+1119	データセンター業務	ja	Yes	Data Specialist				1
+1120	データソリューション部 部長	ja	Yes	Data Manager	Data Professional DM	Data Professional	Manager	1
+1121	データドリブンセクション セクションマネージャー	ja	Yes	Data Manager	Data Professional DM	Data Professional	Manager	0.75
+1122	データベース	ja	Yes	Database Developer	Developer User	Developer	Entry	1
+1123	データベースアーキテクト	ja	Yes	Database Developer	Developer User	Developer	Entry	1
+1124	データベースエンジニア	ja	Yes	Database Engineer	Data Professional User	Data Professional	Entry	1
+1125	データベース管理者	ja	Yes	Database Administrator	Data Professional User	Data Professional	Entry	1
+1126	データベース管理者 / アーキテクト (DBA)	ja	Yes	Database Administrator	Data Professional User	Data Professional	Entry	1
+1127	データベース開発者	ja	Yes	Database Developer	Developer User	Developer	Entry	1
+1128	データマーケティング部	ja	Yes	Database Marketing Specialist	Data Professional User	Data Professional	Entry	0.7
+1129	データマネージャー	ja	Yes	Data Manager	Data Professional DM	Data Professional	Manager	1
+1130	データマネジメント TCR	ja	Yes	Database Administrator				1
+1131	データマネジメント部 主任	ja	Yes	Data Specialist				1
+1132	データ事業閃絡推進部 シニアディレクター 兼 マーカティング・セールス部 部長代理	ja	Yes	Marketing Director	Marketing DM	Marketing	Director	0.75
+1133	データ入力	ja	Yes	Data Entry Clerk	Data Professional User	Data Professional	Entry	1
+1134	データ分析	ja	Yes	Data Analyst	Data Professional User	Data Professional	Entry	1
+1135	データ戦略室 統括部長	ja	Yes	Data Manager				1
+1136	データ管理	ja	Yes	Data Specialist				1
+1137	テクニカル	ja	Yes	Information Technology Generalist				1
+1138	テクニカル アカウント マネージャー	ja	Yes	Account Manager	Sales DM	Sales	Manager	1
+1139	テクニカル エキスパート	ja	Yes	Technician				1
+1140	テクニカル コンサルタント	ja	Yes	Information Technology Consultant				1
+1141	テクニカル コンサルタントマネージャー/ パートナー開発マネージャー	ja	Yes	Information Technology Manager				1
+1142	テクニカル マネージャ	ja	Yes	Engineering Manager				1
+1143	テクニカル マネージャー	ja	Yes	Engineering Manager				1
+1144	テクニカル/ビジネスコンサルタント	ja	Yes	Information Technology Consultant				1
+1145	テクニカル・コンサルタント	ja	Yes	Information Technology Consultant				1
+1146	テクニカル・スペシャリスト	ja	Yes	Technician				1
+1147	テクニカル・セールス	ja	Yes	Technical Sales Professional	Sales User	Sales	Entry	1
+1148	テクニカル・ソリューション・マネージャー	ja	Yes	Information Technology Manager				1
+1149	テクニカル・ディレクター	ja	Yes	Information Technology Manager				1
+1150	テクニカル・マネージャ	ja	Yes	Engineering Manager				1
+1151	テクニカル・リーダー	ja	Yes	Technology Manager				1
+1152	テクニカルアーキテクト	ja	Yes	Technical Architect	Architect DM	Architect	Senior	1
+1153	テクニカルアカウントマネージャー	ja	Yes	Account Manager	Sales DM	Sales	Manager	1
+1154	テクニカルアソシエイト	ja	Yes	Information Technology Consultant				1
+1155	テクニカルアドバイザー	ja	Yes	Information Technology Consultant				0.97
+1156	テクニカルアナリスト	ja	Yes	Information Technology Analyst				1
+1157	テクニカルエキスパート	ja	Yes	Technician				1
+1158	テクニカルエバンジェリスト	ja	Yes	Technical Sales Professional	Sales User	Sales	Entry	1
+1159	テクニカルエンジニア	ja	Yes	Engineer				1
+1160	テクニカルコミュニケーター	ja	Yes	Telecommunications Specialist				1
+1161	テクニカルコンサルタント	ja	Yes	Information Technology Consultant				1
+1162	テクニカルサービス	ja	Yes	Information Technology Generalist				1
+1163	テクニカルサービスエンジニア	ja	Yes	Technical Support Representative	Customer Service and Support DM	Customer Service and Support	Senior	1
+1164	テクニカルサービスリーダー	ja	Yes	Technical Support Representative	Customer Service and Support DM	Customer Service and Support	Senior	1
+1165	テクニカルサポート	ja	Yes	Information Technology Support Specialist				1
+1166	テクニカルサポートアドバイザー	ja	Yes	Technical Support Representative	Customer Service and Support DM	Customer Service and Support	Senior	0.98
+1167	テクニカルサポートエンジニア	ja	Yes	Technical Support Representative	Customer Service and Support DM	Customer Service and Support	Senior	1
+1168	テクニカルサポートマネージャー	ja	Yes	Information Technology Manager				1
+1169	テクニカルサポート二部 係長・主任クラス	ja	Yes	Service Support Manager	Customer Service and Support DM	Customer Service and Support	Manager	0.85
+1170	テクニカルスタッフ	ja	Yes	Information Technology Generalist				1
+1171	テクニカルスペシャリスト	ja	Yes	Technician				1
+1172	テクニカルスペシャリスト テクニカルエンジニア ネットワーク テクニカルエンジニア セキュリティ	ja	Yes	Information Technology Security Specialist	Security User	Security	Entry	0.85
+1173	テクニカルセールス	ja	Yes	Technical Sales Professional	Sales User	Sales	Entry	1
+1174	テクニカルセールスエンジニア	ja	Yes	Technical Sales Professional	Sales User	Sales	Entry	1
+1175	テクニカルセールスサポート	ja	Yes	Technical Sales Professional	Sales User	Sales	Entry	1
+1176	テクニカルセールスマネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1177	テクニカルソリューションエンジニア	ja	Yes	Technical Support Representative	Customer Service and Support DM	Customer Service and Support	Senior	1
+1178	テクニカルディレクター	ja	Yes	Information Technology Manager				1
+1179	テクニカルプリセールス	ja	Yes	Technical Sales Professional	Sales User	Sales	Entry	1
+1180	テクニカルマネージャ	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+1181	テクニカルマネージャー	ja	Yes	Engineering Manager				1
+1182	テクニカルユニット マネージャー	ja	Yes	Information Technology Manager				1
+1183	テクニカルライター	ja	Yes	Technical Writer	Media and Communication User	Media and Communication	Entry	1
+1184	テクニカルリーダー	ja	Yes	Technology Manager				1
+1185	テクニカルリード	ja	Yes	Information Technology Manager				1
+1186	テクニカル事業部 ソリューション部 部長	ja	Yes	Information Technology Manager				1
+1187	テクノロジ ディレクター	ja	Yes	Information Technology Manager				1
+1188	"テクノロジー＆イノベーション本部, エンジニア"	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	0.99
+1189	テクノロジー・コンサルタント	ja	Yes	Technology Consultant	Information Technology DM	Information Technology	Senior	1
+1190	テクノロジー・サービスユニット長 本部長補佐	ja	Yes	Information Technology Manager				1
+1191	テクノロジーアーキテクト	ja	Yes	Information Technology Architect	Architect DM	Architect	Senior	1
+1192	テクノロジーグループ グループマネージャー	ja	Yes	Technology Manager	Information Technology DM	Information Technology	Manager	1
+1193	テクノロジーコンサルタント	ja	Yes	Technology Consultant	Information Technology DM	Information Technology	Senior	1
+1194	"テクノロジーコンサルティング部, マネジャー"	ja	Yes	Technology Manager	Information Technology DM	Information Technology	Manager	0.85
+1195	テクノロジーストラテジスト	ja	Yes	Information Technology Generalist				1
+1196	テクノロジースペシャリスト	ja	Yes	Information Technology Generalist				1
+1197	テクノロジーソリューションコンサルティング 室長	ja	Yes	Technology Manager	Information Technology DM	Information Technology	Manager	1
+1198	"テクノロジー事業部, リードエンジニア"	ja	Yes	Engineer				0.97
+1199	"テクノロジー本部, エンジニア"	ja	Yes	Engineer	Engineering User	Engineering	Entry	0.97
+1200	テクノロジー統括本部 アーキテクト	ja	Yes	Infrastructure Architect				1
+1201	テクノロジー部 シニアディベロッパー	ja	Yes	Senior Developer	Developer DM	Developer	Senior	1
+1202	テクノロジスト	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+1203	グループリーダー	ja	Yes	Technology Manager				1
+1204	コアスタッフ	ja	Yes	Administrative Employee				1
+1205	デザイン 意匠設計	ja	Yes	Computer Aided Designer				1
+1206	デザイン・クリエイティブ その他	ja	Yes	Illustrator	Media and Communication User	Media and Communication	Entry	0.7
+1207	デザイン・クリエイティブ 一般社員	ja	Yes	Computer Aided Designer				1
+1208	デザイン・クリエイティブ 主任／係長クラス	ja	Yes	Computer Aided Design Manager				0.93
+1209	デザイン・クリエイティブ 役員クラス	ja	Yes	Computer Aided Design Manager				0.9
+1210	デザイン・クリエイティブ 経営者	ja	Yes	Computer Aided Design Manager				1
+1211	デザイン・クリエイティブ 課長クラス	ja	Yes	Computer Aided Design Manager				0.91
+1212	デザイン・クリエイティブ 部長クラス	ja	Yes	Computer Aided Design Manager				0.91
+1213	デザインエンジニア 兼 情シス	ja	Yes	Computer Aided Design Engineer				1
+1214	デザインディレクター	ja	Yes	Computer Aided Design Manager				1
+1215	デザインディレクター/フロントエンドチームリーダー/ジュニアコンサルタント	ja	Yes	Computer Aided Design Manager				1
+1216	デザイン開発	ja	Yes	Developer				1
+1217	デジタル	ja	Yes	Information Technology Generalist				1
+1218	デジタル・DX推進チーム チーフディレクター	ja	Yes	Chief Digital Officer	Media and Communication CXO	Media and Communication	CXO	1
+1219	デジタルアセット担当 課長	ja	Yes	Asset Manager	Accounting and Finance DM	Accounting and Finance	Manager	1
+1220	デジタルイノベーションセンター センター長	ja	Yes	Director of Innovation				1
+1221	"デジタルイノベーション本部, 本部長"	ja	Yes	Innovation Manager				0.98
+1222	デジタルエンジニア	ja	Yes	Engineer				1
+1223	デジタルコンサルタント	ja	Yes	Technology Consultant				1
+1224	デジタルサービスサポートチーム チーム長	ja	Yes	Service Support Specialist	Customer Service and Support User	Customer Service and Support	Entry	0.93
+1225	デジタルサービス室 アソシエイト	ja	Yes	Associate Technical Architect				1
+1226	デジタルシステムプラットフォーム本部 CIO OFFICE	ja	Yes	Chief Information Officer	Information Technology CXO	Information Technology	CXO	0.9
+1227	デジタルストラテジスト	ja	Yes	Business Strategist				1
+1228	デジタルセキュリティガバナンス室 室長	ja	Yes	Information Technology Security Manager				1
+1229	デジタルソリューション事業部 ITコンサルタント	ja	Yes	Information Technology Consultant	Information Technology DM	Information Technology	Senior	0.98
+1230	デジタルツイン事業推進室 室長	ja	Yes	Information Technology Manager				1
+1231	デジタルツイン事業部 アシスタントマネージャー	ja	Yes	Information Technology Manager				1
+1232	デジタルネットワーク統括部 プロフェッショナル	ja	Yes	Network Administrator	Information Technology User	Information Technology	Entry	0.75
+1233	デジタルプラットフォーム部 部長	ja	Yes	Information Technology Manager				1
+1234	デジタルプランナー	ja	Yes	Business Planner				1
+1235	デジタルマーケティング	ja	Yes	Marketing Specialist				1
+1236	デジタルマーケティングスペシャリスト	ja	Yes	Marketing Specialist				1
+1237	デジタルマーケティングマネージャー	ja	Yes	Digital Marketing Manager	Marketing DM	Marketing	Manager	1
+1238	デジタルマネジメント部 ENGINEER	ja	Yes	Engineer				0.9
+1239	デジタル主幹	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	1
+1240	デジタル事業本部長 兼 DXセンター長 理事	ja	Yes	Information Technology Manager				1
+1241	デジタル企画部 ITシステム企画課 課長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+1242	デジタル企画部 調査役	ja	Yes	Research Employee	Research User	Research	Entry	1
+1243	デジタル化推進マネージャー	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	1
+1244	デジタル変革室 担当部長	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	1
+1245	"デジタル変革推進室 D-ROOM支援グループ(兼) / AICOEグループ(主), グループ長,  生産本部 三好工場・明知工場 製造技術部 工場支援室 開発支援グループ 主任"	ja	Yes	Manufacturing Manager	Supply and Logistics DM	Supply and Logistics	Manager	0.85
+1246	デジタル変革本部　ＩＴガバナンス部 　グループマネジャー	ja	Yes	Digital Manager				1
+1247	デジタル変革本部　ＩＴガバナンス部 　部長	ja	Yes	Digital Manager				1
+1248	デジタル戦略	ja	Yes	Business Strategist				1
+1249	デジタル戦略室 主査	ja	Yes	Digital Manager				1
+1250	デジタル戦略室 専門課長	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	0.99
+1251	デジタル戦略本部  DX企画部  データ管理課	ja	Yes	Data Specialist				1
+1252	デジタル戦略本部 E.デパート部 スタッフ	ja	Yes	Digital Media Specialist	Media and Communication User	Media and Communication	Entry	0.7
+1253	デジタル戦略部 DX統括推進室 企画推進第一グループ 調査役	ja	Yes	Research Analyst	Research User	Research	Entry	0.7
+1254	デジタル戦略部 コーポレートＩＴ統括センター 設計改革推進室 設計１グループ エキスパート	ja	Yes	Director of Digital Services	Media and Communication DM	Media and Communication	Director	0.7
+1255	デジタル戦略部長 執行役員	ja	Yes	Executive				1
+1256	デジタル担当 TCR	ja	Yes	Information Technology Generalist				1
+1257	デジタル推進係長	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	1
+1258	デジタル推進本部　デジタルクラウド室 室長	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	1
+1259	デジタル推進部 アシスタントマネージャー	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	1
+1260	デジタル統括部 プランニング マネージャー	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1261	デジタル総合戦略部 部長補佐	ja	Yes	Director of Digital Services	Media and Communication DM	Media and Communication	Director	1
+1262	デジタル編成部BTOBチーム 部長クラス	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	0.85
+1263	デジタル部 DXサービスグループ マネージャー	ja	Yes	Digital Manager	Media and Communication DM	Media and Communication	Manager	0.91
+1264	デジプリ第一プロ推 主幹	ja	Yes	Principal	Education DM	Education	Manager	1
+1265	デスクトップサポート	ja	Yes	Desktop Support Engineer	Information Technology User	Information Technology	Entry	1
+1266	デスクトップスペシャリスト	ja	Yes	Desktop Support Engineer	Information Technology User	Information Technology	Entry	1
+1267	デスクマネージャー	ja	Yes	Desktop Support Manager				1
+1268	テスター	ja	Yes	Tester	Engineering User	Engineering	Entry	1
+1269	テスト	ja	No					
+1270	テスト&シリコンバリデーション部	ja	Yes	Tester	Engineering User	Engineering	Entry	1
+1271	"テスト,トレーニング"	ja	Yes	Tester				1
+1272	テストエンジニア	ja	Yes	Test Development Engineer	Engineering User	Engineering	Entry	1
+1273	テックリード / チーフエンジニア	ja	Yes	Chief Technology Officer	Information Technology CXO	Information Technology	CXO	1
+1274	デベロッパ	ja	Yes	Developer	Developer User	Developer	Entry	1
+1275	デベロッパー	ja	Yes	Developer	Developer User	Developer	Entry	1
+1276	トラストサービス部 その他	ja	Yes	Trust Officer	Accounting and Finance DM	Accounting and Finance	Senior	0.7
+1277	トレードマーケター	ja	Yes	Investment Trader				1
+1278	トレードマーケティング	ja	Yes	Investment Trader				1
+1279	トレーナー	ja	Yes	Trainer	Human Resources DM	Human Resources	Senior	1
+1280	トレーナー　	ja	Yes	Trainer	Human Resources DM	Human Resources	Senior	1
+1281	トレーニングアドバイザー	ja	Yes	Human Resources Specialist				1
+1282	トレーニングインストラクター	ja	Yes	Trainer	Human Resources DM	Human Resources	Senior	1
+1283	トレーニングプランナー	ja	Yes	Trainer	Human Resources DM	Human Resources	Senior	1
+1284	なし / なし	ja	No					
+1285	なし TCR	ja	No					
+1286	なし クライアントエンジニア	ja	No					
+1287	なし その他	ja	No					
+1288	なし ソリューションアーキテクト	ja	Yes	Solutions Architect	Architect DM	Architect	Senior	1
+1289	なし なし	ja	No					
+1290	なし 代表	ja	Yes	Chief Executive Officer				1
+1291	なし 代表社員	ja	Yes	Chief Executive Officer				1
+1292	なし 会長・社長・CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1293	なし 係長・主任クラス	ja	Yes	Chief of Department	Community and Social Services CXO	Community and Social Services	CXO	0.7
+1294	なし 取締役	ja	Yes	Education Professional				1
+1295	なし 所長	ja	Yes	Education Professional				1
+1296	なし 課長	ja	Yes	Information Technology Manager				1
+1297	なし、	ja	No					
+1298	なし。	ja	No					
+1299	なし？？	ja	No					
+1300	なし」	ja	No					
+1301	なし09042478414	ja	No					
+1302	なし９	ja	No					
+1303	ナレッジイノベーション局 局長	ja	Yes	Director of Knowledge Management	Security DM	Security	Director	1
+1304	ネイリスト	ja	Yes	Personal Stylist				1
+1305	ネットワーク エンジニア	ja	Yes	Network Engineer	Information Technology User	Information Technology	Entry	1
+1306	ネットワーク・セキュリティ管理課 なし	ja	Yes	Information Technology Security Manager	Security DM	Security	Manager	0.85
+1307	ネットワークアーキテクト	ja	Yes	Network Engineer	Information Technology User	Information Technology	Entry	1
+1308	ネットワークエキスパート	ja	Yes	Network Engineer	Information Technology User	Information Technology	Entry	1
+1309	ネットワークエンジニア	ja	Yes	Network Engineer	Information Technology User	Information Technology	Entry	1
+1310	ネットワークコーディネーター	ja	Yes	Network Engineer	Information Technology User	Information Technology	Entry	1
+1311	ネットワークサポート	ja	Yes	Network Engineer	Information Technology User	Information Technology	Entry	1
+1312	ネットワークスカンパニー セールスエンジニア	ja	Yes	Sales Engineer	Sales User	Sales	Entry	1
+1313	ネットワークスカンパニー 部長	ja	Yes	Technology Manager				1
+1314	ネットワークソリューション部 課長クラス	ja	Yes	Information Technology Security Manager	Security DM	Security	Manager	0.75
+1315	プロフェッショナル・エンジニア	ja	Yes	Professional Engineer	Engineering User	Engineering	Entry	1
+1316	プロフェッショナルエンジニア	ja	Yes	Professional Engineer	Engineering User	Engineering	Entry	1
+1317	プロフェッショナルサービスエンジニア	ja	Yes	Engineer				1
+1318	プロフェッショナルサービスコンサルタント	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+1319	プロフェッショナルサービス部 一般社員・職員	ja	Yes	Office Worker				1
+1320	プロフェッショナルマネージャー	ja	Yes	Manager Positions	Business Development DM	Business Development	Manager	1
+1321	プロモーションチーム	ja	Yes	Marketing Specialist				1
+1322	プロモーションプロデューサー	ja	Yes	Production Editor	Media and Communication User	Media and Communication	Entry	1
+1323	フロントエンドエンジニア	ja	Yes	Frontend Engineer	Engineering User	Engineering	Entry	1
+1324	フロントエンドエンジニア 契約社員	ja	Yes	Frontend Engineer	Engineering User	Engineering	Entry	1
+1325	フロントスタッフ	ja	Yes	Hospitality Professional	Customer Service and Support User	Customer Service and Support	Entry	1
+1326	フロント業務	ja	Yes	Hospitality Professional				0.94
+1327	プロ野球選手	ja	Yes	Gamer				1
+1328	ヘッドコーチ	ja	Yes	Recreation Professional				1
+1329	ベネッセ物流事業部 課長	ja	Yes	Logistics Manager	Supply and Logistics DM	Supply and Logistics	Manager	0.85
+1330	ベビーシッター	ja	Yes	Caregiver	Healthcare Services User	Healthcare Services	Entry	1
+1331	ヘルスケア IT 開発センター ヘルスケア IT システム企画部	ja	Yes	Technology Development Engineer				1
+1332	ヘルスケアIT事業部スペシャリスト 医療情報技師	ja	Yes	Information Technology Generalist				1
+1333	ヘルプ	ja	No					
+1334	ヘルプデスク	ja	Yes	Information Technology Help Desk	Information Technology User	Information Technology	Entry	1
+1335	ヘルプデスク　TCR	ja	Yes	Information Technology Help Desk	Information Technology User	Information Technology	Entry	0.9
+1336	ヘルプデスク/サポート	ja	Yes	Information Technology Help Desk	Information Technology User	Information Technology	Entry	1
+1337	ヘルプデスク/サポート　OFC担当TCR	ja	Yes	Information Technology Help Desk				1
+1338	ヘルプデスクチームリーダー	ja	Yes	Information Technology Help Desk				1
+1339	ベンチャーパートナー	ja	Yes	Partner	Business Development CXO	Business Development	Partner	1
+1340	ボス	ja	Yes	Boss	Business Development DM	Business Development	Manager	1
+1341	ポストセールスエンジニア	ja	Yes	Sales Engineer	Sales User	Sales	Entry	1
+1342	ホテル	ja	No					
+1343	ホテルマン　WEB DEVELOPMENT	ja	Yes	Web Developer				0.93
+1344	ボランティア	ja	Yes	Volunteer	Community and Social Services User	Community and Social Services	Unpaid	1
+1345	ボランティアスタッフ	ja	Yes	Volunteer	Community and Social Services User	Community and Social Services	Unpaid	1
+1346	マーケ	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1347	マーケター	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1348	マーケター TCR	ja	Yes	Marketing Specialist				1
+1349	マーケティング	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1350	マーケテイング	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1351	コンサル	ja	Yes	Information Technology Consultant				1
+1352	マーケティング TCR	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1353	マーケティング・ディレクター	ja	Yes	Marketing Director	Marketing DM	Marketing	Director	1
+1354	マーケティング・パートナーサクセスチーム マネージャー	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	1
+1355	マーケティング・プランナー	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1356	マーケティング・リサーチ	ja	Yes	Marketing Research Specialist	Marketing User	Marketing	Entry	1
+1357	マーケティング・広報・企画 その他	ja	Yes	Marketing Specialist				0.9
+1358	マーケティング・広報・企画 一般社員	ja	Yes	Marketing Specialist				1
+1359	マーケティング・広報・企画 主任／係長クラス	ja	Yes	Chief Marketing Officer				0.95
+1360	マーケティング・広報・企画 契約社員	ja	Yes	Marketing Specialist				1
+1361	マーケティング・広報・企画 役員クラス	ja	Yes	Marketing Executive				0.94
+1362	マーケティング・広報・企画 本部長クラス	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	0.95
+1363	マーケティング・広報・企画 派遣社員	ja	Yes	Marketing Specialist				1
+1364	マーケティング・広報・企画 経営者	ja	Yes	Planning Director				1
+1365	マーケティング・広報・企画 課長クラス	ja	Yes	Planning Director				0.95
+1366	マーケティング・広報・企画 部長クラス	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	0.95
+1367	マーケティングアシスタント	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1368	マーケティングオペレーションマネージャー	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	1
+1369	マーケティングコーディネーター	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1370	マーケティングコミュニケーションマネージャー	ja	Yes	Marketing Manager				1
+1371	マーケティングコミュニケーション本部プロダクト企画開発部 一般社員・職員	ja	Yes	Marketing Communications Specialist	Marketing User	Marketing	Entry	0.75
+1372	"マーケティングコミュニケーション部, 部長"	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	0.98
+1373	マーケティングコンサルタント	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1374	マーケティングストラテジスト	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1375	マーケティングセンター センター長	ja	Yes	Marketing Director	Marketing DM	Marketing	Director	1
+1376	マーケティングディレクター	ja	Yes	Marketing Director	Marketing DM	Marketing	Director	1
+1377	マーケティングプラットフォーム事業本部 DIGITAL ARROW PARTNERS事業部	ja	Yes	No suitable match found				0
+1378	マーケティングプランナー	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1379	マーケティングマネージャー	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	1
+1380	マーケティングリサーチ	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1381	マーケティング広報責任者	ja	Yes	Marketing Manager				1
+1382	マーケティング担当者	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1383	マーケティング支援	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1384	マーケティング本部	ja	Yes	Marketing Specialist				1
+1385	マーケティング本部 APP APELAB 編集長	ja	Yes	Director Editorial Services	Media and Communication DM	Media and Communication	Director	0.85
+1386	マーケティング本部 その他CXO	ja	Yes	Marketing Specialist				1
+1387	マーケティング本部 一般社員・職員	ja	Yes	Marketing Specialist				1
+1388	マーケティング責任者	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	1
+1389	マーケティング部	ja	Yes	Marketing Specialist				1
+1390	マーケティング部 シニアコンサルタント	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1391	マーケティング部 主事	ja	Yes	Marketing Specialist				1
+1392	マーケティング部 部長	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	1
+1393	マーケティング部長	ja	Yes	Marketing Director	Marketing DM	Marketing	Director	1
+1394	マネージドインフラソリューション本部　インテグレーション部  クラウドエンジニア	ja	Yes	Cloud Engineer	Engineering User	Engineering	Entry	1
+1395	マネージドサービス	ja	Yes	Managed Services Specialist	Operations User	Operations	Entry	1
+1396	マネージドサービス２部 グループマネージャー	ja	Yes	Managed Services Specialist	Operations User	Operations	Entry	0.85
+1397	マネージドサービス部 エンジニア	ja	Yes	Managed Services Specialist	Operations User	Operations	Entry	1
+1398	マネージメントサービス事業部 なし	ja	Yes	Customer Service Specialist				0.97
+1399	マネージメントソリューション本部　プラットフォームサービス部 部長	ja	Yes	Information Technology Manager				1
+1400	マネージャ	ja	Yes	Information Technology Manager				1
+1401	マネージャ―	ja	Yes	Information Technology Manager				1
+1402	マネージャ マネージャ	ja	Yes	Information Technology Manager				1
+1403	マネージャ 非常勤講師	ja	Yes	Information Technology Manager				1
+1404	ﾏﾈｰｼﾞｬｰ	zh-Hant	No					
+1405	コンサルタント	ja	Yes	Information Technology Consultant				1
+1406	マネージャー                                                                                                             マネージャ	ja	Yes	Information Technology Manager				1
+1407	マネージャー / MANAGER	ja	Yes	Information Technology Manager				1
+1408	マネージャー CLOUDII技術責任者兼エバンジェリスト	ja	Yes	Technology Manager				1
+1409	マネージャー　NON-TCR	ja	Yes	Information Technology Manager				1
+1410	マネージャー TCR	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+1411	マネージャー　TCR	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+1412	マネージャー エンジニア	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+1413	マネージャー プログラマー	ja	Yes	Information Technology Manager				1
+1414	マネージャー プロジェクトマネージャー	ja	Yes	Project Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1415	マネージャー ユニット長	ja	Yes	Information Technology Manager				1
+1416	マネージャー 情報処理技術者(プロジェクトマネージャ)	ja	Yes	Information Technology Manager				1
+1417	マネージャー 白浜センター長	ja	Yes	Information Technology Manager				0.98
+1418	"マネージャー, ARCHITECT"	ja	Yes	Architecture Manager	Architect DM	Architect	Manager	1
+1419	"マネージャー, DEVELOPER"	ja	Yes	Development Manager				1
+1420	"マネージャー, ENGINEERING"	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	1
+1421	"マネージャー, INFORMATION TECHNOLOGY"	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+1422	"マネージャー, OTHER"	ja	Yes	Information Technology Manager				1
+1423	"マネージャー, SALES"	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1424	"マネージャー, システム統括部"	ja	Yes	Technology Manager				1
+1425	"マネージャー, マーケティング"	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	1
+1426	"マネージャー, 経営企画部 経営企画グループ"	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1427	マネージャー/ITソリューション本部 プロジェクト推進部	ja	Yes	Information Technology Manager				1
+1428	マネージャー_	ja	Yes	Information Technology Manager				1
+1429	マネージャー「	ja	Yes	Information Technology Manager				1
+1430	マネージャー代理	ja	Yes	Information Technology Manager				1
+1431	マネージャー補佐/テクニカル・スペシャリスト	ja	Yes	Technology Manager				1
+1432	マネージング ディレクター / 公認会計士_TCR	ja	Yes	Managing Director	Business Development CXO	Business Development	CXO	0.96
+1433	マネージング・コンサルタント	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+1434	マネージング・ディレクター	ja	Yes	Managing Director	Business Development CXO	Business Development	CXO	1
+1435	マネージングコンサルタント	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+1436	マネージングディレクター	ja	Yes	Managing Director	Business Development CXO	Business Development	CXO	1
+1437	マネジメント	ja	Yes	Information Technology Administrator				1
+1438	マネジメントスタッフ	ja	Yes	Administrative Employee				1
+1439	マネジメントリーダー	ja	Yes	Administration Manager				1
+1440	マネジャ	ja	Yes	Information Technology Manager				1
+1441	マネ－ジャ－	ja	Yes	Information Technology Manager				1
+1442	サーバー OS 管理者	ja	Yes	Information Technology Administrator	Information Technology User	Information Technology	Entry	1
+1443	マネジャー アドバイザリーシステムアナリスト	ja	Yes	Information Technology Manager				1
+1444	マネジャー マネジャー	ja	Yes	Information Technology Manager				1
+1445	マネジング・ディレクター	ja	Yes	Managing Director	Business Development CXO	Business Development	CXO	1
+1446	マネジングディレクター	ja	Yes	Managing Director	Business Development CXO	Business Development	CXO	1
+1447	みずほRT 担当	ja	No					
+1448	ミッドマーケットセールス マネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1449	ミドルマネージャー	ja	Yes	Information Technology Manager				1
+1450	メカニック	ja	Yes	Mechanic and Maintenance Tradesperson	Operations DM	Operations	Senior	1
+1451	メディア インテリジェンス リサーチ マネージャー アカウントプランニング マネージャー	ja	Yes	Planning Manager				0.99
+1452	メディアコンサルタント	ja	Yes	Consultant				1
+1453	"メディアストラテジー本部, シニアマネジャー"	ja	Yes	Information Technology Manager				1
+1454	メディアプランナー	ja	Yes	Digital Media Specialist	Media and Communication User	Media and Communication	Entry	1
+1455	メディアプロデューサー	ja	Yes	Digital Media Specialist				1
+1456	メディア責任者	ja	Yes	Social Media Manager				1
+1457	メディカルITイノベーション TCR	ja	Yes	Information Technology Generalist				1
+1458	メディカルサイエンスリエゾン	ja	Yes	Medical Advisor	Healthcare Services DM	Healthcare Services	Senior	1
+1459	メディカルライター	ja	Yes	Medical Writer	Media and Communication DM	Media and Communication	Senior	1
+1460	メンテナンス	ja	Yes	Mechanic and Maintenance Tradesperson	Operations DM	Operations	Senior	1
+1461	メンバー―	ja	No					
+1462	メンバー エンジニア	ja	Yes	Engineer				0.97
+1463	メンバー ソフトウエアエンジニア	ja	Yes	Software Engineer	Engineering User	Engineering	Entry	1
+1464	モーションデザイナー	ja	Yes	Motion Graphics Designer	Media and Communication User	Media and Communication	Entry	1
+1465	"モバイル・インターネット事業部, ソフトウェアエンジニア"	ja	Yes	Software Engineer	Engineering User	Engineering	Entry	0.98
+1466	モバイルイノベーション事業本部 モバイルコミュニケーション事業部 担当部長	ja	Yes	Technology Manager				1
+1467	モバイルエンジニア	ja	Yes	Mobile Developer	Developer User	Developer	Entry	1
+1468	モバイル開発G アシスタントマネージャー	ja	Yes	Development Manager	Developer DM	Developer	Manager	0.97
+1469	モビリティスペシャリスト	ja	Yes	Human Resources Specialist				1
+1470	ユーザーデバイス&サポート	ja	Yes	Service Support Specialist				1
+1471	"ユーザーファーストDIV., プロデューサー"	ja	Yes	Production Crew	Media and Communication DM	Media and Communication	Senior	0.7
+1472	ユーザサポート	ja	Yes	Support Specialist	Customer Service and Support User	Customer Service and Support	Entry	1
+1473	ユーザサポート部　ＩＴヘルプ課 一般社員・職員	ja	Yes	Service Support Specialist				1
+1474	ユニットディレクター	ja	Yes	Director General				1
+1475	ユニットマネージャー	ja	Yes	Information Technology Manager				1
+1476	ユニットリーダー	ja	Yes	Information Technology Manager				1
+1477	ユニット長	ja	No					
+1478	ユニット長  AI研究開発チームリーダー	ja	Yes	Research and Development Manager	Research DM	Research	Manager	1
+1479	ヨガインストラクター	ja	Yes	Recreation Professional				1
+1480	ライター	ja	No					
+1481	ライフイノベーション本部企画部 部長	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1482	ライフコーチ	ja	Yes	Education Professional				1
+1483	"ライブプロダクション事業部, エンジニア"	ja	Yes	Engineer				0.99
+1484	ラインマネージャー	ja	Yes	Manager Positions	Business Development DM	Business Development	Manager	1
+1485	ラインリーダー	ja	Yes	Information Technology Manager				1
+1486	ラクスル事業本部 エンジニア	ja	Yes	Engineer				1
+1487	ラジオ放送局	ja	Yes	Entertainment Administrator				1
+1488	リージョナル マーケティング マネージャー	ja	Yes	Marketing Manager	Marketing DM	Marketing	Manager	1
+1489	リージョナル・セールス・マネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1490	リージョナルセールスディレクター	ja	Yes	Sales Director	Sales DM	Sales	Director	1
+1491	リージョナルディレクター	ja	Yes	Director of Operations	Operations DM	Operations	Director	1
+1492	リーダ	ja	Yes	Information Technology Manager				1
+1493	リーダ アプリけしょん	ja	No					
+1494	リーダ インテグレーションアーキテクト	ja	Yes	Information Technology Architect	Architect DM	Architect	Senior	1
+1495	リーダー	ja	Yes	Information Technology Manager				1
+1496	リーダー MS事業部	ja	Yes	Information Technology Manager				1
+1497	リーダー TCR	ja	Yes	Information Technology Manager				1
+1498	リーダー エディター / エンジニア	ja	Yes	Engineer				1
+1499	リーダー 主任	ja	Yes	Information Technology Manager				1
+1500	リーダー 次長	ja	Yes	Director of Information Technology				1
+1501	リーダー(マスター)	ja	Yes	Information Technology Manager				1
+1502	リーダー) LEADER	ja	Yes	Information Technology Manager				1
+1503	リードアーキテクト	ja	Yes	Architect				1
+1504	リードエンジニア	ja	Yes	Engineer				1
+1505	リードコンサルタント	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+1506	リードシステムエンジニア	ja	Yes	Control Systems Engineer	Engineering User	Engineering	Entry	1
+1507	リードデザイナー	ja	Yes	Marketing Creative Designer	Marketing User	Marketing	Entry	1
+1508	リードプランナー	ja	Yes	Business Planner				1
+1509	リードプログラマー	ja	Yes	Programmer	Engineering User	Engineering	Entry	1
+1510	リヴリー サーバーエンジニア	ja	Yes	Cloud Engineer				1
+1511	リヴリープロジェクト サーバーエンジニア	ja	Yes	Professional Engineer	Engineering User	Engineering	Entry	0.7
+1512	リクルーター	ja	Yes	Recruiter	Human Resources User	Human Resources	Entry	1
+1513	リサーチ	ja	Yes	Research Employee				1
+1514	リサーチ・マネージャー	ja	Yes	Research and Development Manager	Research DM	Research	Manager	1
+1515	リサーチアンドアドバイス部門 一般社員・職員	ja	Yes	Research Employee				1
+1516	リサーチエンジニア	ja	Yes	Research Employee	Research User	Research	Entry	1
+1517	リサーチコンサルタント	ja	Yes	Consultant				1
+1518	リサーチマネージャー	ja	Yes	Research and Development Manager	Research DM	Research	Manager	1
+1519	"リサーチ運用部, アシスタントチーフ"	ja	Yes	Chief Research Officer	Research CXO	Research	CXO	0.98
+1520	リサイクル事業部 その他	ja	Yes	Sustainability Specialist				1
+1521	リスク・システム管理室 その他	ja	Yes	Manager Risk Management	Accounting and Finance DM	Accounting and Finance	Manager	0.7
+1522	リスクコンサルタント	ja	Yes	Consultant				1
+1523	リスクマネジメント部 部長	ja	Yes	Manager Risk Management	Accounting and Finance DM	Accounting and Finance	Manager	1
+1524	リスク管理	ja	Yes	Risk Management Specialist	Compliance User	Compliance	Entry	1
+1525	リスク統括部 係長・主任クラス	ja	Yes	Manager Risk Management	Accounting and Finance DM	Accounting and Finance	Manager	0.85
+1526	リテールチェーン事業本部 担当	ja	Yes	Retail Director	Sales DM	Sales	Director	0.85
+1527	リテールマネージャー	ja	Yes	Retail Manager	Sales DM	Sales	Manager	1
+1528	リレーションシップマネージャー	ja	Yes	Relationship Manager	Sales DM	Sales	Manager	1
+1529	ループDX本部 グループシステム部 共通インフラ基盤UNIT 　　プラットフォームアーキテクトグループ (AZURE DESKTOP検討)	ja	Yes	Cloud Architect	Architect DM	Architect	Senior	0.85
+1530	レシピ事業部 エンジニア	ja	Yes	Engineer				1
+1531	レシピ事業部プロダクト開発グループ エンジニア	ja	Yes	Engineer				1
+1532	ロボットソフト研究開発本部 技師長	ja	Yes	Chief Technology Officer				1
+1533	ロボット工学エンジニア	ja	Yes	Robotics Engineer	Engineering User	Engineering	Entry	1
+1534	人事・総務 一般社員	ja	Yes	Human Resources Specialist	Human Resources User	Human Resources	Entry	1
+1535	人事・総務 主任／係長クラス	ja	Yes	Human Resources Generalist	Human Resources DM	Human Resources	Senior	0.95
+1536	人事・総務 契約社員	ja	Yes	Human Resources Specialist	Human Resources User	Human Resources	Entry	1
+1537	人事・総務 役員クラス	ja	Yes	Human Resources Director	Human Resources DM	Human Resources	Director	0.93
+1538	人事・総務 本部長クラス	ja	Yes	Human Resources Director	Human Resources DM	Human Resources	Director	0.95
+1539	人事・総務 派遣社員	ja	Yes	Contract Worker				1
+1540	人事・総務 課長クラス	ja	Yes	Human Resources Manager	Human Resources DM	Human Resources	Manager	0.93
+1541	人事・総務 部長クラス	ja	Yes	Human Resources Director	Human Resources DM	Human Resources	Director	0.95
+1542	人事・総務マネージャー	ja	Yes	Human Resources Manager	Human Resources DM	Human Resources	Manager	1
+1543	人事・総務部	ja	Yes	Human Resources Specialist				1
+1544	人事コンサルタント	ja	Yes	Human Resources Specialist	Human Resources User	Human Resources	Entry	1
+1545	人事スタッフ	ja	Yes	Human Resources Specialist	Human Resources User	Human Resources	Entry	1
+1546	人事マネージャー	ja	Yes	Human Resources Manager	Human Resources DM	Human Resources	Manager	1
+1547	人事担当部長	ja	Yes	Human Resources Director	Human Resources DM	Human Resources	Director	1
+1548	人事業務	ja	Yes	Human Resources Specialist	Human Resources User	Human Resources	Entry	1
+1549	人事総務	ja	Yes	Human Resources Specialist	Human Resources User	Human Resources	Entry	1
+1550	人事総務 部長 TCR	ja	Yes	Human Resources Director				1
+1551	人事総務部	ja	Yes	Human Resources Specialist				1
+1552	人事総務部 一般	ja	Yes	Human Resources Specialist	Human Resources User	Human Resources	Entry	1
+1553	人事総務部 兼 AI-IT推進室	ja	Yes	Artificial Intelligence Specialist				0.98
+1554	人事部 新卒採用	ja	Yes	Human Resources Specialist	Human Resources User	Human Resources	Entry	0.85
+1555	人事部 部長	ja	Yes	Human Resources Director	Human Resources DM	Human Resources	Director	1
+1556	人事部長	ja	Yes	Human Resources Director	Human Resources DM	Human Resources	Director	1
+1557	人事部門	ja	Yes	Human Resources Specialist	Human Resources User	Human Resources	Entry	0.85
+1558	人工知能研究センター データプラットフォーム研究チーム チーム長	ja	Yes	Research Employee				1
+1559	人材コンサルタント	ja	Yes	Human Resources Specialist				1
+1560	人材サービス事業部 課長	ja	Yes	Human Resources Manager	Human Resources DM	Human Resources	Manager	1
+1561	人材総務室グローバルSCMユニット海外業務グループ	ja	Yes	Human Resources Specialist				1
+1562	人材育成	ja	Yes	Human Resources Specialist	Human Resources User	Human Resources	Entry	1
+1563	人材育成担当者	ja	Yes	Human Resources Specialist				1
+1564	人材開発	ja	Yes	Human Resources Specialist	Human Resources User	Human Resources	Entry	1
+1565	人材開発 経営者・役員	ja	Yes	Human Resources Director				1
+1566	人材開発部教育G 担当	ja	Yes	Trainer				0.98
+1567	今井寛 小倉支店 ＧＬ 事務職	ja	Yes	Administrative Employee	Operations User	Operations	Entry	0.85
+1568	介護営業部 リーダー	ja	Yes	Caregiver				1
+1569	介護士	ja	Yes	Caregiver	Healthcare Services User	Healthcare Services	Entry	1
+1570	介護福祉士	ja	Yes	Caregiver	Healthcare Services User	Healthcare Services	Entry	1
+1571	代表	zh-Hans	Yes	Chief Executive Officer				1
+1572	代表 シニアコンサル 博士（工学） 第一級CATV技術者	ja	Yes	Telecommunications Engineering Specialist	Engineering User	Engineering	Entry	0.85
+1573	代表 その他	ja	Yes	Chief Executive Officer				1
+1574	代表 代表取締役	ja	Yes	Chief Executive Officer				1
+1575	代表/デザイナー	ja	Yes	Chief Executive Officer				1
+1576	代表」	zh-Hans	Yes	Chief Executive Officer				0.97
+1577	代表取締役	ja	Yes	Chief Executive Officer				1
+1578	代表取締役　	ja	Yes	Chief Executive Officer				1
+1579	代表取締役  TCR	ja	Yes	Chief Executive Officer				1
+1580	代表取締役 　TCR	ja	Yes	Chief Executive Officer				1
+1581	代表取締役 / CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1582	代表取締役 / エグゼクティブプロデューサー	ja	Yes	Chief Executive Officer				1
+1583	代表取締役 / 創業者	ja	Yes	Owner				1
+1584	代表取締役 CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1585	代表取締役 COO	ja	Yes	Chief Operations Officer	Operations CXO	Operations	CXO	1
+1586	代表取締役 COO&CFO	ja	Yes	Chief Financial Officer	Accounting and Finance CXO	Accounting and Finance	CXO	0.99
+1587	代表取締役 CTO	ja	Yes	Chief Technology Officer	Information Technology CXO	Information Technology	CXO	1
+1588	代表取締役 TCR	ja	Yes	Chief Executive Officer				1
+1589	代表取締役　TCR	ja	Yes	Chief Executive Officer				1
+1590	代表取締役 パートナー	ja	Yes	Chief Executive Officer				1
+1591	代表取締役 プログラマー	ja	Yes	Chief Executive Officer				1
+1592	代表取締役 代表取締役	ja	Yes	Chief Executive Officer				1
+1593	代表取締役 会長・社長・CEO	ja	Yes	Chairperson				1
+1594	代表取締役 兼 CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1595	代表取締役 兼 CMO	ja	Yes	Chief Marketing Officer	Marketing CXO	Marketing	CXO	1
+1596	代表取締役 兼 社長執行役員	ja	Yes	President	Business Development CXO	Business Development	CXO	1
+1597	代表取締役　副社長	ja	Yes	Vice President Administration				1
+1598	代表取締役 医師	ja	Yes	Chief Executive Officer				1
+1599	代表取締役 取締役副社長	ja	Yes	Vice President Administration				1
+1600	代表取締役 執行役員会長 兼 グループ代表執行役員	ja	Yes	Chairperson				1
+1601	代表取締役　本社	ja	Yes	Chief Executive Officer				1
+1602	代表取締役 社長	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1603	代表取締役 社長　TCR	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1604	代表取締役 社長執行役員	ja	Yes	President	Business Development CXO	Business Development	CXO	1
+1605	代表取締役（社長）	ja	Yes	President	Business Development CXO	Business Development	CXO	1
+1606	代表取締役/CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1607	代表取締役／CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1608	代表取締役/エグゼクティブプロデューサー	ja	Yes	Chief Executive Officer				1
+1609	代表取締役/エンジニア	ja	Yes	Chief Executive Officer				1
+1610	代表取締役/プロデューサー	ja	Yes	Chief Executive Officer				1
+1611	代表取締役/ライター	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1612	代表取締役/共同創業者	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1613	代表取締役＋	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1614	代表取締役CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1615	代表取締役CEO　TCR	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1616	代表取締役CEO/CTO	ja	Yes	Chief Technology Officer	Information Technology CXO	Information Technology	CXO	1
+1617	代表取締役CO-CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1618	代表取締役会長	ja	Yes	Chairperson	Business Development CXO	Business Development	CXO	1
+1619	代表取締役副社長	ja	Yes	Vice President Administration				1
+1620	代表取締役副社長/CISO/GDPRデータ保護責任者 (DPO)/HR本部本部長	ja	Yes	Chief Information Security Officer	Security CXO	Security	CXO	0.85
+1621	代表取締役専務	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1622	代表取締役常務	ja	Yes	Chief Executive Officer				1
+1623	代表取締役最高経営責任者 (CEO)	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1624	代表取締役社長	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1625	代表取締役社長 CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1626	代表取締役社長　CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1627	代表取締役社長 TCR	ja	Yes	President	Business Development CXO	Business Development	CXO	1
+1628	代表取締役社長　TCR	ja	Yes	President	Business Development CXO	Business Development	CXO	1
+1629	代表取締役社長 エグゼクティブプロデューサー	ja	Yes	President	Business Development CXO	Business Development	CXO	1
+1630	代表取締役社長 会長・社長・CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	0.9
+1631	代表取締役社長 兼 ゼネラルマネージャー	ja	Yes	President	Business Development CXO	Business Development	CXO	1
+1632	代表取締役社長 兼 最高経営執行役員(CEO)	ja	Yes	President	Business Development CXO	Business Development	CXO	1
+1633	代表取締役社長（だいひょうとりしまりやくしゃちょう）	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1634	代表取締役社長グループCEO	ja	Yes	President	Business Development CXO	Business Development	CXO	1
+1635	代表取締役社長兼CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1636	代表執行役 社長 グローバル CEO	ja	Yes	President	Business Development CXO	Business Development	CXO	1
+1637	システム営業	ja	Yes	Sales Employee	Sales User	Sales	Entry	1
+1638	代表理事 　TCR	ja	Yes	Chief Executive Officer				1
+1639	代表理事 TCR	ja	Yes	Chief Executive Officer				1
+1640	代表社員 / CEO	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1641	代表者	ja	Yes	Chief Executive Officer				1
+1642	代表職務執行者 社長	ja	Yes	President	Business Development CXO	Business Development	CXO	1
+1643	"仮想化技術部仮想化技術チーム, エンジニア"	ja	Yes	Infrastructure Engineer	Information Technology User	Information Technology	Entry	0.85
+1644	企業システム開発第一部/次長	ja	Yes	Director of Information Technology				0.98
+1645	企業経営幹部	ja	Yes	Executive				1
+1646	システム導入	ja	Yes	System Administrator	Information Technology DM	Information Technology	Senior	1
+1647	企画 一般社員・職員	ja	Yes	Project Administrator				1
+1648	企画、マーケティング	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1649	企画、管理	ja	Yes	Project Administrator				1
+1650	企画・マーケティング	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1651	企画・営業	ja	Yes	Sales Employee				1
+1652	企画・営業部 部長	ja	Yes	Sales Director	Sales DM	Sales	Director	1
+1653	企画・管理	ja	Yes	Project Administrator				1
+1654	企画・開発	ja	Yes	Business Development Specialist				1
+1655	企画グループ係長 リーダー	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1656	企画グループ長	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1657	企画マーケティング	ja	Yes	Marketing Specialist	Marketing User	Marketing	Entry	1
+1658	企画主査	ja	Yes	Project Administrator				1
+1659	企画事務	ja	Yes	Administrative Employee				1
+1660	企画事務「	ja	Yes	Administrative Employee				1
+1661	企画員	ja	Yes	Project Administrator	Program and Project Management User	Program and Project Management	Entry	1
+1662	企画営業	ja	Yes	Sales Employee				1
+1663	企画室長	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1664	企画役	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1665	企画担当	ja	Yes	Project Administrator				1
+1666	企画担当課長	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1667	企画管理	ja	Yes	Project Administrator				1
+1668	企画総務部門 主査	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1669	システム設計	ja	Yes	Infrastructure Engineer				1
+1670	企画課 課長	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	0.99
+1671	企画課長	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1672	企画部	ja	Yes	Project Administrator				1
+1673	企画部　TCR	ja	Yes	No suitable match found				0
+1674	企画部 情報システムチーム	ja	Yes	Information Technology Generalist				1
+1675	企画部 情報システム室	ja	Yes	Information Technology Generalist				1
+1676	企画部 情報第二課長	ja	Yes	Planning Manager				1
+1677	企画部 橋梁データ管理室長	ja	Yes	Planning Manager				1
+1678	企画部 課長	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1679	企画部 部長	ja	Yes	Director Project Management				1
+1680	企画部長	ja	Yes	Director Project Management				1
+1681	企画部門	ja	Yes	Business Planner				1
+1682	企画開発	ja	Yes	Business Development Specialist				1
+1683	企画開発局  経営者	ja	Yes	President				1
+1684	企画開発部 部長	ja	Yes	Director of Business Development				1
+1685	企総部 企画部 主任	ja	Yes	Project Administrator				1
+1686	会社代表	ja	Yes	President				1
+1687	会社員　	ja	Yes	Office Worker				0.91
+1688	会社役員	ja	Yes	Director of Information Technology				1
+1689	会社経営者	ja	Yes	President				1
+1690	会計	ja	Yes	Financial Professional				1
+1691	会計係	ja	Yes	Accountant	Accounting and Finance User	Accounting and Finance	Entry	1
+1692	会計士	ja	Yes	Accountant	Accounting and Finance User	Accounting and Finance	Entry	1
+1693	会計業務	ja	Yes	Financial Professional				1
+1694	会計申告開発本部 会計開発部 法人2チーム ソフトウェアエンジニア	ja	Yes	Software Engineer	Engineering User	Engineering	Entry	1
+1695	会計申告開発本部　申告開発部　申告1 チーム エンジニア	ja	Yes	Technology Development Engineer	Engineering User	Engineering	Entry	0.75
+1696	会計申告開発本部 申告開発部 部長	ja	Yes	Information Technology Generalist				1
+1697	会計職	ja	Yes	Accountant	Accounting and Finance User	Accounting and Finance	Entry	1
+1698	会計責任者	ja	Yes	Chief Financial Officer				1
+1699	会計部長	ja	Yes	Director of Accounting	Accounting and Finance DM	Accounting and Finance	Director	1
+1700	会長	ja	Yes	Board Member	Business Development CXO	Business Development	Partner	1
+1701	会長・社長	ja	Yes	Chairperson				1
+1702	住友建機/情報システム部/主事	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	0.96
+1703	住宅カンパニー　情報システム部 担当部長	ja	Yes	Director of Information Management				1
+1704	住宅ローン	ja	Yes	Loan Officer	Accounting and Finance User	Accounting and Finance	Entry	1
+1705	佐々木卓大 町田支店 － 営業職	ja	Yes	Sales Employee	Sales User	Sales	Entry	0.9
+1706	佐々木哲 旭川支店 副支店長 営業職	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.85
+1707	作家	zh-Hans	Yes	Author	Media and Communication DM	Media and Communication	Senior	1
+1708	作曲家	ja	Yes	Musician	Media and Communication DM	Media and Communication	Senior	1
+1709	作業員	ja	Yes	Laborer	Customer Service and Support User	Customer Service and Support	Entry	1
+1710	作業療法士	ja	Yes	Occupational Therapist	Healthcare Services DM	Healthcare Services	Senior	1
+1711	作業者	ja	Yes	Office Worker				1
+1712	作業長	ja	No					
+1713	係員	ja	Yes	Administrative Employee				1
+1714	係員 / -	ja	Yes	Administrative Employee				1
+1715	システム運用	ja	Yes	System Administrator				1
+1716	係長 (退社)	ja	Yes	Information Technology Manager				1
+1717	係長 デジタル変革推進部　ビジネスプロセス変革グループ	ja	Yes	Information Technology Manager				1
+1718	係長 技術士（電気電子部門）	ja	Yes	Engineering Manager				1
+1719	係長／主任	ja	Yes	Administration Manager				1
+1720	係長/主任クラス	ja	Yes	Chief of Department	Community and Social Services CXO	Community and Social Services	CXO	0.7
+1721	係長++	ja	Yes	Administration Manager				1
+1722	係長・主任  TCR	ja	No					
+1723	係長・主任クラス	ja	Yes	Chief of Department	Community and Social Services CXO	Community and Social Services	CXO	0.7
+1724	係長・主任職	ja	Yes	Information Technology Administrator				1
+1725	係長代理	ja	Yes	Manager Positions				1
+1726	保健師	ja	Yes	Nurse	Healthcare Services DM	Healthcare Services	Senior	1
+1727	システム開発	ja	Yes	Developer	Developer User	Developer	Entry	1
+1728	保育	zh-Hans	Yes	Caregiver				1
+1729	保育士	ja	Yes	Caregiver				1
+1730	保険コンサルタント	ja	Yes	Insurance Agent	Sales User	Sales	Entry	1
+1731	保険ソリューション営業部 係長・主任クラス	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.85
+1732	保険代理業	ja	Yes	Insurance Agent	Sales User	Sales	Entry	1
+1733	保険責任者	ja	Yes	Insurance Agent				1
+1734	保険金サービス企画部 デジタルイノベーショングループ リーダー	ja	Yes	Insurance Agent				1
+1735	俳優	ja	Yes	Performer	Media and Communication User	Media and Communication	Entry	1
+1736	倉庫作業員	ja	Yes	Logistics Employee	Supply and Logistics User	Supply and Logistics	Entry	1
+1737	個人コンサルタント	ja	Yes	Consultant	Business Development DM	Business Development	Senior	1
+1738	個人事業主	ja	Yes	Owner	Business Development CXO	Business Development	Owner	1
+1739	個人事業主　データ分析	ja	Yes	Data Analyst	Data Professional User	Data Professional	Entry	0.9
+1740	個人事業主 代表	ja	Yes	Chief Executive Officer				1
+1741	健康相談員	ja	Yes	Medical Advisor				1
+1742	債権販売開発本部 債権・請求書開発チーム エンジニア	ja	Yes	Business Development Specialist				1
+1743	先端技術システム本部 部長	ja	Yes	Director of Information Management				1
+1744	先端技術事業部 事業部長	ja	Yes	Director of Engineering				1
+1745	先端技術研究部 ITエンジニア	ja	Yes	Information Technology Engineer	Engineering User	Engineering	Entry	1
+1746	先端技術研究部 調査役	ja	Yes	Research Employee				1
+1747	先進技術研究所 一般職	ja	Yes	Information Technology Generalist	Information Technology User	Information Technology	Entry	1
+1748	児童指導員	ja	Yes	Career Counselor				1
+1749	全国ショウコウ事業部協同組合連合会 主任 TCR	ja	Yes	Office Worker				1
+1750	全般	ja	Yes	Office Worker				1
+1751	公共セールスエンジニアリング セールスエンジニア	ja	Yes	Sales Engineer	Sales User	Sales	Entry	1
+1752	公務員	zh-Hant	Yes	Public Sector	Community and Social Services User	Community and Social Services	Entry	1
+1753	取締役副社長 CO-FOUNDER	en	Yes	Vice President Administration				1
+1754	取締役副社長 ライフ・エンターテインメント・スポーツ事業本部長 テクノロジー本部長	ja	Yes	Vice President Administration				1
+1755	取締役副社長 兼 特殊開発部部長	ja	Yes	Vice President Administration				1
+1756	取締役営業本部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1757	取締役執行役員	ja	Yes	Executive				1
+1758	取締役執行役員 TECHデザイングループ長	ja	Yes	Director of Information Technology				1
+1759	取締役執行役員 企画推進部長	ja	Yes	Planning Manager	Program and Project Management DM	Program and Project Management	Manager	1
+1760	取締役専務執行役員	ja	Yes	Managing Director	Business Development CXO	Business Development	CXO	1
+1761	取締役工事部長 TCR	ja	Yes	Director of Information Technology				1
+1762	取締役常務執行役員	ja	Yes	Executive Director				1
+1763	取締役本部長	ja	Yes	Information Technology Manager				1
+1764	取締役本部長  本部長クラス	ja	Yes	Information Technology Manager				1
+1765	取締役社長	ja	Yes	Chief Executive Officer	Business Development CXO	Business Development	CXO	1
+1766	取締役社長··	ja	Yes	Principal				1
+1767	取締役総務部長	ja	Yes	Information Technology Manager				1
+1768	取締役部長	ja	Yes	Information Technology Manager				1
+1769	取締役部長 TCR	ja	Yes	Director of Information Technology				1
+1770	受付	ja	Yes	Administrative Employee	Operations User	Operations	Entry	0.9
+1771	古木征夫 杉並支店 副支店長 営業職	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.85
+1772	司書	ja	Yes	Librarian	Research User	Research	Entry	1
+1773	吉元正次 九州量販店店舗営業三課 ＧＬ 営業職	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.85
+1774	吉川一仁 鹿嶋支店 － 事務職	ja	Yes	Administrative Employee	Operations User	Operations	Entry	0.85
+1775	吉川雅也 中部管理課 ＧＬ 事務職	ja	Yes	Administrative Employee	Operations User	Operations	Entry	0.85
+1776	吉森誠 北海道量販店課 ＧＬ 事務職	ja	Yes	Data Entry Clerk	Data Professional User	Data Professional	Entry	0.7
+1777	吉田卓矢 横浜泉支店 ＧＬ 営業職	ja	Yes	Sales Employee				0.9
+1778	吉田紀久雄 山形支店 ＧＬ 営業職	ja	Yes	Sales Purchasing	Purchasing User	Purchasing	Entry	0.85
+1779	吉野毅彦 鹿嶋支店 ＧＬ 営業職	ja	Yes	Sales Employee				0.9
+1780	名古屋基幹システム本部 事務システム部 アシスタントマネージャー	ja	Yes	Office Manager	Business Development DM	Business Development	Manager	0.75
+1781	名誉教授	ja	Yes	Professor	Education DM	Education	Senior	1
+1782	品質	zh-Hant	Yes	Quality Assurance Tester				1
+1783	品質スペシャリスト	ja	Yes	Quality Assurance Tester				1
+1784	スタッフ	ja	Yes	Office Worker				1
+1785	品質保証・品質管理	ja	Yes	Quality Assurance Tester	Engineering User	Engineering	Entry	1
+1786	品質保証エンジニア	ja	Yes	Quality Assurance Engineer	Engineering User	Engineering	Entry	1
+1787	品質保証マネージャー	ja	Yes	Software Quality Manager	Information Technology DM	Information Technology	Manager	1
+1788	"品質保証本部 技術部 ビッグデータ解析センター, 担当係長 博士(農学)"	ja	Yes	Quality Assurance Engineer	Engineering User	Engineering	Entry	0.7
+1789	品質保証責任者	ja	Yes	Software Quality Manager	Information Technology DM	Information Technology	Manager	1
+1790	セールスサポート	ja	Yes	Support Specialist				1
+1791	品質保証部 カスタマーサポート課長	ja	Yes	Customer Service Manager	Customer Service and Support DM	Customer Service and Support	Manager	0.85
+1792	品質保証部 品質管理課	ja	Yes	Quality Assurance Tester	Engineering User	Engineering	Entry	1
+1793	品質保証部 品質統括室 戦略グループ	ja	Yes	Quality Assurance Engineer	Engineering User	Engineering	Entry	0.7
+1794	品質保証部門	ja	Yes	Quality Assurance Engineer	Engineering User	Engineering	Entry	1
+1795	品質管理	ja	Yes	Quality Assurance Tester				1
+1796	品質管理 TCR	ja	Yes	Quality Assurance Tester				1
+1797	品質管理チーム マネジャー	ja	Yes	Software Quality Manager	Information Technology DM	Information Technology	Manager	1
+1798	品質管理責任者	ja	Yes	Quality Assurance Tester				1
+1799	品質管理部	ja	Yes	Quality Assurance Tester				1
+1800	品質管理部 部長	ja	Yes	Software Quality Manager	Information Technology DM	Information Technology	Manager	1
+1801	"品質管理部, 課長"	ja	Yes	Software Quality Manager	Information Technology DM	Information Technology	Manager	1
+1802	品質管理部マネージャー	ja	Yes	Software Quality Manager	Information Technology DM	Information Technology	Manager	1
+1803	品質統括監理室 担当課長	ja	Yes	Software Quality Manager	Information Technology DM	Information Technology	Manager	1
+1804	品質責任者	ja	Yes	Software Quality Manager	Information Technology DM	Information Technology	Manager	1
+1805	品質部門	ja	Yes	Quality Assurance Tester				1
+1806	商品企画	ja	Yes	Business Planner				1
+1807	商品企画部 一般社員	ja	Yes	Business Planner				1
+1808	商品担当	ja	Yes	Product Manager				1
+1809	商品設計課 係長	ja	Yes	Manager Product Management	Product Management DM	Product Management	Manager	0.85
+1810	商品開発室 室長代理	ja	Yes	Development Manager				1
+1811	"商品開発本部 システム統括部 システム開発2部 グロースエンジニアリング課, テックリード"	ja	Yes	Engineering Manager	Engineering DM	Engineering	Manager	0.75
+1812	商品開発課 課長	ja	Yes	Manager Product Management	Product Management DM	Product Management	Manager	0.85
+1813	商品開発部 一般社員	ja	Yes	Product Developer	Product Management User	Product Management	Entry	0.75
+1814	商社営業本部 システムエンジニア	ja	Yes	Sales Engineer	Sales User	Sales	Entry	1
+1815	ソリューション営業	ja	Yes	Sales Engineer				1
+1816	営業 NON-TCR	ja	Yes	Sales Specialist	Sales User	Sales	Entry	1
+1817	営業　NON-TCR	ja	Yes	Sales Specialist	Sales User	Sales	Entry	1
+1818	営業 PM	ja	Yes	Sales Specialist				1
+1819	営業 TCR	ja	No					
+1820	営業 上席営業所長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1821	営業 兼 経営企画　TCR	ja	Yes	Sales Specialist				1
+1822	営業 取締役	ja	Yes	Sales Director	Sales DM	Sales	Director	1
+1823	営業 役職なし	ja	Yes	Sales Specialist	Sales User	Sales	Entry	1
+1824	営業&マーケティングマネージャー	ja	Yes	Marketing Manager				1
+1825	"営業,SE,サポート"	ja	Yes	Technical Support Representative	Customer Service and Support DM	Customer Service and Support	Senior	1
+1826	営業、管理	ja	Yes	Sales Employee				1
+1827	営業/マーケ	ja	Yes	Marketing Specialist				1
+1828	営業/マーケティング	ja	Yes	Marketing Specialist				1
+1829	営業/一般職	ja	Yes	Sales Employee	Sales User	Sales	Entry	1
+1830	営業・管理	ja	Yes	Sales Employee				1
+1831	営業・販売 その他	ja	Yes	Sales Specialist	Sales User	Sales	Entry	1
+1832	営業・販売 一般社員	ja	Yes	Sales Purchasing	Purchasing User	Purchasing	Entry	0.7
+1833	営業・販売 主任／係長クラス	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.8
+1834	営業・販売 契約社員	ja	Yes	Sales Employee	Sales User	Sales	Entry	0.75
+1835	営業・販売 役員クラス	ja	Yes	Sales Executive	Sales DM	Sales	Manager	0.85
+1836	営業・販売 本部長クラス	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1837	営業・販売 派遣社員	ja	Yes	Sales Employee	Sales User	Sales	Entry	0.75
+1838	営業・販売 経営者	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1839	営業・販売 課長クラス	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1840	営業・販売 部長クラス	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1841	営業3課長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1842	営業3部	ja	Yes	Sales Employee				1
+1843	営業アシスタント	ja	Yes	Sales Employee	Sales User	Sales	Entry	1
+1844	営業サービス	ja	Yes	Sales Specialist				1
+1845	営業サポート	ja	Yes	Support Specialist				1
+1846	営業スペシャリスト	ja	Yes	Sales Specialist	Sales User	Sales	Entry	1
+1847	営業マネージャ	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1848	営業マネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1849	営業主任	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1850	営業主任 / -	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1851	営業主幹	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1852	チーフ	ja	Yes	Information Technology Manager				1
+1853	営業事務 TCR	ja	No					
+1854	営業事務 サポート	ja	Yes	Service Support Specialist				1
+1855	営業二課　マネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.95
+1856	チーフリーダー	ja	Yes	Information Technology Manager				1
+1857	営業企画、マーケティング	ja	Yes	Sales Specialist				1
+1858	営業企画・管理部 課長クラス	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.85
+1859	営業企画部	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.7
+1860	営業企画部 TCR	ja	Yes	No suitable match found				0
+1861	営業企画部次長 システム課長	ja	Yes	Sales Manager				1
+1862	営業企画部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1863	営業係長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1864	営業副本部長 取締役	ja	Yes	Sales Director	Sales DM	Sales	Director	1
+1865	営業戦略本部　官公庁インダストリーマネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1866	営業所長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1867	営業所長 / -	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1868	営業技術	ja	Yes	Technical Sales Professional	Sales User	Sales	Entry	1
+1869	営業技術支援	ja	Yes	Support Specialist				1
+1870	営業技術部自動検針技術チーム 一般社員・職員	ja	Yes	Sales Engineer	Sales User	Sales	Entry	0.9
+1871	営業担当	ja	Yes	Sales Employee	Sales User	Sales	Entry	1
+1872	営業担当 TCR	ja	Yes	Salesperson				1
+1873	営業担当者	ja	Yes	Sales Employee	Sales User	Sales	Entry	1
+1874	営業担当課長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1875	営業担当課長代理	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1876	営業担当部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1877	営業担当部長 TCR	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1878	営業推進室	ja	Yes	Sales Executive				1
+1879	営業推進役	ja	Yes	Sales Executive				1
+1880	営業推進部	ja	Yes	No suitable match found				0
+1881	営業推進部 ナレッジセンター 部長代理 兼センター長	ja	Yes	Manager Knowledge Management				0.99
+1882	営業推進部 担当部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1883	営業推進部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1884	チームリーダー	ja	Yes	Information Technology Manager				1
+1885	営業本部	ja	Yes	Sales Employee				1
+1886	営業本部　シニアマネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1887	営業本部 なし	ja	Yes	Sales Specialist	Sales User	Sales	Entry	1
+1888	営業本部 マネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1889	営業本部 メディカルユニット 課長	ja	Yes	Medical Manager				0.98
+1890	営業本部 事業開発部 ビジネス開発グループ主任	ja	Yes	Director of Business Development	Business Development DM	Business Development	Director	0.85
+1891	営業本部　取締役 副本部長	ja	Yes	Director of Information Technology				0.97
+1892	営業本部 営業企画G	ja	Yes	Sales Employee				0.97
+1893	営業本部 営業企画グループ　グループ長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1894	営業本部 営業管理部デジタルプロモーション課	ja	Yes	Sales Employee				1
+1895	営業本部 営業統括グループ 調達購買部 部長	ja	Yes	Sales Manager				1
+1896	営業本部 東日本ソリューション営業部 フィールドセールスグループ グループ長 兼 特別法人チーム チーム長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.96
+1897	営業本部 統括部長	ja	Yes	Information Technology Manager				1
+1898	営業本部 部長クラス	ja	Yes	Information Technology Manager				1
+1899	営業本部JP事業部JP営業管理部 部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1900	営業本部長	ja	Yes	Information Technology Manager				1
+1901	営業業務部 部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1902	営業管理	ja	Yes	Sales Employee				1
+1903	チーム長	ja	Yes	Information Technology Manager				1
+1904	営業管理部	ja	Yes	Sales Employee				1
+1905	営業管理部 次長	ja	Yes	Sales Director	Sales DM	Sales	Director	1
+1906	営業管理部 部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1907	営業統括部	ja	Yes	Sales Employee				1
+1908	営業統括部 DX推進課	ja	Yes	Sales Employee				1
+1909	営業統括部 営業2部 次長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.9
+1910	営業統括部長	ja	Yes	Administration Manager				1
+1911	営業職	ja	Yes	Sales Employee	Sales User	Sales	Entry	1
+1912	営業補助	ja	Yes	Sales Employee	Sales User	Sales	Entry	1
+1913	営業課長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1914	営業課長代理	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1915	営業責任者	ja	Yes	Sales Executive				1
+1916	営業部	ja	Yes	Sales Employee	Sales User	Sales	Entry	1
+1917	営業部 エキスパート	ja	Yes	Sales Employee				1
+1918	営業部 その他	ja	Yes	Sales Employee	Sales User	Sales	Entry	1
+1919	営業部 デザイン科	ja	Yes	Sales Employee				1
+1920	営業部 主任	ja	Yes	Sales Supervisor	Sales DM	Sales	Manager	1
+1921	営業部 業務課TCR	ja	Yes	Sales Employee				1
+1922	営業部 課長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1923	営業部 部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1924	営業部　部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1925	営業部 部長クラス	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1926	営業部 部長代理	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1927	営業部シニアテリトリーマネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1928	営業部マネージャー	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1929	営業部部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1930	営業部長	ja	Yes	Sales Manager	Sales DM	Sales	Manager	1
+1931	営業部門支援開発グループ グループ長	ja	Yes	Business Development Manager				1
+1932	営業開発	ja	Yes	Business Development Specialist	Business Development User	Business Development	Entry	1
+1933	嘉山秀斗 山梨支店 ＧＬ 営業職	ja	Yes	Sales Specialist	Sales User	Sales	Entry	0.7
+1934	回路設計エンジニア	ja	Yes	Electrical Engineer	Engineering User	Engineering	Entry	1
+1935	図書情報課 情報システム係長	ja	Yes	Information Technology Manager	Information Technology DM	Information Technology	Manager	1
+1936	図書館員	ja	Yes	Librarian	Research User	Research	Entry	1
+1937	図書館職員	ja	Yes	Librarian	Research User	Research	Entry	1
+1938	図書館長	ja	Yes	Librarian	Research User	Research	Entry	1
+1939	国内セールス	ja	Yes	Salesperson				1
+1940	国家公務員	zh-Hans	Yes	Public Sector	Community and Social Services User	Community and Social Services	Entry	1
+1941	国際業務	ja	Yes	International Trade Specialist	Operations User	Operations	Entry	1
+1942	園芸家	ja	Yes	Hospitality Professional				1
+1943	土木	ja	Yes	Civil Engineer				1
+1944	土木エンジニア	ja	Yes	Civil Engineer	Engineering User	Engineering	Entry	1
+1945	土木設計	ja	Yes	Civil Engineer	Engineering User	Engineering	Entry	1
+1946	在庫管理	ja	Yes	Logistics Specialist				1
+1947	地域事業開発室長 兼 浜松支店長	ja	Yes	Business Development Manager	Business Development DM	Business Development	Manager	1
+1948	坂下紀奈 浦和支店 － 事務職	ja	Yes	Administrative Employee	Operations User	Operations	Entry	0.85
+1949	坪井浩児 横須賀支店 副支店長 営業職	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.85
+1950	執行委員長	ja	Yes	Executive	Business Development CXO	Business Development	CXO	1
+1951	執行役	ja	Yes	Manager Positions				1
+1952	執行役 テクノロジー統括部 管掌	ja	Yes	Information Technology Executive	Information Technology DM	Information Technology	Senior	0.85
+1953	執行役 情報企画部長	ja	Yes	Information Manager				1
+1954	執行役　法務・総務・内部統制・リスク管理統括部長 兼 CRO	ja	Yes	Chief Risk Officer	Accounting and Finance CXO	Accounting and Finance	CXO	0.98
+1955	デザイナー	ja	Yes	Computer Aided Designer				1
+1956	執行役員 (兼) 愛知支社長	ja	Yes	President	Business Development CXO	Business Development	CXO	0.85
+1957	執行役員 (兼) 補修品事業部門 部門長	zh-Hant	Yes	Chief of Department	Community and Social Services CXO	Community and Social Services	CXO	0.85
+1958	執行役員 （情報システム管掌）	ja	Yes	Executive				1
+1959	執行役員 CHIEF DIGITAL OFFICER 本部長 兼 部長	ikt	Yes	Chief Digital Officer	Media and Communication CXO	Media and Communication	CXO	1
+1960	執行役員 CHRO チーフヒューマンリソースオフィサー	ja	Yes	Chief Human Resources Officer	Human Resources CXO	Human Resources	CXO	1
+1961	執行役員 CIO	ja	Yes	Chief Information Officer	Information Technology CXO	Information Technology	CXO	1
+1962	執行役員 CIO(最高情報責任者)グローバルIT本部長	ja	Yes	Chief Information Officer	Information Technology CXO	Information Technology	CXO	1
+1963	執行役員 CMO	ja	Yes	Chief Marketing Officer	Marketing CXO	Marketing	CXO	0.98
+1964	執行役員 CSO	ja	Yes	Chief Sales Officer				1
+1965	執行役員 CTO	ja	Yes	Chief Technology Officer	Information Technology CXO	Information Technology	CXO	1
+1966	執行役員 CTO テクノロジー本部長 兼 食べログ開発本部長	ja	Yes	Chief Technology Officer	Information Technology CXO	Information Technology	CXO	0.98
+1967	執行役員 DX事業部長 兼 情報システム部長 TCR	ja	Yes	Chief Technology Officer				1
+1968	執行役員 GM	ja	Yes	Executive				1
+1969	執行役員 ICTイノベーション部長	ja	Yes	Innovation Manager				1
+1970	執行役員 ICTソリューション本部長	ja	Yes	Chief Solutions Architect				1
+1971	執行役員 ITイノベーション部長	ja	Yes	Innovation Manager				1
+1972	山口支店 係長・主任クラス	ja	Yes	Information Technology Manager				1
+1973	山梨県総務部情報政策課 副主査	ja	Yes	Information Technology Manager				1
+1974	山田祐輔 松江支店 ＧＬ 事務職	ja	Yes	Accounts Payable Clerk	Accounting and Finance User	Accounting and Finance	Entry	0.7
+1975	岡永和之 店舗営業部五課 ＧＬ 営業職	ja	Yes	Sales Employee	Sales User	Sales	Entry	0.75
+1976	岩長将吾 九州量販店店舗営業三課 主任 営業職	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.85
+1977	岩間汐美 西中国店舗営業課 － 営業職	ja	Yes	Sales Employee	Sales User	Sales	Entry	0.75
+1978	島森明彦 横浜泉支店 副支店長 営業職	ja	Yes	Sales Manager	Sales DM	Sales	Manager	0.85
+1979	川見幸生 横須賀支店 ＧＬ 事務職	ja	Yes	Accounts Receivable Clerk	Accounting and Finance User	Accounting and Finance	Entry	0.6
+1980	巡査部長	ja	Yes	Military Officer	Other DM	Other	Senior	1
+1981	工事部 なし	ja	Yes	Construction Engineer	Engineering User	Engineering	Entry	1
+1982	工事部 部長	ja	Yes	Information Technology Manager				1
+1983	工務	zh-Hans	No					
+1984	工場管理部 主査	ja	Yes	Manufacturing Operations Manager				1
+1985	工場長	ja	Yes	Manufacturing Operations Manager	Operations DM	Operations	Manager	1
+1986	工学博士 代表取締役	ja	Yes	Chief Executive Officer				1
+1987	工学部	ja	Yes	Construction Engineer				1
+1988	工学部情報工学科 教員	ja	Yes	School Teacher				0.94
+1989	市場開発	ja	Yes	Business Development Specialist	Business Development User	Business Development	Entry	1
+1990	市場開発本部 データ&AIサービス部 AI/IOT技術室	ja	Yes	Business Development Specialist				0.99
+1991	市議会	ja	Yes	Political Staff				1
+1992	市議会議員	ja	Yes	Political Staff				1
+1993	帯広工場 営業推進課 課長代理	ja	Yes	Business Development Manager				0.98
+1994	常務	ja	Yes	Managing Director	Business Development CXO	Business Development	CXO	1
+1995	常務 兼 営業推進本部長	ja	Yes	Business Development Manager				1
+1996	常務 本部長	ja	Yes	Information Technology Manager				1
+1997	常務取締役	ja	Yes	Managing Director	Business Development CXO	Business Development	CXO	1
+1998	常務取締役 TCR	ja	Yes	Managing Director	Business Development CXO	Business Development	CXO	1
+1999	常務取締役 コーポレートサービス長（システム・事務担当）	ja	Yes	Managing Director	Business Development CXO	Business Development	CXO	1
+2000	常務取締役 デジタル・CRM推進室長	ja	Yes	Managing Director				1
