@@ -1,4 +1,5 @@
 Lead ID,Job Title,Language,Valid JT,Job Role,Marketing Audience,Function,Seniority,Confidence Score
+<<<<<<< HEAD
 1,CTO兼部長,ja,Yes,Architect,,,,1.0
 2,CTO室 エンジニアリングマネージャー,ja,Yes,Engineering Manager,Engineering DM,Engineering,Manager,1.0
 3,CTO室 シニアアーキテクト,ja,Yes,Architect,,,,1.0
@@ -1932,3 +1933,104 @@ Lead ID,Job Title,Language,Valid JT,Job Role,Marketing Audience,Function,Seniori
 1998,常務取締役 TCR,ja,Yes,Managing Director,Business Development CXO,Business Development,CXO,1.0
 1999,常務取締役 コーポレートサービス長（システム・事務担当）,ja,Yes,Managing Director,Business Development CXO,Business Development,CXO,1.0
 2000,常務取締役 デジタル・CRM推進室長,ja,Yes,Managing Director,,,,1.0
+=======
+101,医療事務,ja,Yes,Medical Practitioner,,,,1.0
+102,看護師,ja,Yes,Nurse,Healthcare Services DM,Healthcare Services,Senior,1.0
+103,医師,ja,Yes,Student,,,,1.0
+104,薬剤師,ja,Yes,Pharmacist,Healthcare Services DM,Healthcare Services,Senior,1.0
+105,歯科医,ja,Yes,Dentist,Healthcare Services DM,Healthcare Services,Senior,1.0
+106,臨床検査技師,ja,Yes,Laboratory Technician,Research DM,Research,Senior,0.9
+107,理学療法士,ja,Yes,Physical Therapist,Healthcare Services DM,Healthcare Services,Senior,1.0
+108,作業療法士,ja,Yes,Occupational Therapist,Healthcare Services DM,Healthcare Services,Senior,1.0
+109,救急救命士,ja,Yes,Emergency Response Officer,Operations User,Operations,Entry,0.9
+110,医療技術者,ja,Yes,Laboratory Technician,Research DM,Research,Senior,0.85
+111,研究員,zh-Hant,Yes,Research Development Researcher,Research DM,Research,Senior,1.0
+112,生物学者,ja,Yes,Life Sciences and Medical Researcher,Research DM,Research,Senior,0.9
+113,化学者,ja,Yes,Chemist,Research DM,Research,Senior,1.0
+114,物理学者,ja,Yes,Physicist,Research DM,Research,Senior,1.0
+115,天文学者,ja,Yes,Scientist,Research DM,Research,Senior,0.85
+116,環境科学者,ja,Yes,Environmental Specialist,Community and Social Services User,Community and Social Services,Entry,0.9
+117,地質学者,ja,Yes,Geologist,Research DM,Research,Senior,1.0
+118,数学者,ja,Yes,Research Analyst,Research User,Research,Entry,0.7
+119,統計学者,ja,Yes,Data Scientist,Data Professional User,Data Professional,Entry,0.75
+120,農業技術者,ja,Yes,Engineer,Engineering User,Engineering,Entry,0.7
+121,建築家,ja,Yes,Architect,Architect User,Architect,Entry,1.0
+122,インテリアデザイナー,ja,Yes,Interior Designer,Other DM,Other,Senior,1.0
+123,都市計画家,ja,Yes,Urban Planner,Other DM,Other,Senior,1.0
+124,不動産エージェント,ja,Yes,Real Estate Broker,Sales User,Sales,Entry,0.97
+125,土地家屋調査士,ja,Yes,Surveyor,Research User,Research,Entry,0.9
+126,建設マネージャー,ja,Yes,Manager Positions,,,,1.0
+127,現場監督,ja,Yes,Information Technology Generalist,,,,1.0
+128,配管工,ja,Yes,Mechanic and Maintenance Tradesperson,Operations DM,Operations,Senior,1.0
+129,電気技師,ja,Yes,Electrical Engineer,Engineering User,Engineering,Entry,1.0
+130,溶接工,ja,Yes,Mechanic and Maintenance Tradesperson,Operations DM,Operations,Senior,0.85
+131,大工,ja,Yes,Mechanic and Maintenance Tradesperson,Operations DM,Operations,Senior,1.0
+132,塗装工,ja,Yes,Arts Professional,,,,1.0
+133,機械オペレーター,ja,Yes,Technician,,,,1.0
+134,製造技術者,ja,Yes,Technician,Information Technology DM,Information Technology,Senior,0.9
+135,工場作業員,ja,Yes,Factory Worker,Operations User,Operations,Entry,1.0
+136,組立作業員,ja,Yes,Factory Worker,Operations User,Operations,Entry,0.9
+137,品質管理マネージャー,ja,Yes,Software Quality Manager,Information Technology DM,Information Technology,Manager,1.0
+138,製品検査員,ja,Yes,Quality Assurance Engineer,Engineering User,Engineering,Entry,0.75
+139,保守エンジニア,ja,Yes,Mechanic and Maintenance Tradesperson,Operations DM,Operations,Senior,0.85
+140,設備管理者,ja,Yes,Facilities Manager,Customer Service and Support DM,Customer Service and Support,Manager,1.0
+141,運転手,ja,Yes,Transportation Specialist,,,,1.0
+142,配送ドライバー,ja,Yes,Transportation Specialist,Supply and Logistics User,Supply and Logistics,Entry,0.75
+143,トラック運転手,ja,Yes,Logistics Employee,Supply and Logistics User,Supply and Logistics,Entry,0.7
+144,バス運転手,ja,Yes,No suitable match found,,,,0.0
+145,タクシー運転手,ja,Yes,Transportation Specialist,Supply and Logistics User,Supply and Logistics,Entry,0.85
+146,航空機パイロット,ja,Yes,Flight Crew,Customer Service and Support User,Customer Service and Support,Entry,0.9
+147,航空管制官,zh-Hans,Yes,Transportation Manager,Supply and Logistics DM,Supply and Logistics,Manager,0.85
+148,客室乗務員,ja,Yes,Flight Crew,Customer Service and Support User,Customer Service and Support,Entry,0.9
+149,鉄道運転士,ja,Yes,No suitable match found,,,,0.0
+150,駅係員,ja,Yes,Travel and Tourism Professional,Operations User,Operations,Entry,0.7
+151,船員,zh-Hans,Yes,Mariner,,,,1.0
+152,漁師,ja,Yes,Mariner,Other DM,Other,Senior,0.85
+153,料理人,ja,Yes,Food Service Professional,Customer Service and Support User,Customer Service and Support,Entry,1.0
+154,調理補助,ja,Yes,No suitable match found,,,,0.0
+155,ウェイター,ja,Yes,Food Service Professional,Customer Service and Support User,Customer Service and Support,Entry,0.9
+156,バリスタ,ja,Yes,Food Service Professional,Customer Service and Support User,Customer Service and Support,Entry,1.0
+157,ホテルスタッフ,ja,Yes,Hospitality Professional,Customer Service and Support User,Customer Service and Support,Entry,0.85
+158,フロント係,ja,Yes,Administrative Employee,Operations User,Operations,Entry,0.85
+159,清掃員,ja,Yes,Facilities Manager,Customer Service and Support DM,Customer Service and Support,Manager,0.7
+160,警備員,ja,Yes,Facilities Manager,,,,1.0
+161,警察官,zh-Hans,Yes,Public Safety Professional,Community and Social Services User,Community and Social Services,Entry,0.9
+162,消防士,ja,Yes,Public Sector,,,,1.0
+163,自衛官,ja,Yes,Military,Community and Social Services User,Community and Social Services,Entry,0.9
+164,弁護士,ja,Yes,Lawyer,Legal DM,Legal,Senior,1.0
+165,検察官,ja,Yes,Lawyer,Legal DM,Legal,Senior,0.85
+166,裁判官,ja,Yes,Judge,Legal DM,Legal,Senior,1.0
+167,法務アシスタント,ja,Yes,Legal Administrative Professional,Legal User,Legal,Entry,0.9
+168,行政書士,ja,Yes,Legal Administrative Professional,Legal User,Legal,Entry,1.0
+169,税理士,ja,Yes,Tax Specialist,Accounting and Finance User,Accounting and Finance,Entry,1.0
+170,社会保険労務士,ja,Yes,Insurance Agent,,,,1.0
+171,通訳者,ja,Yes,Language and Localization Specialist,Media and Communication User,Media and Communication,Entry,1.0
+172,証券アナリスト,ja,Yes,Equity Analyst,Accounting and Finance User,Accounting and Finance,Entry,0.85
+173,保険アドバイザー,ja,Yes,Insurance Agent,Sales User,Sales,Entry,0.9
+174,投資銀行家,ja,Yes,Banker,Accounting and Finance User,Accounting and Finance,Entry,0.85
+175,株式ブローカー,ja,Yes,Investment Trader,Accounting and Finance User,Accounting and Finance,Entry,0.85
+176,銀行員,ja,Yes,Banker,Accounting and Finance User,Accounting and Finance,Entry,1.0
+177,ローンオフィサー,ja,Yes,Information Technology Generalist,,,,0.91
+178,会計監査人,ja,Yes,Auditor,Accounting and Finance DM,Accounting and Finance,Senior,0.9
+179,教育コンサルタント,ja,Yes,Education Professional,Education User,Education,Entry,1.0
+180,家庭教師,zh-Hans,Yes,School Teacher,Education DM,Education,Senior,0.75
+181,学習支援員,ja,Yes,Support Specialist,Customer Service and Support User,Customer Service and Support,Entry,0.75
+182,幼稚園教諭,ja,Yes,School Teacher,Education DM,Education,Senior,1.0
+183,小学校教諭,ja,Yes,School Teacher,Education DM,Education,Senior,1.0
+184,中学校教諭,ja,Yes,School Teacher,Education DM,Education,Senior,1.0
+185,高校教諭,ja,Yes,School Teacher,Education DM,Education,Senior,1.0
+186,大学教授,ja,Yes,University Professor,Education DM,Education,Senior,1.0
+187,講師,ja,Yes,Lecturer,Education DM,Education,Senior,1.0
+188,図書館司書,ja,Yes,Librarian,Research User,Research,Entry,1.0
+189,学芸員,ja,Yes,Art Curator,Other DM,Other,Senior,1.0
+190,アートディレクター,ja,Yes,Digital Content Manager,,,,1.0
+191,イラストレーター,ja,Yes,Illustrator,Media and Communication User,Media and Communication,Entry,1.0
+192,映像作家,ja,Yes,Production Crew,Media and Communication DM,Media and Communication,Senior,0.85
+193,アニメーター,ja,Yes,Animator,Other DM,Other,Senior,1.0
+194,声優,ja,Yes,Performer,Media and Communication User,Media and Communication,Entry,1.0
+195,演出家,zh-Hans,Yes,Performer,Media and Communication User,Media and Communication,Entry,1.0
+196,舞台俳優,ja,Yes,Performer,Media and Communication User,Media and Communication,Entry,0.9
+197,映画監督,ja,Yes,Digital Art Director,,,,1.0
+198,音楽プロデューサー,ja,Yes,Music Manager,Media and Communication DM,Media and Communication,Manager,0.7
+199,作曲家,ja,Yes,Musician,Media and Communication DM,Media and Communication,Senior,1.0
+>>>>>>> ccbf950506e8e886182ae03718d218eb57e4edd8
