@@ -1,0 +1,49 @@
+Lead ID	Job Title	Language	Valid JT	Job Role	Marketing Audience	Function	Seniority	Confidence Score
+1	　なし	ja	No					
+8	（なし）	ja	No					
+10	(なし)	ja	No					
+11	(個人)	zh-Hant	No					
+16	（無職）	ja	No					
+33	^無職	ja	No					
+36	○	en	No					
+37	00.社員	ja	No					
+41	101 室長	ja	No					
+46	2年9ヶ月	ja	No					
+51	365担当	ja	No					
+88	AI導入推進	ja	No					
+112	AZURE推進	ja	No					
+167	ＣＦＯ	jv	No					
+203	CS事業部	ja	No					
+208	CS調査センター	ja	No					
+226	CV開発	ja	No					
+232	D365FO社内トレーニング 担当	ja	No					
+237	DEI推進	ja	No					
+247	DI部 その他	ja	No					
+248	DISM コマンドの実施のため	ja	No					
+249	DFM部MEIグループ	ja	No					
+277	DXチーム	ja	No					
+288	DX事業部	ja	No					
+310	DX基盤事業本部	ja	No					
+327	DX推進	ja	No					
+329	ＤＸ推進	ja	No					
+332	DX推進センター	ja	No					
+333	DX推進グループ	ja	No					
+342	DX推進室 DX推進グループ	ja	No					
+352	DX推進局	ja	No					
+362	DX推進者	ja	No					
+376	DX本部 IT事業部	ja	No					
+377	DX本部	ja	No					
+387	DX部	zh-Hans	No					
+388	DX関連	ja	No					
+389	DX部門	ja	No					
+422	FAシステム事業本部	ja	No					
+436	GITHUB活用メンバー	ja	No					
+437	GITHUB導入推進	ja	No					
+438	GITHUB TEAM およびGITHUBCOPILOTの解約について	ja	No					
+441	GR長	ja	No					
+446	Ｇ長	ja	No					
+461	ICS事業本部	ja	No					
+472	ICTインフラベンダ	ja	No					
+481	ICTサービス事業部	ja	No					
+486	ICTセンター	ja	No					
+495	ICTソリューション本部 CIS部 一般社員・職員	ja	No					
