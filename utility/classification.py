@@ -82,12 +82,16 @@ class JobTitleClassification:
         User given job title: {job_title}
         Alternate title : {ls_title}
         
+        - If the job title is valid, set "Disposition Reason" to "Pass".
+        - If the job title is invalid, set "Disposition Reason" to a short reason starting with "Invalid - ".
+
         
 
         The final output should be in JSON format, following this structure:
         {{
           "job title": "<corrected or the most suitable job title>",
-          "Status": "<Valid or Invalid>"}}"""
+          "Status": "<Valid or Invalid>",
+          "Disposition Reason": <'Pass' if the job title is valid, or a short reason like 'Invalid - only special characters', 'Invalid - gibberish / not a recognizable role', etc.>}}"""
         response, input_tokens, output_tokens = self.classifier(prompt)
         ans = response['choices'][0]['message']['content'].strip()
         final_dict = ans[ans.find("{"):ans.find("}")+1]

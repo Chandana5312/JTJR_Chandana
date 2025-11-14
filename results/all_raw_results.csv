@@ -1,5 +1,101 @@
-Lead ID,Job Title,Language,Valid JT,Job Role,Marketing Audience,Function,Seniority,Confidence Score
-6,職員,ja,No,,,,,
-19,????????,en,No,,,,,
-18,45678#,en,No,,,,,
-20,ESRDYBFGHUJ,en,No,,,,,
+Lead ID,Job Title,Language,Valid JT,Job Role,Marketing Audience,Function,Seniority,Confidence Score,Disposition Reason
+4,"Individual Contributor/Staff, Marketing/Sales",en,Yes,Sales Specialist,Sales User,Sales,Entry,1.0,Pass
+2,"Owner, Marketing/Sales",en,Yes,Sales Operations Manager,Sales DM,Sales,Manager,0.75,Pass
+3,"Manager, Information Technology",en,Yes,Information Technology Manager,Information Technology DM,Information Technology,Manager,0.95,Pass
+5,"Manager, Accounting and Finance",en,Yes,No suitable match found,,,,0.0,Pass
+1,Senior manager,en,Yes,Cyber Security Analyst,Security User,Security,Entry,0.85,Pass
+6,"Manager, Data/Business Intelligence",en,Yes,Manager Data Management,Data Professional DM,Data Professional,Manager,0.85,Pass
+9,"Manager, Marketing/Sales",en,Yes,Sales Manager,Sales DM,Sales,Manager,0.85,Pass
+7,Supervisor de operaciones,es,Yes,Director of Operations,Operations DM,Operations,Director,0.85,Pass
+8,Professor,en,Yes,Professor,Education DM,Education,Senior,1.0,Pass
+10,Aplication Engineer,en,Yes,Technology Development Engineer,Engineering User,Engineering,Entry,0.85,Pass
+12,"Director, Data/Business Intelligence",en,Yes,No suitable match found,,,,0.0,Pass
+14,"Manager, Operations",en,Yes,Operations Manager,Operations DM,Operations,Manager,0.95,Pass
+15,Data Analyst,en,Yes,Data Analyst,Data Professional User,Data Professional,Entry,1.0,Pass
+13,Field Marketing Manager,en,Yes,Marketing Manager,Marketing DM,Marketing,Manager,0.85,Pass
+11,"Manager, Information Technology",en,Yes,Digital Marketing Manager,Marketing DM,Marketing,Manager,0.85,Pass
+20,Head of Data Science,en,Yes,Director Data Science,Data Professional DM,Data Professional,Director,0.85,Pass
+18,"Manager, Finance",en,Yes,Finance Manager,Accounting and Finance DM,Accounting and Finance,Manager,0.9,Pass
+16,Creative Director,en,Yes,Content Director,Media and Communication DM,Media and Communication,Director,0.8,Pass
+17,"Individual Contributor/Staff, Solutions/Systems Architect",en,Yes,System Architect,Architect DM,Architect,Senior,0.95,Pass
+19,"CXO, Marketing",en,Yes,Chief Marketing Officer,Marketing CXO,Marketing,CXO,1.0,Pass
+24,"Manager, Cybersecurity & Identity/Access Management",en,Yes,Cyber Security Manager,Security DM,Security,Manager,0.85,Pass
+23,"Manager, Infrastructure & Technology Management",en,Yes,Information Technology Manager,Information Technology DM,Information Technology,Manager,0.85,Pass
+22,Vice General Manager,en,Yes,Managing Director,Business Development CXO,Business Development,CXO,0.85,Pass
+21,Senior Packaging Researcher,en,Yes,Packaging Specialist,Supply and Logistics User,Supply and Logistics,Entry,0.85,Pass
+25,"Individual Contributor/Staff, Customer Service/Field Support",en,Yes,Customer Service Manager,Customer Service and Support DM,Customer Service and Support,Manager,0.75,Pass
+30,"Manager, Sales",en,Yes,Sales Manager,Sales DM,Sales,Manager,0.85,Pass
+26,"Director, Engineering",en,Yes,Director of Engineering,Engineering DM,Engineering,Director,1.0,Pass
+29,"CXO, Program and Project Management",en,Yes,Chief Operations Officer,Operations CXO,Operations,CXO,0.95,Pass
+28,"Owner, Chief Officer",en,Yes,Owner,Business Development CXO,Business Development,Owner,0.85,Pass
+27,"Individual Contributor/Staff, Chief Officer",en,Yes,Public Relations Manager,Media and Communication DM,Media and Communication,Manager,0.75,Pass
+32,"Manager, Information Technology",en,Yes,Technology Manager,Information Technology DM,Information Technology,Manager,0.85,Pass
+33,Engineering manager,en,Yes,Engineering Manager,Engineering DM,Engineering,Manager,0.85,Pass
+31,IT Department Manager,en,Yes,Information Technology Manager,Information Technology DM,Information Technology,Manager,0.9,Pass
+34,"Manager, Information Technology",en,Yes,Information Technology Manager,Information Technology DM,Information Technology,Manager,0.95,Pass
+35,"Vice President, Sales",en,Yes,Vice President of Sales,Sales DM,Sales,VP,0.95,Pass
+37,General Manager,en,Yes,Managing Director,Business Development CXO,Business Development,CXO,0.85,Pass
+40,"Associate Director, Global Secuirty",en,Yes,Director of Cyber Security,Security DM,Security,Director,0.85,Pass
+38,Other,en,Yes,Sales Manager,Sales DM,Sales,Manager,0.85,Pass
+39,"Director, Infrastructure & Technology Management",en,Yes,Director of Information Management,Information Technology DM,Information Technology,Director,0.85,Pass
+36,"Entry, Engineering",en,Yes,Information Technology Engineer,Engineering User,Engineering,Entry,0.85,Pass
+45,"Manager, Finance",en,Yes,No suitable match found,,,,0.0,Pass
+41,"Senior, Information Technology",en,Yes,Chief Information Technology Officer,Information Technology CXO,Information Technology,CXO,0.8,Pass
+44,"Individual Contributor/Staff, Operations/Project Management",en,Yes,Financial Analyst,Accounting and Finance User,Accounting and Finance,Entry,0.85,Pass
+42,"Director, Information Technology",en,Yes,Chief Information Officer,Information Technology CXO,Information Technology,CXO,1.0,Pass
+43,"Individual Contributor/Staff, Operations",en,Yes,Professor,Education DM,Education,Senior,0.9,Pass
+47, -,en,No,,,,,,Invalid - special characters
+48,"VP, Marketing",en,Yes,No suitable match found,,,,0.0,Pass
+50,Corporate Planning,en,Yes,No suitable match found,,,,0.0,Pass
+49,"Manager, Other",en,Yes,Planning Manager,Program and Project Management DM,Program and Project Management,Manager,0.85,Pass
+46,"Individual Contributor/Staff, Information Technology",en,Yes,No suitable match found,,,,0.0,Pass
+53,部長代理,ja,No,,,,,,Invalid - not a recognizable professional role
+52,課長クラス,ja,Yes,Manager Project Management,Program and Project Management DM,Program and Project Management,Manager,0.85,Pass
+55,課長クラス,ja,Yes,Sales Manager,Sales DM,Sales,Manager,0.85,Pass
+54,管理職(課長以下),ja,Yes,Project Manager,Program and Project Management DM,Program and Project Management,Manager,1.0,Pass
+51,"Individual Contributor/Staff, Information Technology Support/Manager",en,Yes,Artificial Intelligence Engineer,Data Professional User,Data Professional,Entry,0.85,Pass
+57,一般社員,ja,Yes,Sales Purchasing,Purchasing User,Purchasing,Entry,0.85,Pass
+56,担当部長,ja,Yes,No suitable match found,,,,0.0,Pass
+60,マネジャー,ja,Yes,No suitable match found,,,,0.0,Pass
+58,なし,ja,Yes,Academic Researcher,Research DM,Research,Senior,0.85,Pass
+59,事業部長・拠点長クラス,ja,Yes,Manager Positions,Business Development DM,Business Development,Manager,0.85,Pass
+62,一般社員,ja,Yes,Project Manager,Program and Project Management DM,Program and Project Management,Manager,1.0,Pass
+65,ソフトウェアエンジニア,ja,Yes,Software Engineer,Engineering User,Engineering,Entry,1.0,Pass
+64,一般社員,ja,Yes,Information Technology Engineer,Engineering User,Engineering,Entry,0.85,Pass
+63,執行役員 技術部長,ja,Yes,No suitable match found,,,,0.0,Pass
+61,主任／係長クラス,ja,Yes,Customer Service Specialist,Customer Service and Support User,Customer Service and Support,Entry,0.85,Pass
+66,システムインテグレータ,ja,Yes,System Analyst,Information Technology User,Information Technology,Entry,0.75,Pass
+69,課長_Manager,ja,Yes,Manufacturing Manager,Supply and Logistics DM,Supply and Logistics,Manager,0.85,Pass
+70,なし,ja,Yes,Director of Web Development,Media and Communication DM,Media and Communication,Director,0.85,Pass
+68,ビジネス報道ユニット部次長,ja,Yes,Director of Publications,Media and Communication DM,Media and Communication,Director,0.85,Pass
+67,課長クラス,ja,Yes,Director of Research Development,Research DM,Research,Director,0.85,Pass
+73,常務執行役員,ja,Yes,Managing Director,Business Development CXO,Business Development,CXO,0.85,Pass
+75,課長補,ja,Yes,No suitable match found,,,,0.0,Pass
+72,一般職,ja,Yes,Cloud Architect,Architect DM,Architect,Senior,0.85,Pass
+74,課長,ja,Yes,Account Manager,Sales DM,Sales,Manager,1.0,Pass
+71,課長,ja,Yes,Information Technology Consultant,Information Technology DM,Information Technology,Senior,0.95,Pass
+78,調達,ja,Yes,Procurement Manager,Purchasing DM,Purchasing,Manager,0.85,Pass
+80,ディレクター,ja,Yes,Marketing Product Manager,Marketing DM,Marketing,Manager,0.85,Pass
+79,統括部長,ja,Yes,Director of Business Operations,Operations DM,Operations,Director,0.85,Pass
+77,部品リマン推進本部,ja,Yes,Director of Operations,Operations DM,Operations,Director,0.85,Pass
+76,保守設計,ja,Yes,Director of User Experience,Information Technology DM,Information Technology,Director,0.85,Pass
+84,567890,en,No,,,,,,Invalid - numbers
+85,????????????,en,No,,,,,,Invalid - special characters
+82,##%#tgr,en,No,,,,,,Invalid - gibberish / not a recognizable role
+81,earwgtrqweg,en,No,,,,,,Invalid - gibberish / not a recognizable role
+83,AWSDVG,en,No,,,,,,Invalid - gibberish / not a recognizable role
+88,$%*)$@,en,No,,,,,,Invalid - special characters
+89,??????,en,No,,,,,,Invalid - special characters
+86,&%#&^^,en,No,,,,,,Invalid - special characters
+87,3456789,en,No,,,,,,Invalid - numbers
+90,<>><$#%RGF,en,No,,,,,,Invalid - gibberish / not a recognizable role
+94,🎶🎶👌🤷‍♀️,en,No,,,,,,Invalid - special characters
+91,😊😂😂🤣🤣🤣🤣🤣,en,No,,,,,,Invalid - special characters
+95,�😒,en,No,,,,,,Invalid - special characters
+93,34567,en,No,,,,,,Invalid - numbers
+92,�💕🎶😉😉,en,No,,,,,,Invalid - special characters
+96,😂🤷‍♀️👌😍😘,en,No,,,,,,Invalid - special characters
+98,👌,en,No,,,,,,Invalid - special characters
+99,''''''''''',en,No,,,,,,Invalid - special characters
+97,🎶💕🤦‍♀️😖,en,No,,,,,,Invalid - special characters
+100,%^&*H,fr,No,,,,,,Invalid - gibberish / not a recognizable role

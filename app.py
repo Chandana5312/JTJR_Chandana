@@ -11,10 +11,12 @@ import base64
 import dotenv
 import pandas as pd
 import streamlit as st
-
+import uuid
+import time
+dotenv.load_dotenv()
 from utility.agent import MapperAgent
 
-dotenv.load_dotenv()
+
 
 
 # https://acis.affineanalytics.co.in/assets/images/logo_small.png
@@ -63,10 +65,38 @@ if "df" not in st.session_state:
 if "progress_status" not in st.session_state:
     st.session_state.progress_status = False
 
-# Define upload folder
+# Define upload/results folders (ensure they exist)
 UPLOAD_FOLDER = "uploads"
 os.makedirs(UPLOAD_FOLDER, exist_ok = True)
+RESULTS_FOLDER = "results"
+os.makedirs(RESULTS_FOLDER, exist_ok = True)
 
+def safe_write_csv(df: pd.DataFrame, target_path: str) -> str:
+    """
+    Write CSV safely on Windows:
+    1) write to a unique temp file
+    2) atomically replace target
+    3) if target is locked (PermissionError), write to a timestamped fallback file
+    Returns the actual path written.
+    """
+    base_dir = os.path.dirname(target_path)
+    base_name = os.path.splitext(os.path.basename(target_path))[0]
+    tmp_path = os.path.join(base_dir, f"{base_name}.tmp_{uuid.uuid4().hex}.csv")
+
+    # Ensure folder exists
+    os.makedirs(base_dir, exist_ok=True)
+
+    # Write to temp
+    df.to_csv(tmp_path, index=False)
+
+    # Try atomic replace; if locked, fallback to a new name
+    try:
+        os.replace(tmp_path, target_path)
+        return target_path
+    except PermissionError:
+        fallback = os.path.join(base_dir, f"{base_name}_{int(time.time())}.csv")
+        os.replace(tmp_path, fallback)
+        return fallback
 
 if Certified_flow == "Bulk Mapping":
     # Streamlit UI
@@ -76,39 +106,72 @@ if Certified_flow == "Bulk Mapping":
     button = col1.button("Upload", type = "primary")
 
 
-    if button and uploaded_file is not None and st.session_state.file_path is None:
+    if button and uploaded_file is not None:
+        # reset state so a new upload is always processed
+        st.session_state.progress_status = False
+        st.session_state.processed_results = []
+        st.session_state.df = None
+        st.session_state.file_path = None
+
+        # Save the uploaded file (FIX: set path before write)
         file_name = uploaded_file.name
         st.session_state.file_path = os.path.join(UPLOAD_FOLDER, file_name)
-
-        # Save the uploaded file
         with open(st.session_state.file_path, "wb") as f:
             f.write(uploaded_file.getbuffer())
 
         col1.success(f"File saved successfully: {st.session_state.file_path}")
 
-        # Display the content of the file
-        try:
-            if file_name.endswith(".csv"):
-                st.session_state.df = pd.read_csv(st.session_state.file_path)
-            else:
-                st.session_state.df = pd.read_excel(st.session_state.file_path,
-                                                    sheet_name = "sample_response_data")
+        # Display the content of the file (robust read + sheet fallback)
+        df = None
+        ext = os.path.splitext(file_name)[1].lower()
 
-            # st.write("Preview of the uploaded file:")
-            # st.dataframe(st.session_state.df.head())
+        try:
+            if ext in (".xlsx", ".xls"):
+                # Try to read 'sample_response_data'; fall back to first sheet if absent
+                xls = pd.ExcelFile(st.session_state.file_path)
+                sheet_to_read = "sample_response_data" if "sample_response_data" in xls.sheet_names else xls.sheet_names[0]
+                df = pd.read_excel(xls, sheet_name=sheet_to_read, dtype=str)
+
+            elif ext == ".csv":
+                df = pd.read_csv(st.session_state.file_path, dtype=str)
+            else:
+                st.error(f"Unsupported file type: {ext}. Please upload .xlsx, .xls, or .csv files.")
+                st.stop()
+
         except Exception as e:
             st.error(f"Error reading the file: {e}")
+            st.stop()
+
+        if df is not None:
+            df = df.fillna("")
+            st.session_state.df = df
+        else:
+            st.error("Uploaded file could not be read (no dataframe).")
+            st.stop()
+
+        # Guards before using .columns
+        if "df" not in st.session_state or st.session_state.df is None:
+            st.error("No data found in the uploaded file.")
+            st.stop()
+
+        if st.session_state.df.empty:
+            st.error("The uploaded file is empty.")
+            st.stop()
+
 
         required_columns = {"Lead ID", "jobtitle", "LS Title",
                             "LS Company", "LS Lead Job Functions",
-                            "LS Company Industry", "LS Lead Department"
+                            "LS Company Industry", "LS Lead Department",
+                            "Linkedln Title", "Bing Title", "Country", "Skills"
                             }
 
         print(">>>>>>>> Embedding", os.getenv("AZURE_OPENAI_EMB_MODEL"))
-        missing_columns = required_columns - set(st.session_state.df.columns)
+        df_cols = set([str(c).strip() for c in st.session_state.df.columns])
+        missing_columns = [c for c in required_columns if c not in df_cols]
 
         if missing_columns:
-            st.error(f"Missing columns: {', '.join(missing_columns)}")
+            st.error("The uploaded file is missing the following required columns: " + ", ".join(missing_columns))
+            st.stop()
         else:
             st.success("All required columns are present!")
 
@@ -119,52 +182,162 @@ if Certified_flow == "Bulk Mapping":
         col2.write("Processing rows...")
         progress_bar = col2.progress(0)
         batch_size = 5
-        jobtitle_batches = [st.session_state.df[i:i + batch_size]
+        # FIX: use iloc to avoid label-slicing surprises
+        jobtitle_batches = [st.session_state.df.iloc[i:i + batch_size]
                             for i in range(0, len(st.session_state.df), batch_size)]
+        
+        # def _disp_reason(status):
+        #     s = str(status or "")
+        #     if s.lower().startswith("valid"):
+        #         return "Pass"
+        #     if s.lower().startswith("invalid -"):
+        #         return s  # already includes the reason
+        #     if s.lower().startswith("invalid"):
+        #         return "Invalid - Not a recognizable job title"
+        #     return "Invalid - Unknown"
 
-        # for batch in jobtitle_batches:
+        # df["Disposition Reason"] = df["Status"].apply(_disp_reason)
 
         job_role_agent = MapperAgent()
         st.session_state.processed_results = []
         for i, batch in enumerate(jobtitle_batches):
-            with concurrent.futures.ThreadPoolExecutor(max_workers = 5) as executor:
+            with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
                 futures = {}
-                for index, row in batch.iterrows():
-                    job_entry = ({
-                        col: str(row[col]) if pd.notna(row[col]) else ''
-                        for col in ['Lead ID', 'jobtitle', 'LS Title',
-                                    'LS Company', 'LS Lead Job Functions',
-                                    'LS Company Industry', 'LS Lead Department']
-                    })
 
+                # 1) Submit all jobs in the batch
+                for index, row in batch.iterrows():
+                    job_entry = {
+                        col: str(row[col]) if pd.notna(row[col]) else ''
+                        for col in [
+                            'Lead ID', 'jobtitle', 'LS Title',
+                            'LS Company', 'LS Lead Job Functions',
+                            'LS Company Industry', 'LS Lead Department',
+                            "Linkedln Title", "Bing Title", "Country", "Skills"
+                        ]
+                    }
                     futures[executor.submit(job_role_agent.run, job_entry)] = job_entry
 
+                # 2) Collect results (or errors)
                 for future in concurrent.futures.as_completed(futures):
-                    job_title = futures[future]
+                    job_title = futures[future]  # original job_entry dict
                     try:
-                        result = future.result()  # Get result of the job
-                        st.session_state.processed_results.append(future.result())
+                        result = future.result()  # success
+                        st.session_state.processed_results.append(result)
                         print(f"Job Title: {job_title}, Result: {result}")
                     except Exception as e:
                         print(f"Error processing job title '{job_title}': {e}")
+                        # Append a single fallback error row WITH Disposition Reason
+                        st.session_state.processed_results.append({
+                            "Lead ID": job_title.get("Lead ID", ""),
+                            "input_job_title": job_title.get("jobtitle", ""),
+                            "detected_language": None,
+                            "translated_job_title": None,
+                            "Status": f"Error: {str(e)}",
+                            "matched_standard_role": None,
+                            "seniority": None,
+                            "marketing_audience": None,
+                            "function": None,
+                            "confidence_score": None,
+                            "Disposition Reason": f"Error: {str(e)}",
+                        })
 
-                progress_bar.progress((i + 1) / len(jobtitle_batches)) # text = row.input_job_title
-            st.session_state.progress_status = True
-            print(st.session_state.processed_results)
+                progress_bar.progress((i + 1) / len(jobtitle_batches))
+
+        st.session_state.progress_status = True
+        print(st.session_state.processed_results)
 
     if st.session_state.progress_status:
         st.markdown("**Apply Filters:**")
         df = pd.DataFrame(st.session_state.processed_results)
+
+            # --- Build Disposition Reason for every row ---
+        def _build_disposition(row):
+            # existing value (from error handler etc.)
+            existing = row.get("Disposition Reason")
+            if isinstance(existing, str) and existing.strip():
+                return existing
+
+            status = str(row.get("Status") or "").strip()
+            s = status.lower()
+
+            if s.startswith("valid"):
+                # Any kind of valid status
+                return "Pass"
+
+            if s.startswith("invalid -"):
+                # LLM already returned reason after "Invalid -"
+                return status
+
+            if s.startswith("invalid"):
+                # Generic invalid with no explicit reason
+                return "Invalid - Not a recognizable job title"
+
+            if s.startswith("error"):
+                # Keep the error message as reason
+                return status
+
+            # Fallback for weird or empty statuses
+            return ""
+
+        df["Disposition Reason"] = df.apply(_build_disposition, axis=1)
+
+
+                # --- Ensure Disposition Reason is always populated based on Status ---
+        def _disp_reason_from_status(status):
+            s = str(status or "")
+            sl = s.lower()
+
+            if sl.startswith("valid"):
+                return "Pass"
+
+            # Reason already included, e.g. "Invalid - only special characters"
+            if sl.startswith("invalid -"):
+                return s
+
+            # Generic invalid
+            if sl.startswith("invalid"):
+                return "Invalid - Not a recognizable job title"
+
+            # Errors from processing
+            if sl.startswith("error"):
+                return f"Invalid - Error during processing: {s}"
+
+            if not s or s == "nan":
+                return "Invalid - Unknown (empty status)"
+
+            # Fallback: return whatever text we have
+            return s
+
+        if "Disposition Reason" not in df.columns:
+            df["Disposition Reason"] = df["Status"].apply(_disp_reason_from_status)
+        else:
+            # Fill any missing/empty reasons
+            df["Disposition Reason"] = df.apply(
+                lambda row: row["Disposition Reason"]
+                if str(row["Disposition Reason"]).strip()
+                else _disp_reason_from_status(row["Status"]),
+                axis=1
+            )
+
 
 
 
         col7,col8,col9,col10 = st.columns([1,1,1,1])
         df = df[['Lead ID','input_job_title',"detected_language",
                  "Status","matched_standard_role","marketing_audience",
-                 "function","seniority","confidence_score"]]
+                 "function","seniority","confidence_score","Disposition Reason"]]
         df.rename(columns={"Status": "Valid JT"}, inplace=True)
         df.rename(columns={"detected_language": "Language"}, inplace=True)
         df.rename(columns={"matched_standard_role": "Job Role"}, inplace=True)
+
+        df["Valid JT"] = df["Valid JT"].apply(
+            lambda x: (
+                "Yes" if isinstance(x, str) and x.lower().startswith("valid")
+                else "No" if isinstance(x, str) and (x.lower().startswith("invalid") or x.lower().startswith("error"))
+                else x
+            )
+        )
+
 
 
         # Replace values
@@ -245,13 +418,15 @@ if Certified_flow == "Bulk Mapping":
                                                 "Valid JT", "Marketing Audience", "Function"],
                                     hide_index = True,width = 1800)
 
-        VALIDATED_FILE_PATH  = "results/validated_results.csv"
-        # if not os.path.exists(VALIDATED_FILE_PATH ):
+        # ---- SAFE WRITES (no UI change) ----
+        VALIDATED_FILE_PATH_TARGET  = os.path.join(RESULTS_FOLDER, "validated_results.csv")
+        RAW_FILE_PATH_TARGET        = os.path.join(RESULTS_FOLDER, "all_raw_results.csv")
+
         validated_df = edited_df[edited_df["Certified"].fillna(False)]
-        validated_df.to_csv(VALIDATED_FILE_PATH , index=False)
-        RAW_FILE_PATH  = "results/all_raw_results.csv"
-        # if not os.path.exists(RAW_FILE_PATH ):
-        df_renamed.drop('Certified', axis=1).to_csv(RAW_FILE_PATH , index=False)
+        VALIDATED_FILE_PATH = safe_write_csv(validated_df, VALIDATED_FILE_PATH_TARGET)
+
+        raw_df = df_renamed.drop('Certified', axis=1)
+        RAW_FILE_PATH = safe_write_csv(raw_df, RAW_FILE_PATH_TARGET)
 
         col11, col12, col13 = st.columns([1,1,3])
         with open(RAW_FILE_PATH , "rb") as file:
@@ -269,6 +444,11 @@ else:
     ls_lead_job = col2.text_input('LS Lead Job Functions')
     ls_comapny_industry = col2.text_input('LS Company Industry')
     ls_lead_dept = col2.text_input('LS Lead Department')
+    linkedln_title = col1.text_input('Linkedln Title')
+    bing_title = col2.text_input('Bing Title')
+    country = col1.text_input('Country')
+    skills = col2.text_input('Skills')
+
     button1 = col1.button("Submit", type = "primary")
     col1.divider()
     job_entry  = {}
@@ -281,18 +461,42 @@ else:
         job_entry['LS Company Industry']  = ls_comapny_industry
         job_entry['LS Lead Department'] = ls_lead_dept
         job_entry['Lead ID'] = 0
+        job_entry['Linkedln Title'] = linkedln_title
+        job_entry['Bing Title'] = bing_title
+        job_entry['Country'] = country
+        job_entry['Skills'] = skills
+
 
         st.session_state.result_dict = job_role_agent.run(job_entry)
     if st.session_state.result_dict : ##single mapping including columns
         col1.write("Preview of the JT-JR Mapping:")
         print("the result is ", st.session_state.result_dict)
         st.session_state.result_df = pd.DataFrame([st.session_state.result_dict])
+
+        def _disp_reason_from_status(status):
+            s = str(status or "")
+            sl = s.lower()
+            if sl.startswith("valid"):
+                return "Pass"
+            if sl.startswith("invalid -"):
+                return s
+            if sl.startswith("invalid"):
+                return "Invalid - Not a recognizable job title"
+            if sl.startswith("error"):
+                return f"Invalid - Error during processing: {s}"
+            if not s or s == "nan":
+                return "Invalid - Unknown (empty status)"
+            return s
+
+        st.session_state.result_df["Disposition Reason"] = \
+            st.session_state.result_df["Status"].apply(_disp_reason_from_status)
         st.session_state.result_df = st.session_state.result_df[['input_job_title',
                                                                  "detected_language","Status",
                                                                  "matched_standard_role",
                                                                  "marketing_audience",
                                                                  "function","seniority",
-                                                                 "confidence_score"]]
+                                                                 "confidence_score",
+                                                                 "Disposition Reason"]]
 
         df_renamed = st.session_state.result_df.copy()
 
@@ -311,6 +515,6 @@ else:
         print("the length is ",len(st.session_state.result_df))
         st.data_editor(df_renamed, key = "table_editor", num_rows = "dynamic", 
                         disabled = ["Job Title","Language","Valid JT", ##include new columns for single mapping
-                                    "Job Role", "Function", "Seniority", "Marketing Audience"],
+                                    "Job Role", "Function", "Seniority", "Marketing Audience","Disposition Reason"],
                                     hide_index = True,width = 1800)
         # col1.dataframe(st.session_state.df.head(1),width = 800,height = 50,hide_index = True)

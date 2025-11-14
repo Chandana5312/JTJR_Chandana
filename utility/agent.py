@@ -62,6 +62,16 @@ class MapperAgent():
             total_time_jtc = end_time_jtc-start_time_jtc
 
             job_title_dict["Status"] = class_dict['Status']
+            if class_dict['Status'] == "Valid":
+                # For valid titles, reason is always Pass
+                job_title_dict['Disposition Reason'] = "Pass"
+            else:
+                # For invalid titles, take the LLM's reason if present,
+                # otherwise fall back to a generic message.
+                job_title_dict['Disposition Reason'] = class_dict.get(
+                    "Disposition Reason",
+                    "Invalid - unrecognizable or non-professional job title"
+                )
             job_title_dict["input_tokens_jtc"] = class_dict['input_tokens']
             job_title_dict["output_tokens_jtc"] = class_dict['output_tokens']
             job_title_dict['jt_class_time'] = total_time_jtc
@@ -81,6 +91,11 @@ class MapperAgent():
                     ls_job_functions_lang, ls_job_functions_tr = self.translator.detect_and_translate(job_entry['LS Lead Job Functions']) if pd.notna(job_entry['LS Lead Job Functions']) else ''
                     ls_company_industry_lang, ls_company_industry_tr = self.translator.detect_and_translate(job_entry['LS Company Industry']) if pd.notna(job_entry['LS Company Industry']) else ''
                     ls_lead_department_lang, ls_lead_department_tr = self.translator.detect_and_translate(job_entry['LS Lead Department']) if pd.notna(job_entry['LS Lead Department']) else ''
+                    linkedln_title_lang, linkedln_title_tr = self.translator.detect_and_translate(job_entry['Linkedln Title']) if ('Linkedln Title' in job_entry and pd.notna(job_entry['Linkedln Title']) and str(job_entry['Linkedln Title']).strip() != '') else ('en','')
+                    bing_title_lang, bing_title_tr = self.translator.detect_and_translate(job_entry['Bing Title']) if ('Bing Title' in job_entry and pd.notna(job_entry['Bing Title']) and str(job_entry['Bing Title']).strip() != '') else ('en','')
+                    country_lang, country_tr = self.translator.detect_and_translate(job_entry['Country']) if ('Country' in job_entry and pd.notna(job_entry['Country']) and str(job_entry['Country']).strip() != '') else ('en','')
+                    skills_lang, skills_tr = self.translator.detect_and_translate(job_entry['Skills']) if ('Skills' in job_entry and pd.notna(job_entry['Skills']) and str(job_entry['Skills']).strip() != '') else ('en','')
+
                     print("Step 3 B:: Translations completed...", )
 
                 except Exception as e:
@@ -92,6 +107,11 @@ class MapperAgent():
                 class_dict['LS Job Functions'] = ls_job_functions_tr
                 class_dict['LS Company Industry'] = ls_company_industry_tr
                 class_dict['LS Lead Department'] = ls_lead_department_tr
+                class_dict['Linkedln Title'] = linkedln_title_tr if linkedln_title_tr else job_entry.get('Linkedln Title','')
+                class_dict['Bing Title']     = bing_title_tr if bing_title_tr else job_entry.get('Bing Title','')
+                class_dict['Country']        = country_tr if country_tr else job_entry.get('Country','')
+                class_dict['Skills']         = skills_tr if skills_tr else job_entry.get('Skills','')
+
 
                 print("Class_dict: ", class_dict)
 
@@ -99,6 +119,10 @@ class MapperAgent():
                 job_title_dict['LS Job Functions'] = ls_job_functions_tr
                 job_title_dict['LS Company Industry'] = ls_company_industry_tr
                 job_title_dict['LS Lead Department'] = ls_lead_department_tr
+                job_title_dict['Linkedln Title'] = class_dict['Linkedln Title']
+                job_title_dict['Bing Title']     = class_dict['Bing Title']
+                job_title_dict['Country']        = class_dict['Country']
+                job_title_dict['Skills']         = class_dict['Skills']
 
                 start_time_jtd = time.time()
                 description, input_tokens1, output_tokens1 = self.job_role_finder.generate_description(class_dict)
@@ -180,8 +204,23 @@ class MapperAgent():
                 return job_title_dict
         else:
             print("-------------------------------Step 2 B ----------------------------------------------------")
-            print("Step 2 B :: Invalid - only special characters")
-            job_title_dict['Status'] = 'Invalid - only special characters'
+            print("Step 2 B :: Invalid - special characters")
+            job_title_dict['Status'] = 'Invalid - special characters'
+
+            # job_title_dict['translated_job_title'] = translated_title
+            # job_title_dict['jt_trans_time'] = trans_time
+
+                        # Determine the exact invalid reason based on content flags
+            if only_special_chars or (not contains_alpha and not only_numbers):
+                job_title_dict["Status"] = "Invalid - special characters"
+                job_title_dict["Disposition Reason"] = "Invalid -special characters"  
+            elif only_numbers:
+                job_title_dict["Status"] = "Invalid - numbers"
+                job_title_dict["Disposition Reason"] = "Invalid - numbers"  
+            else:
+                job_title_dict["Status"] = "Invalid"
+                job_title_dict["Disposition Reason"] = "Invalid"  
+
             job_title_dict['TOP N'] = None
             job_title_dict['job_title_desc'] = None
             job_title_dict["emd_tokens_desc"] = 0
@@ -200,4 +239,5 @@ class MapperAgent():
             job_title_dict['jt_desc_time'] = 0
             job_title_dict['jt_Search_time'] = 0
             job_title_dict['jt_best_match_time'] = 0
+            job_title_dict['Disposition Reason'] = None
             return job_title_dict

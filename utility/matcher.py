@@ -22,9 +22,25 @@ class BestJobRoleFinder():
         ls_company_industry = f"\nCompany Industry: {job_entry['LS Company Industry']}." if len(job_entry['LS Company Industry']) > 1 else ""
         ls_lead_department = f"\nDepartment: {job_entry['LS Lead Department']}." if len(job_entry['LS Lead Department']) > 1 else ""
 
-        combined_text = f"Job Title: {job_title}. {ls_job_title}. {ls_company} {ls_job_functions} {ls_company_industry} {ls_lead_department}"
+       
+        ln_title = job_entry.get('Linkedln Title', '')
+        ln_line = f"\nAlternate Title (LinkedIn): {ln_title}." if len(ln_title) > 1 else ""
 
-        ## INCLUDE LS PROMPT
+        bing_title = job_entry.get('Bing Title', '')
+        bing_line = f"\nAlternate Title (Bing): {bing_title}." if len(bing_title) > 1 else ""
+
+        country = job_entry.get('Country', '')
+        country_line = f"\nCountry: {country}." if len(country) > 1 else ""
+
+        skills = job_entry.get('Skills', '')
+        skills_line = f"\nSkills: {skills}." if len(skills) > 1 else ""
+
+        combined_text = (
+            f"Job Title: {job_title}. {ls_job_title}."
+            f" {ls_company} {ls_job_functions} {ls_company_industry} {ls_lead_department}"
+            f"{ln_line}{bing_line}{country_line}{skills_line}"
+        )
+
         headers = {
             "Content-Type": "application/json",
             "api-key": os.getenv("AZURE_OPENAI_API_KEY"),
@@ -32,9 +48,13 @@ class BestJobRoleFinder():
         data = {
             "model": os.getenv("AZURE_OPENAI_GPT_MODEL"),
             "messages": [
-                {"role": "user", "content": f"""Generate a list of key responsibilities for the job role, focusing solely on the main tasks and functions. Do not include any information about the company, location, or qualifications. Provide the response in a paragraph format. Be consice and accurate. If the role does not make sense, provide response accordingly saying the word or role does not makes sense. \n{combined_text}"""}
+                {"role": "user", "content":
+                f"""Generate a list of key responsibilities for the job role, focusing solely on the main tasks and functions. 
+    Do not include any information about the company, location, or qualifications. Provide the response in a paragraph format. 
+    Be consice and accurate. If the role does not make sense, provide response accordingly saying the word or role does not makes sense. 
+    \n{combined_text}"""}
             ],
-            "temperature":0.01
+            "temperature": 0.01
         }
 
         response = requests.post(
@@ -42,7 +62,6 @@ class BestJobRoleFinder():
             headers=headers,
             json=data
         )
-
         response_data = response.json()
 
         description = response_data['choices'][0]['message']['content'].strip()
@@ -50,6 +69,7 @@ class BestJobRoleFinder():
         output_tokens = response_data['usage']['completion_tokens']
 
         return description, input_tokens, output_tokens
+
 
 
     def get_best_job_role(self,job_entry,top_n_jr_list):

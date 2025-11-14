@@ -18,14 +18,18 @@ class SearchAgent():
                              credential=self.azure_search_credential)
 
     # cl100k_base
-    def count_tokens(self,text, model_name=os.getenv("AZURE_OPENAI_EMB_MODEL")):
-        print("the model name", model_name)  # Adjust model name if needed
+    def count_tokens(self, text, model_name=os.getenv("AZURE_OPENAI_EMB_MODEL")):
+            print("the model name", model_name)
 
-        encoding = tiktoken.encoding_for_model(model_name)
+            if not model_name or model_name.strip() == "":
+                # Fallback to a known-safe default model name for token counting
+                model_name = "cl100k_base"
+                print(" AZURE_OPENAI_EMB_MODEL missing — using default cl100k_base")
 
-        token_list = encoding.encode(text)
+            encoding = tiktoken.encoding_for_model(model_name)
+            token_list = encoding.encode(text)
+            return len(token_list)
 
-        return len(token_list)
 
 
     def get_text_embeddings(self,text: str):
@@ -40,6 +44,10 @@ class SearchAgent():
         """
         embedding_input_tokens=self.count_tokens(text)
         # Initialize the Azure OpenAI embedding model with specified parameters
+        emb_model = os.getenv("AZURE_OPENAI_EMB_MODEL")
+        if not emb_model:
+            emb_model = "text-embedding-ada-002"
+            print("Embedding model missing — using fallback 'text-embedding-ada-002'")
         embedding_model = AzureOpenAIEmbeddings(
             model=os.getenv('AZURE_OPENAI_EMB_MODEL'),  # Model name
             dimensions=1536,  # Number of dimensions for the embeddings
